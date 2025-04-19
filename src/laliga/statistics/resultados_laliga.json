@@ -1,0 +1,842 @@
+[
+    {
+        "Rodada": "RODADA 32",
+        "Data e Hora": "18.04. 16:00",
+        "Time da Casa": "Espanyol",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "14.04. 16:00",
+        "Time da Casa": "Atl. Madrid",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "4",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "13.04. 16:00",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Rayo Vallecano",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "13.04. 13:30",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Villarreal",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "13.04. 11:15",
+        "Time da Casa": "Alavés",
+        "Time Visitante": "Real Madrid",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "13.04. 09:00",
+        "Time da Casa": "Osasuna",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "12.04. 16:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Barcelona",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "12.04. 13:30",
+        "Time da Casa": "Celta de Vigo",
+        "Time Visitante": "Espanyol",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "12.04. 11:15",
+        "Time da Casa": "Getafe",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "12.04. 09:00",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Mallorca",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 31",
+        "Data e Hora": "11.04. 16:00",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "07.04. 16:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Osasuna",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "06.04. 16:00",
+        "Time da Casa": "Villarreal",
+        "Time Visitante": "Ath. Bilbao",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "06.04. 13:30",
+        "Time da Casa": "Valladolid",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "4"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "06.04. 11:15",
+        "Time da Casa": "Sevilla",
+        "Time Visitante": "Atl. Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "06.04. 09:00",
+        "Time da Casa": "Las Palmas",
+        "Time Visitante": "Real Sociedad",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "05.04. 16:00",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Bétis",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "05.04. 13:30",
+        "Time da Casa": "Mallorca",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "05.04. 11:15",
+        "Time da Casa": "Real Madrid",
+        "Time Visitante": "Valencia",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "05.04. 09:00",
+        "Time da Casa": "Girona",
+        "Time Visitante": "Alavés",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 30",
+        "Data e Hora": "04.04. 16:00",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Espanyol",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "4"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "31.03. 16:00",
+        "Time da Casa": "Celta de Vigo",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "30.03. 16:00",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "30.03. 13:30",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Osasuna",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "30.03. 13:30",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Mallorca",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "30.03. 11:15",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "4",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "30.03. 09:00",
+        "Time da Casa": "Getafe",
+        "Time Visitante": "Villarreal",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "29.03. 17:00",
+        "Time da Casa": "Real Madrid",
+        "Time Visitante": "Leganés",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "29.03. 14:30",
+        "Time da Casa": "Alavés",
+        "Time Visitante": "Rayo Vallecano",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "29.03. 12:15",
+        "Time da Casa": "Espanyol",
+        "Time Visitante": "Atl. Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 29",
+        "Data e Hora": "29.03. 10:00",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "27.03. 17:00",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Osasuna",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "16.03. 17:00",
+        "Time da Casa": "Atl. Madrid",
+        "Time Visitante": "Barcelona",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "4"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "16.03. 14:30",
+        "Time da Casa": "Osasuna",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "16.03. 14:30",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Real Sociedad",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "16.03. 12:15",
+        "Time da Casa": "Sevilla",
+        "Time Visitante": "Ath. Bilbao",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "16.03. 10:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Bétis",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "15.03. 17:00",
+        "Time da Casa": "Girona",
+        "Time Visitante": "Valencia",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "15.03. 14:30",
+        "Time da Casa": "Villarreal",
+        "Time Visitante": "Real Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "15.03. 12:15",
+        "Time da Casa": "Mallorca",
+        "Time Visitante": "Espanyol",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "15.03. 10:00",
+        "Time da Casa": "Valladolid",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 28",
+        "Data e Hora": "14.03. 17:00",
+        "Time da Casa": "Las Palmas",
+        "Time Visitante": "Alavés",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "10.03. 17:00",
+        "Time da Casa": "Espanyol",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "09.03. 17:00",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "09.03. 14:30",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Mallorca",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "09.03. 14:30",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "09.03. 12:15",
+        "Time da Casa": "Real Madrid",
+        "Time Visitante": "Rayo Vallecano",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "09.03. 10:00",
+        "Time da Casa": "Getafe",
+        "Time Visitante": "Atl. Madrid",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "08.03. 14:30",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "08.03. 12:15",
+        "Time da Casa": "Alavés\n2",
+        "Time Visitante": "Villarreal",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 27",
+        "Data e Hora": "08.03. 10:00",
+        "Time da Casa": "Celta de Vigo",
+        "Time Visitante": "Leganés",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "02.03. 17:00",
+        "Time da Casa": "Osasuna",
+        "Time Visitante": "Valencia",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "02.03. 14:30",
+        "Time da Casa": "Mallorca",
+        "Time Visitante": "Alavés",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "02.03. 12:15",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Real Sociedad",
+        "Placar da Casa": "4",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "02.03. 10:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "01.03. 17:00",
+        "Time da Casa": "Atl. Madrid",
+        "Time Visitante": "Ath. Bilbao",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "01.03. 14:30",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Real Madrid",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "01.03. 12:15",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "01.03. 10:00",
+        "Time da Casa": "Girona",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 26",
+        "Data e Hora": "28.02. 17:00",
+        "Time da Casa": "Valladolid",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "24.02. 17:00",
+        "Time da Casa": "Sevilla",
+        "Time Visitante": "Mallorca",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "23.02. 17:00",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Leganés",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "23.02. 14:30",
+        "Time da Casa": "Getafe",
+        "Time Visitante": "Bétis",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "23.02. 12:15",
+        "Time da Casa": "Real Madrid",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "23.02. 10:00",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "7",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "22.02. 17:00",
+        "Time da Casa": "Las Palmas",
+        "Time Visitante": "Barcelona",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "22.02. 14:30",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Atl. Madrid",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "22.02. 12:15",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Villarreal",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "22.02. 10:00",
+        "Time da Casa": "Alavés",
+        "Time Visitante": "Espanyol",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 25",
+        "Data e Hora": "21.02. 17:00",
+        "Time da Casa": "Celta de Vigo",
+        "Time Visitante": "Osasuna",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "17.02. 17:00",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Rayo Vallecano",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "16.02. 17:00",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Real Sociedad",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "16.02. 14:30",
+        "Time da Casa": "Mallorca",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "16.02. 12:15",
+        "Time da Casa": "Valladolid",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "4"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "16.02. 10:00",
+        "Time da Casa": "Espanyol",
+        "Time Visitante": "Ath. Bilbao",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "15.02. 17:00",
+        "Time da Casa": "Villarreal",
+        "Time Visitante": "Valencia",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "15.02. 14:30",
+        "Time da Casa": "Atl. Madrid",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "15.02. 12:15",
+        "Time da Casa": "Osasuna",
+        "Time Visitante": "Real Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "15.02. 10:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Alavés",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 24",
+        "Data e Hora": "14.02. 17:00",
+        "Time da Casa": "Girona",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "10.02. 17:00",
+        "Time da Casa": "Mallorca",
+        "Time Visitante": "Osasuna",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "09.02. 17:00",
+        "Time da Casa": "Sevilla",
+        "Time Visitante": "Barcelona",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "4"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "09.02. 14:30",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Espanyol",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "09.02. 12:15",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Leganés",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "09.02. 10:00",
+        "Time da Casa": "Alavés",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "08.02. 17:00",
+        "Time da Casa": "Real Madrid",
+        "Time Visitante": "Atl. Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "08.02. 14:30",
+        "Time da Casa": "Las Palmas",
+        "Time Visitante": "Villarreal",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "08.02. 12:15",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "08.02. 10:00",
+        "Time da Casa": "Celta de Vigo",
+        "Time Visitante": "Bétis",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 23",
+        "Data e Hora": "07.02. 17:00",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "03.02. 17:00",
+        "Time da Casa": "Girona",
+        "Time Visitante": "Las Palmas",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "02.02. 17:00",
+        "Time da Casa": "Bétis",
+        "Time Visitante": "Ath. Bilbao",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "02.02. 14:30",
+        "Time da Casa": "Osasuna",
+        "Time Visitante": "Real Sociedad",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "02.02. 12:15",
+        "Time da Casa": "Valencia",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "02.02. 10:00",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Alavés",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "01.02. 17:00",
+        "Time da Casa": "Espanyol",
+        "Time Visitante": "Real Madrid",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "01.02. 14:30",
+        "Time da Casa": "Atl. Madrid",
+        "Time Visitante": "Mallorca",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "01.02. 12:15",
+        "Time da Casa": "Villarreal",
+        "Time Visitante": "Valladolid",
+        "Placar da Casa": "5",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "01.02. 10:00",
+        "Time da Casa": "Getafe",
+        "Time Visitante": "Sevilla",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 22",
+        "Data e Hora": "31.01. 17:00",
+        "Time da Casa": "Leganés",
+        "Time Visitante": "Rayo Vallecano",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 21",
+        "Data e Hora": "27.01. 17:00",
+        "Time da Casa": "Alavés",
+        "Time Visitante": "Celta de Vigo",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 21",
+        "Data e Hora": "26.01. 17:00",
+        "Time da Casa": "Barcelona",
+        "Time Visitante": "Valencia",
+        "Placar da Casa": "7",
+        "Placar do Visitante": "1"
+    },
+    {
+        "Rodada": "RODADA 21",
+        "Data e Hora": "26.01. 14:30",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Leganés",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0"
+    },
+    {
+        "Rodada": "RODADA 21",
+        "Data e Hora": "26.01. 12:15",
+        "Time da Casa": "Real Sociedad",
+        "Time Visitante": "Getafe",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "3"
+    },
+    {
+        "Rodada": "RODADA 21",
+        "Data e Hora": "26.01. 10:00",
+        "Time da Casa": "Rayo Vallecano",
+        "Time Visitante": "Girona",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1"
+    }
+]
