@@ -94,7 +94,7 @@ for registro in data:
 #     print(f"{chave}: {valor}")
 
 try:
-    with open(f'src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
+    with open(f'data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     print(f'Dados salvo em: src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json')
 except Exception as e:
