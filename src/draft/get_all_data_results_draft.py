@@ -52,11 +52,11 @@ for el in elements:
     elif "event__match" in class_list:
         try:
             date_time_raw = el.find_element(By.CLASS_NAME, "event__time").text.strip()
-            home_team = el.find_element(By.CLASS_NAME, "event__homeParticipant")
+            home_team = el.find_element(By.CLASS_NAME, "event__homeParticipant").text.strip()
             away_team = el.find_element(By.CLASS_NAME, "event__awayParticipant").text.strip()
             home_score = el.find_element(By.CLASS_NAME, "event__score--home").text.strip()
             away_score = el.find_element(By.CLASS_NAME, "event__score--away").text.strip()
-            nome_campeonato = campeonato
+
             # como nao retorna o ano da partida, preciso fazer uma logica para considerar se a partida foi noano atual ou anterior, isso por causa dos jogos europeus, mas na proxima temporada nao é necessario essa logica, é só retornar o ano atual.
             dia_mes = date_time_raw.split()[0].rstrip('.')
             mes = int(dia_mes.split('.')[1])         
@@ -70,7 +70,7 @@ for el in elements:
             data_final = datetime.strptime(data_completa, "%d.%m.%Y").strftime("%d/%m/%Y")
 
             data.append({
-                "Campeonato": nome_campeonato,
+                "Campeonato": campeonato,
                 "Temporada": season,
                 "Rodada": current_round,
                 "Data": data_final,
@@ -93,11 +93,11 @@ for registro in data:
 # for chave, valor in data.items():
 #     print(f"{chave}: {valor}")
 
-try:
-    with open(f'data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f'Dados salvo em: src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json')
-except Exception as e:
-    print("Erro ao salvar:", e)
+# try:
+#     with open(f'data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
+#         json.dump(data, f, ensure_ascii=False, indent=4)
+#     print(f'Dados salvo em: src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json')
+# except Exception as e:
+#     print("Erro ao salvar:", e)
 
 driver.quit()

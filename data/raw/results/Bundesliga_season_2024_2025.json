@@ -3,6 +3,18 @@
         "Campeonato": "Bundesliga",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
+        "Data": "20/04/2025",
+        "Hora": "10:30",
+        "Time da Casa": "Augsburg",
+        "Time Visitante": "Frankfurt",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0",
+        "id": "Augsburg_vs_Frankfurt_20/04/2025"
+    },
+    {
+        "Campeonato": "Bundesliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 30",
         "Data": "19/04/2025",
         "Hora": "13:30",
         "Time da Casa": "Union Berlin",
@@ -3202,5 +3214,17 @@
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
         "id": "Monchengladbach_vs_Leverkusen_23/08/2024"
+    },
+    {
+        "Campeonato": "Bundesliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 30",
+        "Data": "20/04/2025",
+        "Hora": "12:30",
+        "Time da Casa": "Dortmund",
+        "Time Visitante": "Monchengladbach",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "2",
+        "id": "Dortmund_vs_Monchengladbach_20/04/2025"
     }
 ]

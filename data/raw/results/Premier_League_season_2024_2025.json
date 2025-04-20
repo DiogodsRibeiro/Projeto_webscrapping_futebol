@@ -3,6 +3,42 @@
         "Campeonato": "Premier League",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
+        "Data": "20/04/2025",
+        "Hora": "10:00",
+        "Time da Casa": "Fulham",
+        "Time Visitante": "Chelsea",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2",
+        "id": "Fulham_vs_Chelsea_20/04/2025"
+    },
+    {
+        "Campeonato": "Premier League",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "20/04/2025",
+        "Hora": "10:00",
+        "Time da Casa": "Ipswich",
+        "Time Visitante": "Arsenal",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "4",
+        "id": "Ipswich_vs_Arsenal_20/04/2025"
+    },
+    {
+        "Campeonato": "Premier League",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "20/04/2025",
+        "Hora": "10:00",
+        "Time da Casa": "Manchester Utd",
+        "Time Visitante": "Wolverhampton",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1",
+        "id": "ManchesterUtd_vs_Wolverhampton_20/04/2025"
+    },
+    {
+        "Campeonato": "Premier League",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
         "Data": "19/04/2025",
         "Hora": "13:30",
         "Time da Casa": "Aston Villa",
@@ -3898,5 +3934,17 @@
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
         "id": "ManchesterUtd_vs_Fulham_16/08/2024"
+    },
+    {
+        "Campeonato": "Premier League",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "20/04/2025",
+        "Hora": "12:30",
+        "Time da Casa": "Leicester",
+        "Time Visitante": "Liverpool",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "1",
+        "id": "Leicester_vs_Liverpool_20/04/2025"
     }
 ]

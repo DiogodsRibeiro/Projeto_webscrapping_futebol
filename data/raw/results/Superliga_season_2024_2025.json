@@ -2,6 +2,18 @@
     {
         "Campeonato": "Superliga",
         "Temporada": "2024/2025",
+        "Rodada": "RODADA 27",
+        "Data": "20/04/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Aalborg",
+        "Time Visitante": "Sonderjyske",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "3",
+        "id": "Aalborg_vs_Sonderjyske_20/04/2025"
+    },
+    {
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
         "Data": "18/04/2025",
         "Hora": "14:00",

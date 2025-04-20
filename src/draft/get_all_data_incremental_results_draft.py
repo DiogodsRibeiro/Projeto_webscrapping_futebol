@@ -1,3 +1,4 @@
+import requests
 import json
 import os
 import re
@@ -116,26 +117,37 @@ def carga_incremental():
     ano_atual = datetime.now().year
     
     for url_resultado in urls:
-        print(f"\nProcessando: {url_resultado}")
-        dados_partida, campeonato, season = extrair_dados(url_resultado, ano_atual)
-        
-        nome_liga_formatado = limpar_nome_arquivo(campeonato)
-        nome_arquivo = f'data/raw/results/{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
+        try:
+            print(f"\nProcessando: {url_resultado}")
+            dados_partida, campeonato, season = extrair_dados(url_resultado, ano_atual)
+            
+            nome_liga_formatado = limpar_nome_arquivo(campeonato)
+            nome_arquivo = f'data/raw/results/{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
 
-        # Lê os dados existentes se o arquivo existir
-        dados_existentes = []
-        if os.path.exists(nome_arquivo):
-            with open(nome_arquivo, "r", encoding="utf-8") as f:
-                dados_existentes = json.load(f)
-        
-        # Filtra apenas os dados novos
-        ids_existentes = {d['id'] for d in dados_existentes}
-        dados_novos = [d for d in dados_partida if d['id'] not in ids_existentes]
+            # Lê dados existentes (se o arquivo já existe)
+            dados_existentes = []
+            if os.path.exists(nome_arquivo):
+                with open(nome_arquivo, "r", encoding="utf-8") as f:
+                    dados_existentes = json.load(f)
+            
+            # Filtra apenas dados novos
+            ids_existentes = {d['id'] for d in dados_existentes}
+            dados_novos = [d for d in dados_partida if d['id'] not in ids_existentes]
 
-        # Atualiza o arquivo apenas se houver dados novos
-        if dados_novos:
-            with open(nome_arquivo, "w", encoding="utf-8") as f:
-                json.dump(dados_existentes + dados_novos, f, ensure_ascii=False, indent=4)
-            print(f"{len(dados_novos)} jogos novos adicionados em: {nome_arquivo}")
-        else:
-            print(f'Nenhum dado novo encontrado para esta liga {campeonato}.')
+            # Atualiza o arquivo se houver dados novos
+            if dados_novos:
+                with open(nome_arquivo, "w", encoding="utf-8") as f:
+                    json.dump(dados_existentes + dados_novos, f, ensure_ascii=False, indent=4)
+                print(f"{len(dados_novos)} jogos novos adicionados em: {nome_arquivo}")
+            else:
+                print(f"ℹNenhum dado novo para {campeonato}.")
+
+        except requests.exceptions.RequestException as e:
+            print(f"Erro de rede em {url_resultado}: {e}. Pulando...")
+            continue
+        except json.JSONDecodeError as e:
+            print(f"Erro ao decodificar JSON em {url_resultado}: {e}. Pulando...")
+            continue
+        except Exception as e:
+            print(f"Erro inesperado em {url_resultado}: {e}. Pulando...")
+            continue

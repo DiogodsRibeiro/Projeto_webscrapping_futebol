@@ -2,6 +2,42 @@
     {
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
+        "Rodada": "RODADA 1",
+        "Data": "29/03/2025",
+        "Hora": "18:30",
+        "Time da Casa": "Cruzeiro",
+        "Time Visitante": "Mirassol",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1",
+        "id": "Cruzeiro_vs_Mirassol_29/03/2025"
+    },
+    {
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 1",
+        "Data": "29/03/2025",
+        "Hora": "18:30",
+        "Time da Casa": "São Paulo",
+        "Time Visitante": "Sport",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0",
+        "id": "SãoPaulo_vs_Sport_29/03/2025"
+    },
+    {
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 5",
+        "Data": "20/04/2025",
+        "Hora": "11:00",
+        "Time da Casa": "Juventude",
+        "Time Visitante": "Mirassol",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2",
+        "id": "Juventude_vs_Mirassol_20/04/2025"
+    },
+    {
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
         "Rodada": "RODADA 5",
         "Data": "19/04/2025",
         "Hora": "21:00",
@@ -461,18 +497,6 @@
         "Rodada": "RODADA 1",
         "Data": "29/03/2025",
         "Hora": "18:30",
-        "Time da Casa": "Cruzeiro",
-        "Time Visitante": "Mirassol",
-        "Placar da Casa": "2",
-        "Placar do Visitante": "1",
-        "id": "Cruzeiro_vs_Mirassol_29/03/2025"
-    },
-    {
-        "Campeonato": "Brasileirão Betano",
-        "Temporada": "2025",
-        "Rodada": "RODADA 1",
-        "Data": "29/03/2025",
-        "Hora": "18:30",
         "Time da Casa": "Fortaleza",
         "Time Visitante": "Fluminense",
         "Placar da Casa": "2",
@@ -502,17 +526,5 @@
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
         "id": "Juventude_vs_Vitória_29/03/2025"
-    },
-    {
-        "Campeonato": "Brasileirão Betano",
-        "Temporada": "2025",
-        "Rodada": "RODADA 1",
-        "Data": "29/03/2025",
-        "Hora": "18:30",
-        "Time da Casa": "São Paulo",
-        "Time Visitante": "Sport",
-        "Placar da Casa": "0",
-        "Placar do Visitante": "0",
-        "id": "SãoPaulo_vs_Sport_29/03/2025"
     }
 ]
