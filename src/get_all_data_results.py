@@ -29,7 +29,9 @@ while True:
 
 season = driver.find_element(By.CLASS_NAME, "heading__info").text.strip()
 
-campeonato = driver.find_element(By.CLASS_NAME, "heading__title")
+campeonato = driver.find_element(By.CLASS_NAME, "heading__title")\
+                   .find_element(By.CLASS_NAME, "heading__name").text.strip()
+
 
 leagues = driver.find_element(By.CLASS_NAME, "container__fsbody") \
                 .find_element(By.ID, "live-table") \
@@ -54,7 +56,7 @@ for el in elements:
             away_team = el.find_element(By.CLASS_NAME, "event__awayParticipant").text.strip()
             home_score = el.find_element(By.CLASS_NAME, "event__score--home").text.strip()
             away_score = el.find_element(By.CLASS_NAME, "event__score--away").text.strip()
-            nome_campeonato = campeonato.find_element(By.CLASS_NAME, "heading__name").text.strip()
+            nome_campeonato = campeonato
             # como nao retorna o ano da partida, preciso fazer uma logica para considerar se a partida foi noano atual ou anterior, isso por causa dos jogos europeus, mas na proxima temporada nao é necessario essa logica, é só retornar o ano atual.
             dia_mes = date_time_raw.split()[0].rstrip('.')
             mes = int(dia_mes.split('.')[1])         
@@ -77,9 +79,7 @@ for el in elements:
                 "Time Visitante": away_team,
                 "Placar da Casa": home_score,
                 "Placar do Visitante": away_score,
-                "id": f"{home_team}_vs_{away_team}_{data_final}".replace(" ",""),
-                "Mes": mes,
-                "mesAtual": mes_atual
+                "id": f"{home_team}_vs_{away_team}_{data_final}".replace(" ","")
             })
 
         except Exception as e:
@@ -93,9 +93,11 @@ for registro in data:
 # for chave, valor in data.items():
 #     print(f"{chave}: {valor}")
 
-# with open(f'laliga/statistics/resultados_laliga_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
-#     json.dump(data, f, ensure_ascii=False, indent=4)
-
-# print(f'Dados salvos em laliga/statistics/resultados_laliga_season_{season.replace("/", "_")}.json com sucesso!')
+try:
+    with open(f'src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json', "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f'Dados salvo em: src/data/raw/results/{campeonato}_season_{season.replace("/", "_")}.json')
+except Exception as e:
+    print("Erro ao salvar:", e)
 
 driver.quit()
