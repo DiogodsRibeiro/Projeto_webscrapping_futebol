@@ -10,8 +10,6 @@ import time
 from datetime import datetime
 from selenium.common.exceptions import NoSuchElementException
 
-OUTPUT = "data/raw/results/"
-
 # Função para limpar o nome do arquivo
 def limpar_nome_arquivo(nome):
     nome_sem_acentos = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
@@ -100,18 +98,28 @@ with open("data/json/all_url.json", "r", encoding="utf-8") as f:
     config = json.load(f)
     urls = [url.replace("{endpoint}", "resultados") for url in config["urls"]]
 
-def carga_bruta():
+def carga_incremental():
     ano_atual = datetime.now().year
-
+    
     for url_resultado in urls:
         print(f"\nProcessando: {url_resultado}")
         dados_partida, campeonato, season, nacionalidade = extrair_dados(url_resultado, ano_atual)
-
+        
         nome_liga_formatado = limpar_nome_arquivo(campeonato)
         nome_origem_formatado = limpar_nome_arquivo(nacionalidade)
-        nome_arquivo = f'{OUTPUT}{nome_origem_formatado.lower()}_{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
+        nome_arquivo = f'data/raw/results/{nome_origem_formatado.lower()}_{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
 
-        with open(nome_arquivo, "w", encoding="utf-8") as f:
-            json.dump(dados_partida, f, ensure_ascii=False, indent=4)
+        dados_existentes = []
+        if os.path.exists(nome_arquivo):
+            with open(nome_arquivo, "r", encoding="utf-8") as f:
+                dados_existentes = json.load(f)
+        
+        ids_existentes = {d['id'] for d in dados_existentes}
+        dados_novos = [d for d in dados_partida if d['id'] not in ids_existentes]
 
-        print(f"{len(dados_partida)} jogos salvos em: {nome_arquivo}")
+        if dados_novos:
+            with open(nome_arquivo, "w", encoding="utf-8") as f:
+                json.dump(dados_existentes + dados_novos, f, ensure_ascii=False, indent=4)
+            print(f"{len(dados_novos)} jogos novos adicionados em: {nome_arquivo}")
+        else:
+            print(f'Nenhum dado novo encontrado para esta liga {campeonato}.')

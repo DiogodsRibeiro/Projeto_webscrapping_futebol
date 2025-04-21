@@ -6,7 +6,7 @@ import time
 import re
 
 driver = webdriver.Chrome()
-url = "https://www.flashscore.com.br/futebol/espanha/laliga/resultados/"
+url = "https://www.flashscore.com.br/futebol/suica/superliga/calendario/"
 driver.get(url)
 
 # Espera o container principal carregar

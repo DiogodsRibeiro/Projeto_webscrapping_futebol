@@ -747,11 +747,11 @@
         "Rodada": "RODADA 27",
         "Data": "08/03/2025",
         "Hora": "12:15",
-        "Time da Casa": "Alavés\n2",
+        "Time da Casa": "Alavés",
         "Time Visitante": "Villarreal",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Alaves_2_vs_Villarreal_08/03/2025"
+        "id": "Alaves_vs_Villarreal_08/03/2025"
     },
     {
         "origem": "Espanha",
@@ -1813,11 +1813,11 @@
         "Rodada": "RODADA 18",
         "Data": "22/12/2024",
         "Hora": "14:30",
-        "Time da Casa": "Leganés\n2",
+        "Time da Casa": "Leganés",
         "Time Visitante": "Villarreal",
         "Placar da Casa": "2",
         "Placar do Visitante": "5",
-        "id": "Leganes_2_vs_Villarreal_22/12/2024"
+        "id": "Leganes_vs_Villarreal_22/12/2024"
     },
     {
         "origem": "Espanha",
@@ -3036,10 +3036,10 @@
         "Data": "05/10/2024",
         "Hora": "13:30",
         "Time da Casa": "Las Palmas",
-        "Time Visitante": "Celta de Vigo\n2",
+        "Time Visitante": "Celta de Vigo",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Las_Palmas_vs_Celta_de_Vigo_2_05/10/2024"
+        "id": "Las_Palmas_vs_Celta_de_Vigo_05/10/2024"
     },
     {
         "origem": "Espanha",

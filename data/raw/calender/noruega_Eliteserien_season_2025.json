@@ -3,83 +3,6 @@
         "origem": "Noruega",
         "Campeonato": "Eliteserien",
         "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "09:30",
-        "Time da Casa": "Vålerenga",
-        "Time Visitante": "Rosenborg",
-        "id": "Valerenga_vs_Rosenborg_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Bryne",
-        "Time Visitante": "Haugesund",
-        "id": "Bryne_vs_Haugesund_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Fredrikstad",
-        "Time Visitante": "Sandefjord",
-        "id": "Fredrikstad_vs_Sandefjord_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "HamKam",
-        "Time Visitante": "Viking",
-        "id": "HamKam_vs_Viking_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "KFUM Oslo",
-        "Time Visitante": "Sarpsborg 08",
-        "id": "KFUM_Oslo_vs_Sarpsborg_08_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Strömsgodset",
-        "Time Visitante": "Brann",
-        "id": "Stromsgodset_vs_Brann_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "21/04/2025",
-        "Hora": "14:15",
-        "Time da Casa": "Molde",
-        "Time Visitante": "Bodo/Glimt",
-        "id": "Molde_vs_BodoGlimt_21/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
         "Rodada": "RODADA 4",
         "Data": "27/04/2025",
         "Hora": "09:30",
@@ -1252,5 +1175,60 @@
         "Time da Casa": "Vålerenga",
         "Time Visitante": "Sandefjord",
         "id": "Valerenga_vs_Sandefjord_03/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "10/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Bodo/Glimt",
+        "Time Visitante": "Tromsö",
+        "id": "BodoGlimt_vs_Tromso_10/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "10/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Bryne",
+        "Time Visitante": "KFUM Oslo",
+        "id": "Bryne_vs_KFUM_Oslo_10/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "10/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Haugesund",
+        "Time Visitante": "Sarpsborg 08",
+        "id": "Haugesund_vs_Sarpsborg_08_10/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "10/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Molde",
+        "Time Visitante": "HamKam",
+        "id": "Molde_vs_HamKam_10/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "10/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Sandefjord",
+        "Time Visitante": "Viking",
+        "id": "Sandefjord_vs_Viking_10/08/2025"
     }
 ]

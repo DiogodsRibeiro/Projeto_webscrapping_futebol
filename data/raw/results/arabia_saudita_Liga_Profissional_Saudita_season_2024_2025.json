@@ -3,6 +3,32 @@
         "origem": "Arábia saudita",
         "Campeonato": "Liga Profissional Saudita",
         "Temporada": "2024/2025",
+        "Rodada": "RODADA 29",
+        "Data": "21/04/2025",
+        "Hora": "15:00",
+        "Time da Casa": "Al-Ittihad",
+        "Time Visitante": "Al-Ettifaq",
+        "Placar da Casa": "3",
+        "Placar do Visitante": "2",
+        "id": "Al-Ittihad_vs_Al-Ettifaq_21/04/2025"
+    },
+    {
+        "origem": "Arábia saudita",
+        "Campeonato": "Liga Profissional Saudita",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 29",
+        "Data": "21/04/2025",
+        "Hora": "12:55",
+        "Time da Casa": "Al-Hilal",
+        "Time Visitante": "Al-Shabab",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "2",
+        "id": "Al-Hilal_vs_Al-Shabab_21/04/2025"
+    },
+    {
+        "origem": "Arábia saudita",
+        "Campeonato": "Liga Profissional Saudita",
+        "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
         "Data": "19/04/2025",
         "Hora": "15:00",
@@ -1463,10 +1489,10 @@
         "Data": "21/01/2025",
         "Hora": "12:10",
         "Time da Casa": "Al-Riyadh",
-        "Time Visitante": "Al-Taawon\n2",
+        "Time Visitante": "Al-Taawon",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Al-Riyadh_vs_Al-Taawon_2_21/01/2025"
+        "id": "Al-Riyadh_vs_Al-Taawon_21/01/2025"
     },
     {
         "origem": "Arábia saudita",

@@ -5,6 +5,32 @@
         "Temporada": "2025",
         "Rodada": "RODADA 4",
         "Data": "20/04/2025",
+        "Hora": "20:00",
+        "Time da Casa": "América-MG",
+        "Time Visitante": "Goiás",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0",
+        "id": "America-MG_vs_Goias_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 4",
+        "Data": "20/04/2025",
+        "Hora": "19:00",
+        "Time da Casa": "Athletico-PR",
+        "Time Visitante": "CRB",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "0",
+        "id": "Athletico-PR_vs_CRB_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 4",
+        "Data": "20/04/2025",
         "Hora": "18:00",
         "Time da Casa": "Chapecoense",
         "Time Visitante": "Athletic Club",
@@ -124,10 +150,10 @@
         "Data": "16/04/2025",
         "Hora": "21:00",
         "Time da Casa": "Coritiba",
-        "Time Visitante": "Novorizontino\n2",
+        "Time Visitante": "Novorizontino",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Coritiba_vs_Novorizontino_2_16/04/2025"
+        "id": "Coritiba_vs_Novorizontino_16/04/2025"
     },
     {
         "origem": "Brasil",

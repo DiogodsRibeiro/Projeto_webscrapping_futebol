@@ -1280,11 +1280,11 @@
         "Rodada": "RODADA 20",
         "Data": "31/01/2025",
         "Hora": "16:30",
-        "Time da Casa": "Bremen\n2",
+        "Time da Casa": "Bremen",
         "Time Visitante": "Mainz",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Bremen_2_vs_Mainz_31/01/2025"
+        "id": "Bremen_vs_Mainz_31/01/2025"
     },
     {
         "origem": "Alemanha",
@@ -1554,10 +1554,10 @@
         "Data": "15/01/2025",
         "Hora": "16:30",
         "Time da Casa": "Stuttgart",
-        "Time Visitante": "RB Leipzig\n2",
+        "Time Visitante": "RB Leipzig",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Stuttgart_vs_RB_Leipzig_2_15/01/2025"
+        "id": "Stuttgart_vs_RB_Leipzig_15/01/2025"
     },
     {
         "origem": "Alemanha",
@@ -2269,10 +2269,10 @@
         "Data": "23/11/2024",
         "Hora": "11:30",
         "Time da Casa": "Dortmund",
-        "Time Visitante": "Freiburg\n2",
+        "Time Visitante": "Freiburg",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Dortmund_vs_Freiburg_2_23/11/2024"
+        "id": "Dortmund_vs_Freiburg_23/11/2024"
     },
     {
         "origem": "Alemanha",

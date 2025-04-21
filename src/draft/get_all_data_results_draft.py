@@ -52,8 +52,8 @@ for el in elements:
     elif "event__match" in class_list:
         try:
             date_time_raw = el.find_element(By.CLASS_NAME, "event__time").text.strip()
-            home_team = el.find_element(By.CLASS_NAME, "event__homeParticipant").text.strip()
-            away_team = el.find_element(By.CLASS_NAME, "event__awayParticipant").text.strip()
+            home_team = el.find_element(By.CLASS_NAME, "event__homeParticipant").text.strip().split("\n")[0]
+            away_team = el.find_element(By.CLASS_NAME, "event__awayParticipant").text.strip().split("\n")[0]
             home_score = el.find_element(By.CLASS_NAME, "event__score--home").text.strip()
             away_score = el.find_element(By.CLASS_NAME, "event__score--away").text.strip()
 
@@ -85,6 +85,8 @@ for el in elements:
         except Exception as e:
             print(f"Erro ao extrair dados da partida: {e}")
 
+driver.quit()
+
 
 for registro in data:
     for chave, valor in registro.items():
@@ -100,4 +102,3 @@ for registro in data:
 # except Exception as e:
 #     print("Erro ao salvar:", e)
 
-driver.quit()

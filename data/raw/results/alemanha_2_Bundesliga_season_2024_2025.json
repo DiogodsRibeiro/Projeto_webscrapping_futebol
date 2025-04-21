@@ -2243,10 +2243,10 @@
         "Data": "03/11/2024",
         "Hora": "09:30",
         "Time da Casa": "Kaiserslautern",
-        "Time Visitante": "Magdeburg\n2",
+        "Time Visitante": "Magdeburg",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Kaiserslautern_vs_Magdeburg_2_03/11/2024"
+        "id": "Kaiserslautern_vs_Magdeburg_03/11/2024"
     },
     {
         "origem": "Alemanha",
@@ -2541,11 +2541,11 @@
         "Rodada": "RODADA 9",
         "Data": "19/10/2024",
         "Hora": "08:00",
-        "Time da Casa": "Regensburg\n2",
+        "Time da Casa": "Regensburg",
         "Time Visitante": "Dusseldorf",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Regensburg_2_vs_Dusseldorf_19/10/2024"
+        "id": "Regensburg_vs_Dusseldorf_19/10/2024"
     },
     {
         "origem": "Alemanha",
