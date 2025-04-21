@@ -1,29 +1,58 @@
 [
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
-        "Rodada": "RODADA 1",
-        "Data": "29/03/2025",
+        "Rodada": "RODADA 5",
+        "Data": "20/04/2025",
         "Hora": "18:30",
-        "Time da Casa": "Cruzeiro",
-        "Time Visitante": "Mirassol",
+        "Time da Casa": "Fluminense",
+        "Time Visitante": "Vitória",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "1",
+        "id": "Fluminense_vs_Vitoria_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 5",
+        "Data": "20/04/2025",
+        "Hora": "18:30",
+        "Time da Casa": "Fortaleza",
+        "Time Visitante": "Palmeiras",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "2",
+        "id": "Fortaleza_vs_Palmeiras_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 5",
+        "Data": "20/04/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Atlético-MG",
+        "Time Visitante": "Botafogo",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0",
+        "id": "Atletico-MG_vs_Botafogo_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 5",
+        "Data": "20/04/2025",
+        "Hora": "16:00",
+        "Time da Casa": "São Paulo",
+        "Time Visitante": "Santos",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Cruzeiro_vs_Mirassol_29/03/2025"
+        "id": "Sao_Paulo_vs_Santos_20/04/2025"
     },
     {
-        "Campeonato": "Brasileirão Betano",
-        "Temporada": "2025",
-        "Rodada": "RODADA 1",
-        "Data": "29/03/2025",
-        "Hora": "18:30",
-        "Time da Casa": "São Paulo",
-        "Time Visitante": "Sport",
-        "Placar da Casa": "0",
-        "Placar do Visitante": "0",
-        "id": "SãoPaulo_vs_Sport_29/03/2025"
-    },
-    {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 5",
@@ -36,6 +65,7 @@
         "id": "Juventude_vs_Mirassol_20/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 5",
@@ -45,9 +75,10 @@
         "Time Visitante": "Internacional",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Grêmio_vs_Internacional_19/04/2025"
+        "id": "Gremio_vs_Internacional_19/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 5",
@@ -60,6 +91,7 @@
         "id": "Vasco_vs_Flamengo_19/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 5",
@@ -72,6 +104,7 @@
         "id": "Corinthians_vs_Sport_19/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -84,6 +117,7 @@
         "id": "Cruzeiro_vs_Bahia_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -96,6 +130,7 @@
         "id": "Flamengo_vs_Juventude_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -105,9 +140,10 @@
         "Time Visitante": "Atlético-MG",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Santos_vs_Atlético-MG_16/04/2025"
+        "id": "Santos_vs_Atletico-MG_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -117,9 +153,10 @@
         "Time Visitante": "Fortaleza",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Vitória_vs_Fortaleza_16/04/2025"
+        "id": "Vitoria_vs_Fortaleza_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -132,6 +169,7 @@
         "id": "Corinthians_vs_Fluminense_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -144,6 +182,7 @@
         "id": "Internacional_vs_Palmeiras_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -153,9 +192,10 @@
         "Time Visitante": "Grêmio",
         "Placar da Casa": "4",
         "Placar do Visitante": "1",
-        "id": "Mirassol_vs_Grêmio_16/04/2025"
+        "id": "Mirassol_vs_Gremio_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -165,9 +205,10 @@
         "Time Visitante": "Red Bull Bragantino",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Sport_vs_RedBullBragantino_16/04/2025"
+        "id": "Sport_vs_Red_Bull_Bragantino_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -177,9 +218,10 @@
         "Time Visitante": "São Paulo",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Botafogo_vs_SãoPaulo_16/04/2025"
+        "id": "Botafogo_vs_Sao_Paulo_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -189,9 +231,10 @@
         "Time Visitante": "Vasco",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Ceará_vs_Vasco_15/04/2025"
+        "id": "Ceara_vs_Vasco_15/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -201,9 +244,10 @@
         "Time Visitante": "Vitória",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Atlético-MG_vs_Vitória_13/04/2025"
+        "id": "Atletico-MG_vs_Vitoria_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -216,6 +260,7 @@
         "id": "Fortaleza_vs_Internacional_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -228,6 +273,7 @@
         "id": "Fluminense_vs_Santos_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -237,9 +283,10 @@
         "Time Visitante": "Flamengo",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Grêmio_vs_Flamengo_13/04/2025"
+        "id": "Gremio_vs_Flamengo_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -249,9 +296,10 @@
         "Time Visitante": "Cruzeiro",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SãoPaulo_vs_Cruzeiro_13/04/2025"
+        "id": "Sao_Paulo_vs_Cruzeiro_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -264,6 +312,7 @@
         "id": "Bahia_vs_Mirassol_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -276,6 +325,7 @@
         "id": "Vasco_vs_Sport_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -288,6 +338,7 @@
         "id": "Palmeiras_vs_Corinthians_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -297,9 +348,10 @@
         "Time Visitante": "Ceará",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Juventude_vs_Ceará_12/04/2025"
+        "id": "Juventude_vs_Ceara_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -309,9 +361,10 @@
         "Time Visitante": "Botafogo",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "RedBullBragantino_vs_Botafogo_12/04/2025"
+        "id": "Red_Bull_Bragantino_vs_Botafogo_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -324,6 +377,7 @@
         "id": "Santos_vs_Bahia_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -336,6 +390,7 @@
         "id": "Internacional_vs_Cruzeiro_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -348,6 +403,7 @@
         "id": "Mirassol_vs_Fortaleza_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -360,6 +416,7 @@
         "id": "Sport_vs_Palmeiras_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -369,9 +426,10 @@
         "Time Visitante": "Flamengo",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Vitória_vs_Flamengo_06/04/2025"
+        "id": "Vitoria_vs_Flamengo_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -381,9 +439,10 @@
         "Time Visitante": "São Paulo",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Atlético-MG_vs_SãoPaulo_06/04/2025"
+        "id": "Atletico-MG_vs_Sao_Paulo_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -393,9 +452,10 @@
         "Time Visitante": "Red Bull Bragantino",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Fluminense_vs_RedBullBragantino_06/04/2025"
+        "id": "Fluminense_vs_Red_Bull_Bragantino_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -408,6 +468,7 @@
         "id": "Botafogo_vs_Juventude_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -417,9 +478,10 @@
         "Time Visitante": "Grêmio",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Ceará_vs_Grêmio_05/04/2025"
+        "id": "Ceara_vs_Gremio_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -432,6 +494,7 @@
         "id": "Corinthians_vs_Vasco_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -441,9 +504,10 @@
         "Time Visitante": "Ceará",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "RedBullBragantino_vs_Ceará_31/03/2025"
+        "id": "Red_Bull_Bragantino_vs_Ceara_31/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -456,6 +520,7 @@
         "id": "Bahia_vs_Corinthians_30/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -468,6 +533,7 @@
         "id": "Vasco_vs_Santos_30/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -480,6 +546,7 @@
         "id": "Palmeiras_vs_Botafogo_30/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -492,6 +559,20 @@
         "id": "Flamengo_vs_Internacional_29/03/2025"
     },
     {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 1",
+        "Data": "29/03/2025",
+        "Hora": "18:30",
+        "Time da Casa": "Cruzeiro",
+        "Time Visitante": "Mirassol",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "1",
+        "id": "Cruzeiro_vs_Mirassol_29/03/2025"
+    },
+    {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -504,6 +585,7 @@
         "id": "Fortaleza_vs_Fluminense_29/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -513,9 +595,10 @@
         "Time Visitante": "Atlético-MG",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Grêmio_vs_Atlético-MG_29/03/2025"
+        "id": "Gremio_vs_Atletico-MG_29/03/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -525,6 +608,19 @@
         "Time Visitante": "Vitória",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Juventude_vs_Vitória_29/03/2025"
+        "id": "Juventude_vs_Vitoria_29/03/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 1",
+        "Data": "29/03/2025",
+        "Hora": "18:30",
+        "Time da Casa": "São Paulo",
+        "Time Visitante": "Sport",
+        "Placar da Casa": "0",
+        "Placar do Visitante": "0",
+        "id": "Sao_Paulo_vs_Sport_29/03/2025"
     }
 ]

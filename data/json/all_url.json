@@ -1,0 +1,20 @@
+{
+    "endpoints": ["resultados", "calendario"],
+    "urls": [
+        "https://www.flashscore.com.br/futebol/espanha/laliga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/brasil/brasileirao-betano/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/brasil/brasileirao-serie-b-superbet/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/franca/ligue-1/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/inglaterra/2-divisao/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/europa/liga-dos-campeoes/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/alemanha/bundesliga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/noruega/serie-de-elite/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/dinamarca/superliga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/america-do-sul/copa-libertadores/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/alemanha/2-bundesliga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/arabia-saudita/primeira-liga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/suica/superliga/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/china/superliga/{endpoint}/"
+    ]
+}

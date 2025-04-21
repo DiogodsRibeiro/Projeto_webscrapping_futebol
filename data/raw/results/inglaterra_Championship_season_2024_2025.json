@@ -1,5 +1,6 @@
 [
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -9,9 +10,10 @@
         "Time Visitante": "Leeds",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_Leeds_18/04/2025"
+        "id": "Oxford_Utd_vs_Leeds_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -21,9 +23,10 @@
         "Time Visitante": "Cardiff",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Cardiff_18/04/2025"
+        "id": "Sheffield_Utd_vs_Cardiff_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -36,6 +39,7 @@
         "id": "Blackburn_vs_Millwall_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -45,9 +49,10 @@
         "Time Visitante": "Sunderland",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Sunderland_18/04/2025"
+        "id": "Bristol_City_vs_Sunderland_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -57,9 +62,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Coventry_vs_WestBromwich_18/04/2025"
+        "id": "Coventry_vs_West_Bromwich_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -72,6 +78,7 @@
         "id": "Middlesbrough_vs_Plymouth_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -84,6 +91,7 @@
         "id": "Norwich_vs_Portsmouth_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -96,6 +104,7 @@
         "id": "Preston_vs_QPR_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -105,9 +114,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Stoke_vs_SheffieldWednesday_18/04/2025"
+        "id": "Stoke_vs_Sheffield_Wednesday_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -120,6 +130,7 @@
         "id": "Swansea_vs_Hull_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -129,9 +140,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Watford\n2_vs_Burnley_18/04/2025"
+        "id": "Watford_2_vs_Burnley_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 43",
@@ -144,6 +156,7 @@
         "id": "Derby_vs_Luton_18/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -156,6 +169,7 @@
         "id": "Hull_vs_Coventry_14/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -168,6 +182,7 @@
         "id": "Cardiff_vs_Stoke_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -180,6 +195,7 @@
         "id": "Luton_vs_Blackburn_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -192,6 +208,7 @@
         "id": "Millwall_vs_Middlesbrough_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -204,6 +221,7 @@
         "id": "Portsmouth_vs_Derby_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -213,9 +231,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "QPR_vs_BristolCity_12/04/2025"
+        "id": "QPR_vs_Bristol_City_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -225,9 +244,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_OxfordUtd_12/04/2025"
+        "id": "Sheffield_Wednesday_vs_Oxford_Utd_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -240,6 +260,7 @@
         "id": "Sunderland_vs_Swansea_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -249,9 +270,10 @@
         "Time Visitante": "Watford",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Watford_12/04/2025"
+        "id": "West_Bromwich_vs_Watford_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -264,6 +286,7 @@
         "id": "Leeds_vs_Preston_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -273,9 +296,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Plymouth_vs_SheffieldUtd_12/04/2025"
+        "id": "Plymouth_vs_Sheffield_Utd_12/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 42",
@@ -288,6 +312,7 @@
         "id": "Burnley_vs_Norwich_11/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -300,6 +325,7 @@
         "id": "Coventry_vs_Portsmouth_09/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -309,9 +335,10 @@
         "Time Visitante": "QPR",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "OxfordUtd_vs_QPR_09/04/2025"
+        "id": "Oxford_Utd_vs_QPR_09/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -324,6 +351,7 @@
         "id": "Swansea_vs_Plymouth_09/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -336,6 +364,7 @@
         "id": "Middlesbrough_vs_Leeds_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -345,9 +374,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Blackburn_vs_SheffieldWednesday_08/04/2025"
+        "id": "Blackburn_vs_Sheffield_Wednesday_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -357,9 +387,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_WestBromwich_08/04/2025"
+        "id": "Bristol_City_vs_West_Bromwich_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -372,6 +403,7 @@
         "id": "Derby_vs_Burnley_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -384,6 +416,7 @@
         "id": "Norwich_vs_Sunderland_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -396,6 +429,7 @@
         "id": "Preston_vs_Cardiff_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -405,9 +439,10 @@
         "Time Visitante": "Millwall",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_Millwall_08/04/2025"
+        "id": "Sheffield_Utd_vs_Millwall_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -420,6 +455,7 @@
         "id": "Stoke_vs_Luton_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 41",
@@ -432,6 +468,7 @@
         "id": "Watford_vs_Hull_08/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -441,9 +478,10 @@
         "Time Visitante": "Watford",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Watford_05/04/2025"
+        "id": "Bristol_City_vs_Watford_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -456,6 +494,7 @@
         "id": "Millwall_vs_Portsmouth_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -465,9 +504,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_SheffieldUtd_05/04/2025"
+        "id": "Oxford_Utd_vs_Sheffield_Utd_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -480,6 +520,7 @@
         "id": "Plymouth_vs_Norwich_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -492,6 +533,7 @@
         "id": "Preston_vs_Stoke_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -504,6 +546,7 @@
         "id": "QPR_vs_Cardiff_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -513,9 +556,10 @@
         "Time Visitante": "Hull",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_Hull_05/04/2025"
+        "id": "Sheffield_Wednesday_vs_Hull_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -528,6 +572,7 @@
         "id": "Swansea_vs_Derby_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -540,6 +585,7 @@
         "id": "Coventry_vs_Burnley_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -552,6 +598,7 @@
         "id": "Luton_vs_Leeds_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -561,9 +608,10 @@
         "Time Visitante": "Sunderland",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Sunderland_05/04/2025"
+        "id": "West_Bromwich_vs_Sunderland_05/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 40",
@@ -576,6 +624,7 @@
         "id": "Blackburn_vs_Middlesbrough_04/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -588,6 +637,7 @@
         "id": "Derby_vs_Preston_02/04/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -597,9 +647,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Burnley_vs_BristolCity_29/03/2025"
+        "id": "Burnley_vs_Bristol_City_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -609,9 +660,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Cardiff_vs_SheffieldWednesday_29/03/2025"
+        "id": "Cardiff_vs_Sheffield_Wednesday_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -624,6 +676,7 @@
         "id": "Leeds_vs_Swansea_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -633,9 +686,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Middlesbrough_vs_OxfordUtd_29/03/2025"
+        "id": "Middlesbrough_vs_Oxford_Utd_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -645,9 +699,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Norwich_vs_WestBromwich_29/03/2025"
+        "id": "Norwich_vs_West_Bromwich_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -660,6 +715,7 @@
         "id": "Portsmouth_vs_Blackburn_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -672,6 +728,7 @@
         "id": "Stoke_vs_QPR_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -684,6 +741,7 @@
         "id": "Sunderland_vs_Millwall_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -696,6 +754,7 @@
         "id": "Hull_vs_Luton_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -708,6 +767,7 @@
         "id": "Watford_vs_Plymouth_29/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 39",
@@ -717,9 +777,10 @@
         "Time Visitante": "Coventry",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_Coventry_28/03/2025"
+        "id": "Sheffield_Utd_vs_Coventry_28/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -729,9 +790,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_SheffieldUtd_16/03/2025"
+        "id": "Sheffield_Wednesday_vs_Sheffield_Utd_16/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -744,6 +806,7 @@
         "id": "Blackburn_vs_Cardiff_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -756,6 +819,7 @@
         "id": "Coventry_vs_Sunderland_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -768,6 +832,7 @@
         "id": "Luton_vs_Middlesbrough_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -777,9 +842,10 @@
         "Time Visitante": "Watford",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Watford_15/03/2025"
+        "id": "Oxford_Utd_vs_Watford_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -792,6 +858,7 @@
         "id": "Plymouth_vs_Derby_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -804,6 +871,7 @@
         "id": "Preston_vs_Portsmouth_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -816,6 +884,7 @@
         "id": "Swansea_vs_Burnley_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -825,9 +894,10 @@
         "Time Visitante": "Hull",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Hull_15/03/2025"
+        "id": "West_Bromwich_vs_Hull_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -840,6 +910,7 @@
         "id": "Millwall_vs_Stoke_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -852,6 +923,7 @@
         "id": "QPR_vs_Leeds_15/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 38",
@@ -861,9 +933,10 @@
         "Time Visitante": "Norwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Norwich_14/03/2025"
+        "id": "Bristol_City_vs_Norwich_14/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -876,6 +949,7 @@
         "id": "Stoke_vs_Blackburn_12/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -885,9 +959,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Hull_vs_OxfordUtd_12/03/2025"
+        "id": "Hull_vs_Oxford_Utd_12/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -900,6 +975,7 @@
         "id": "Leeds_vs_Millwall_12/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -912,6 +988,7 @@
         "id": "Portsmouth_vs_Plymouth_12/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -924,6 +1001,7 @@
         "id": "Watford_vs_Swansea_12/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -933,9 +1011,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_BristolCity_11/03/2025"
+        "id": "Sheffield_Utd_vs_Bristol_City_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -945,9 +1024,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Burnley_vs_WestBromwich_11/03/2025"
+        "id": "Burnley_vs_West_Bromwich_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -960,6 +1040,7 @@
         "id": "Cardiff_vs_Luton_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -972,6 +1053,7 @@
         "id": "Derby_vs_Coventry_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -984,6 +1066,7 @@
         "id": "Middlesbrough_vs_QPR_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -993,9 +1076,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "Norwich_vs_SheffieldWednesday_11/03/2025"
+        "id": "Norwich_vs_Sheffield_Wednesday_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 37",
@@ -1008,6 +1092,7 @@
         "id": "Sunderland_vs_Preston_11/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1020,6 +1105,7 @@
         "id": "Portsmouth_vs_Leeds_09/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1029,9 +1115,10 @@
         "Time Visitante": "Hull",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Hull_08/03/2025"
+        "id": "Bristol_City_vs_Hull_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1044,6 +1131,7 @@
         "id": "Burnley_vs_Luton_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1056,6 +1144,7 @@
         "id": "Derby_vs_Blackburn_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1065,9 +1154,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Plymouth_vs_SheffieldWednesday_08/03/2025"
+        "id": "Plymouth_vs_Sheffield_Wednesday_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1077,9 +1167,10 @@
         "Time Visitante": "Preston",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Preston_08/03/2025"
+        "id": "Sheffield_Utd_vs_Preston_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1092,6 +1183,7 @@
         "id": "Sunderland_vs_Cardiff_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1104,6 +1196,7 @@
         "id": "Swansea_vs_Middlesbrough_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1113,9 +1206,10 @@
         "Time Visitante": "QPR",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_QPR_08/03/2025"
+        "id": "West_Bromwich_vs_QPR_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1128,6 +1222,7 @@
         "id": "Coventry_vs_Stoke_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1140,6 +1235,7 @@
         "id": "Watford_vs_Millwall_08/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 36",
@@ -1149,9 +1245,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Norwich_vs_OxfordUtd_07/03/2025"
+        "id": "Norwich_vs_Oxford_Utd_07/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1164,6 +1261,7 @@
         "id": "Cardiff_vs_Burnley_04/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1176,6 +1274,7 @@
         "id": "Hull_vs_Plymouth_04/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1185,9 +1284,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Millwall_vs_BristolCity_04/03/2025"
+        "id": "Millwall_vs_Bristol_City_04/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1200,6 +1300,7 @@
         "id": "Preston_vs_Swansea_04/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1212,6 +1313,7 @@
         "id": "Luton_vs_Portsmouth_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1224,6 +1326,7 @@
         "id": "Middlesbrough_vs_Derby_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1233,9 +1336,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "QPR_vs_SheffieldUtd_01/03/2025"
+        "id": "QPR_vs_Sheffield_Utd_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1248,6 +1352,7 @@
         "id": "Stoke_vs_Watford_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1260,6 +1365,7 @@
         "id": "Blackburn_vs_Norwich_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1269,9 +1375,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Leeds_vs_WestBromwich_01/03/2025"
+        "id": "Leeds_vs_West_Bromwich_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1281,9 +1388,10 @@
         "Time Visitante": "Coventry",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "OxfordUtd_vs_Coventry_01/03/2025"
+        "id": "Oxford_Utd_vs_Coventry_01/03/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 35",
@@ -1293,9 +1401,10 @@
         "Time Visitante": "Sunderland",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Sunderland_28/02/2025"
+        "id": "Sheffield_Wednesday_vs_Sunderland_28/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1308,6 +1417,7 @@
         "id": "Cardiff_vs_Hull_25/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1320,6 +1430,7 @@
         "id": "Stoke_vs_Middlesbrough_25/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1329,9 +1440,10 @@
         "Time Visitante": "Leeds",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "SheffieldUtd_vs_Leeds_24/02/2025"
+        "id": "Sheffield_Utd_vs_Leeds_24/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1344,6 +1456,7 @@
         "id": "Watford_vs_Luton_23/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1356,6 +1469,7 @@
         "id": "Coventry_vs_Preston_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1368,6 +1482,7 @@
         "id": "Norwich_vs_Stoke_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1380,6 +1495,7 @@
         "id": "Portsmouth_vs_QPR_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1392,6 +1508,7 @@
         "id": "Swansea_vs_Blackburn_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1401,9 +1518,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_OxfordUtd_22/02/2025"
+        "id": "West_Bromwich_vs_Oxford_Utd_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1416,6 +1534,7 @@
         "id": "Derby_vs_Millwall_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1428,6 +1547,7 @@
         "id": "Plymouth_vs_Cardiff_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1440,6 +1560,7 @@
         "id": "Sunderland_vs_Hull_22/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1449,9 +1570,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Burnley_vs_SheffieldWednesday_21/02/2025"
+        "id": "Burnley_vs_Sheffield_Wednesday_21/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 34",
@@ -1461,9 +1583,10 @@
         "Time Visitante": "Middlesbrough",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Middlesbrough_21/02/2025"
+        "id": "Bristol_City_vs_Middlesbrough_21/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1476,6 +1599,7 @@
         "id": "Luton_vs_Plymouth_19/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1488,6 +1612,7 @@
         "id": "Preston_vs_Millwall_18/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1500,6 +1625,7 @@
         "id": "Leeds_vs_Sunderland_17/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1512,6 +1638,7 @@
         "id": "Blackburn_vs_Plymouth_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1524,6 +1651,7 @@
         "id": "Hull_vs_Norwich_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1533,9 +1661,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Luton_vs_SheffieldUtd_15/02/2025"
+        "id": "Luton_vs_Sheffield_Utd_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1548,6 +1677,7 @@
         "id": "Middlesbrough_vs_Watford_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1557,9 +1687,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Millwall_vs_WestBromwich_15/02/2025"
+        "id": "Millwall_vs_West_Bromwich_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1569,9 +1700,10 @@
         "Time Visitante": "Coventry",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Coventry_15/02/2025"
+        "id": "Sheffield_Wednesday_vs_Coventry_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1584,6 +1716,7 @@
         "id": "Stoke_vs_Swansea_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1593,9 +1726,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Cardiff_vs_BristolCity_15/02/2025"
+        "id": "Cardiff_vs_Bristol_City_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1605,9 +1739,10 @@
         "Time Visitante": "Portsmouth",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "OxfordUtd_vs_Portsmouth_15/02/2025"
+        "id": "Oxford_Utd_vs_Portsmouth_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1620,6 +1755,7 @@
         "id": "Preston_vs_Burnley_15/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
@@ -1632,6 +1768,7 @@
         "id": "QPR_vs_Derby_14/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1641,9 +1778,10 @@
         "Time Visitante": "Middlesbrough",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_Middlesbrough_12/02/2025"
+        "id": "Sheffield_Utd_vs_Middlesbrough_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1653,9 +1791,10 @@
         "Time Visitante": "Blackburn",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "WestBromwich_vs_Blackburn_12/02/2025"
+        "id": "West_Bromwich_vs_Blackburn_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1665,9 +1804,10 @@
         "Time Visitante": "Stoke",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Stoke_12/02/2025"
+        "id": "Bristol_City_vs_Stoke_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1680,6 +1820,7 @@
         "id": "Burnley_vs_Hull_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1692,6 +1833,7 @@
         "id": "Plymouth_vs_Millwall_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1704,6 +1846,7 @@
         "id": "Sunderland_vs_Luton_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1713,9 +1856,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Swansea_vs_SheffieldWednesday_12/02/2025"
+        "id": "Swansea_vs_Sheffield_Wednesday_12/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1728,6 +1872,7 @@
         "id": "Norwich_vs_Preston_11/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1740,6 +1885,7 @@
         "id": "Coventry_vs_QPR_11/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1749,9 +1895,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Derby_vs_OxfordUtd_11/02/2025"
+        "id": "Derby_vs_Oxford_Utd_11/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1764,6 +1911,7 @@
         "id": "Portsmouth_vs_Cardiff_11/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 32",
@@ -1776,6 +1924,7 @@
         "id": "Watford_vs_Leeds_11/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1785,9 +1934,10 @@
         "Time Visitante": "Swansea",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Swansea_09/02/2025"
+        "id": "Bristol_City_vs_Swansea_09/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1800,6 +1950,7 @@
         "id": "Norwich_vs_Derby_08/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1809,9 +1960,10 @@
         "Time Visitante": "Portsmouth",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_Portsmouth_08/02/2025"
+        "id": "Sheffield_Utd_vs_Portsmouth_08/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1824,6 +1976,7 @@
         "id": "Sunderland_vs_Watford_08/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1833,9 +1986,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_SheffieldWednesday_08/02/2025"
+        "id": "West_Bromwich_vs_Sheffield_Wednesday_08/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1848,6 +2002,7 @@
         "id": "Coventry_vs_Leeds_05/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1857,9 +2012,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Burnley_vs_OxfordUtd_04/02/2025"
+        "id": "Burnley_vs_Oxford_Utd_04/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 31",
@@ -1872,6 +2028,7 @@
         "id": "QPR_vs_Blackburn_04/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1884,6 +2041,7 @@
         "id": "Middlesbrough_vs_Sunderland_03/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1893,9 +2051,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Derby_vs_SheffieldUtd_01/02/2025"
+        "id": "Derby_vs_Sheffield_Utd_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1908,6 +2067,7 @@
         "id": "Hull_vs_Stoke_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1920,6 +2080,7 @@
         "id": "Leeds_vs_Cardiff_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1932,6 +2093,7 @@
         "id": "Millwall_vs_QPR_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1944,6 +2106,7 @@
         "id": "Portsmouth_vs_Burnley_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1953,9 +2116,10 @@
         "Time Visitante": "Luton",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_Luton_01/02/2025"
+        "id": "Sheffield_Wednesday_vs_Luton_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1968,6 +2132,7 @@
         "id": "Swansea_vs_Coventry_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1977,9 +2142,10 @@
         "Time Visitante": "Bristol City\n2",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_BristolCity\n2_01/02/2025"
+        "id": "Oxford_Utd_vs_Bristol_City_2_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -1989,9 +2155,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Plymouth_vs_WestBromwich_01/02/2025"
+        "id": "Plymouth_vs_West_Bromwich_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -2004,6 +2171,7 @@
         "id": "Watford_vs_Norwich_01/02/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 30",
@@ -2016,6 +2184,7 @@
         "id": "Blackburn_vs_Preston_31/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -2028,6 +2197,7 @@
         "id": "Portsmouth_vs_Millwall_28/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2040,6 +2210,7 @@
         "id": "Burnley_vs_Leeds_27/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2049,9 +2220,10 @@
         "Time Visitante": "Blackburn",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Blackburn_25/01/2025"
+        "id": "Bristol_City_vs_Blackburn_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2064,6 +2236,7 @@
         "id": "Cardiff_vs_Derby_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2076,6 +2249,7 @@
         "id": "Coventry_vs_Watford_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2088,6 +2262,7 @@
         "id": "Preston_vs_Middlesbrough_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2097,9 +2272,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "QPR_vs_SheffieldWednesday_25/01/2025"
+        "id": "QPR_vs_Sheffield_Wednesday_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2112,6 +2288,7 @@
         "id": "Sunderland_vs_Plymouth_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2121,9 +2298,10 @@
         "Time Visitante": "Portsmouth",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Portsmouth_25/01/2025"
+        "id": "West_Bromwich_vs_Portsmouth_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2136,6 +2314,7 @@
         "id": "Luton_vs_Millwall_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2148,6 +2327,7 @@
         "id": "Norwich_vs_Swansea_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2157,9 +2337,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Stoke_vs_OxfordUtd_25/01/2025"
+        "id": "Stoke_vs_Oxford_Utd_25/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 29",
@@ -2169,9 +2350,10 @@
         "Time Visitante": "Hull",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "SheffieldUtd_vs_Hull_24/01/2025"
+        "id": "Sheffield_Utd_vs_Hull_24/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2184,6 +2366,7 @@
         "id": "Plymouth_vs_Burnley_22/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2196,6 +2379,7 @@
         "id": "Leeds_vs_Norwich_22/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2208,6 +2392,7 @@
         "id": "Portsmouth_vs_Stoke_22/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2217,9 +2402,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_BristolCity_22/01/2025"
+        "id": "Sheffield_Wednesday_vs_Bristol_City_22/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2232,6 +2418,7 @@
         "id": "Millwall_vs_Cardiff_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2244,6 +2431,7 @@
         "id": "Blackburn_vs_Coventry_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2256,6 +2444,7 @@
         "id": "Derby_vs_Sunderland_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2268,6 +2457,7 @@
         "id": "Hull_vs_QPR_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2277,9 +2467,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Middlesbrough_vs_WestBromwich_21/01/2025"
+        "id": "Middlesbrough_vs_West_Bromwich_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2289,9 +2480,10 @@
         "Time Visitante": "Luton",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "OxfordUtd_vs_Luton_21/01/2025"
+        "id": "Oxford_Utd_vs_Luton_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2301,9 +2493,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Swansea_vs_SheffieldUtd_21/01/2025"
+        "id": "Swansea_vs_Sheffield_Utd_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 28",
@@ -2316,6 +2509,7 @@
         "id": "Watford_vs_Preston_21/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2325,9 +2519,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Leeds_vs_SheffieldWednesday_19/01/2025"
+        "id": "Leeds_vs_Sheffield_Wednesday_19/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2337,9 +2532,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Coventry_vs_BristolCity_18/01/2025"
+        "id": "Coventry_vs_Bristol_City_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2352,6 +2548,7 @@
         "id": "Derby_vs_Watford_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2364,6 +2561,7 @@
         "id": "Luton_vs_Preston_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2373,9 +2571,10 @@
         "Time Visitante": "Blackburn",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Blackburn_18/01/2025"
+        "id": "Oxford_Utd_vs_Blackburn_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2388,6 +2587,7 @@
         "id": "Portsmouth_vs_Middlesbrough_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2397,9 +2597,10 @@
         "Time Visitante": "Norwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Norwich_18/01/2025"
+        "id": "Sheffield_Utd_vs_Norwich_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2409,9 +2610,10 @@
         "Time Visitante": "Stoke",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Stoke_18/01/2025"
+        "id": "West_Bromwich_vs_Stoke_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2424,6 +2626,7 @@
         "id": "Cardiff_vs_Swansea_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2436,6 +2639,7 @@
         "id": "Millwall_vs_Hull_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2448,6 +2652,7 @@
         "id": "Plymouth_vs_QPR_18/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 27",
@@ -2460,6 +2665,7 @@
         "id": "Burnley_vs_Sunderland_17/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -2472,6 +2678,7 @@
         "id": "Blackburn_vs_Portsmouth_15/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -2484,6 +2691,7 @@
         "id": "Cardiff_vs_Watford_14/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -2493,9 +2701,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Plymouth_vs_OxfordUtd_14/01/2025"
+        "id": "Plymouth_vs_Oxford_Utd_14/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2508,6 +2717,7 @@
         "id": "QPR_vs_Luton_06/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2520,6 +2730,7 @@
         "id": "Sunderland_vs_Portsmouth_05/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2529,9 +2740,10 @@
         "Time Visitante": "Derby",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Derby_04/01/2025"
+        "id": "Bristol_City_vs_Derby_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2544,6 +2756,7 @@
         "id": "Hull_vs_Leeds_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2556,6 +2769,7 @@
         "id": "Middlesbrough_vs_Cardiff_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2568,6 +2782,7 @@
         "id": "Norwich_vs_Coventry_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2577,9 +2792,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Preston_vs_OxfordUtd_04/01/2025"
+        "id": "Preston_vs_Oxford_Utd_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2589,9 +2805,10 @@
         "Time Visitante": "Millwall",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Millwall_04/01/2025"
+        "id": "Sheffield_Wednesday_vs_Millwall_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2601,9 +2818,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Watford_vs_SheffieldUtd_04/01/2025"
+        "id": "Watford_vs_Sheffield_Utd_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2616,6 +2834,7 @@
         "id": "Blackburn_vs_Burnley_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2628,6 +2847,7 @@
         "id": "Stoke_vs_Plymouth_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 26",
@@ -2637,9 +2857,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Swansea_vs_WestBromwich_04/01/2025"
+        "id": "Swansea_vs_West_Bromwich_04/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2649,9 +2870,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Sunderland_vs_SheffieldUtd_01/01/2025"
+        "id": "Sunderland_vs_Sheffield_Utd_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2664,6 +2886,7 @@
         "id": "Hull_vs_Middlesbrough_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2676,6 +2899,7 @@
         "id": "Burnley_vs_Stoke_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2688,6 +2912,7 @@
         "id": "Cardiff_vs_Coventry_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2700,6 +2925,7 @@
         "id": "Leeds_vs_Blackburn_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2712,6 +2938,7 @@
         "id": "Luton_vs_Norwich_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2724,6 +2951,7 @@
         "id": "Portsmouth_vs_Swansea_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2733,9 +2961,10 @@
         "Time Visitante": "Derby",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Derby_01/01/2025"
+        "id": "Sheffield_Wednesday_vs_Derby_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2745,9 +2974,10 @@
         "Time Visitante": "Preston",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Preston_01/01/2025"
+        "id": "West_Bromwich_vs_Preston_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2757,9 +2987,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Millwall_vs_OxfordUtd_01/01/2025"
+        "id": "Millwall_vs_Oxford_Utd_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2769,9 +3000,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Plymouth_vs_BristolCity_01/01/2025"
+        "id": "Plymouth_vs_Bristol_City_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 25",
@@ -2784,6 +3016,7 @@
         "id": "QPR_vs_Watford_01/01/2025"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2796,6 +3029,7 @@
         "id": "Middlesbrough_vs_Burnley_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2808,6 +3042,7 @@
         "id": "Derby_vs_Leeds_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2820,6 +3055,7 @@
         "id": "Blackburn_vs_Hull_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2829,9 +3065,10 @@
         "Time Visitante": "Portsmouth",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Portsmouth_29/12/2024"
+        "id": "Bristol_City_vs_Portsmouth_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2844,6 +3081,7 @@
         "id": "Coventry_vs_Millwall_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2853,9 +3091,10 @@
         "Time Visitante": "Plymouth",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Plymouth_29/12/2024"
+        "id": "Oxford_Utd_vs_Plymouth_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2868,6 +3107,7 @@
         "id": "Stoke_vs_Sunderland_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2880,6 +3120,7 @@
         "id": "Swansea_vs_Luton_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2892,6 +3133,7 @@
         "id": "Watford_vs_Cardiff_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2904,6 +3146,7 @@
         "id": "Norwich_vs_QPR_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2913,9 +3156,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Preston_vs_SheffieldWednesday_29/12/2024"
+        "id": "Preston_vs_Sheffield_Wednesday_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 24",
@@ -2925,9 +3169,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldUtd_vs_WestBromwich_29/12/2024"
+        "id": "Sheffield_Utd_vs_West_Bromwich_29/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2940,6 +3185,7 @@
         "id": "Stoke_vs_Leeds_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2949,9 +3195,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Derby_vs_WestBromwich_26/12/2024"
+        "id": "Derby_vs_West_Bromwich_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2964,6 +3211,7 @@
         "id": "Blackburn_vs_Sunderland_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2973,9 +3221,10 @@
         "Time Visitante": "Luton",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Luton_26/12/2024"
+        "id": "Bristol_City_vs_Luton_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2988,6 +3237,7 @@
         "id": "Coventry_vs_Plymouth_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -2997,9 +3247,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "3",
         "Placar do Visitante": "3",
-        "id": "Middlesbrough_vs_SheffieldWednesday_26/12/2024"
+        "id": "Middlesbrough_vs_Sheffield_Wednesday_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3012,6 +3263,7 @@
         "id": "Norwich_vs_Millwall_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3021,9 +3273,10 @@
         "Time Visitante": "Cardiff",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "OxfordUtd_vs_Cardiff_26/12/2024"
+        "id": "Oxford_Utd_vs_Cardiff_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3036,6 +3289,7 @@
         "id": "Preston_vs_Hull_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3045,9 +3299,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "SheffieldUtd_vs_Burnley_26/12/2024"
+        "id": "Sheffield_Utd_vs_Burnley_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3060,6 +3315,7 @@
         "id": "Swansea_vs_QPR_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 23",
@@ -3072,6 +3328,7 @@
         "id": "Watford_vs_Portsmouth_26/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3081,9 +3338,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_BristolCity_22/12/2024"
+        "id": "West_Bromwich_vs_Bristol_City_22/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3096,6 +3354,7 @@
         "id": "Burnley_vs_Watford_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3105,9 +3364,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Cardiff_vs_SheffieldUtd_21/12/2024"
+        "id": "Cardiff_vs_Sheffield_Utd_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3117,9 +3377,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Leeds_vs_OxfordUtd_21/12/2024"
+        "id": "Leeds_vs_Oxford_Utd_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3132,6 +3393,7 @@
         "id": "Millwall_vs_Blackburn_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3144,6 +3406,7 @@
         "id": "Plymouth_vs_Middlesbrough_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3156,6 +3419,7 @@
         "id": "QPR_vs_Preston_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3168,6 +3432,7 @@
         "id": "Sunderland_vs_Norwich_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3180,6 +3445,7 @@
         "id": "Hull_vs_Swansea_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3192,6 +3458,7 @@
         "id": "Portsmouth_vs_Coventry_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3201,9 +3468,10 @@
         "Time Visitante": "Stoke",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldWednesday_vs_Stoke_21/12/2024"
+        "id": "Sheffield_Wednesday_vs_Stoke_21/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 22",
@@ -3216,6 +3484,7 @@
         "id": "Luton_vs_Derby_20/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3228,6 +3497,7 @@
         "id": "Norwich_vs_Burnley_15/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3237,9 +3507,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Watford_vs_WestBromwich_15/12/2024"
+        "id": "Watford_vs_West_Bromwich_15/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3252,6 +3523,7 @@
         "id": "Blackburn_vs_Luton_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3264,6 +3536,7 @@
         "id": "Middlesbrough_vs_Millwall_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3273,9 +3546,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "OxfordUtd_vs_SheffieldWednesday_14/12/2024"
+        "id": "Oxford_Utd_vs_Sheffield_Wednesday_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3285,9 +3559,10 @@
         "Time Visitante": "Plymouth",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Plymouth_14/12/2024"
+        "id": "Sheffield_Utd_vs_Plymouth_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3300,6 +3575,7 @@
         "id": "Stoke_vs_Cardiff_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3312,6 +3588,7 @@
         "id": "Swansea_vs_Sunderland_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3321,9 +3598,10 @@
         "Time Visitante": "QPR",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_QPR_14/12/2024"
+        "id": "Bristol_City_vs_QPR_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3336,6 +3614,7 @@
         "id": "Coventry_vs_Hull_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3348,6 +3627,7 @@
         "id": "Preston_vs_Leeds_14/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 21",
@@ -3360,6 +3640,7 @@
         "id": "Derby_vs_Portsmouth_13/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3369,9 +3650,10 @@
         "Time Visitante": "Coventry",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Coventry_11/12/2024"
+        "id": "West_Bromwich_vs_Coventry_11/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3384,6 +3666,7 @@
         "id": "Cardiff_vs_Preston_11/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3396,6 +3679,7 @@
         "id": "Hull_vs_Watford_11/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3405,9 +3689,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Millwall_vs_SheffieldUtd_11/12/2024"
+        "id": "Millwall_vs_Sheffield_Utd_11/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3417,9 +3702,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "QPR_vs_OxfordUtd_11/12/2024"
+        "id": "QPR_vs_Oxford_Utd_11/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3432,6 +3718,7 @@
         "id": "Leeds_vs_Middlesbrough_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3444,6 +3731,7 @@
         "id": "Burnley_vs_Derby_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3456,6 +3744,7 @@
         "id": "Luton_vs_Stoke_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3468,6 +3757,7 @@
         "id": "Plymouth_vs_Swansea_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3480,6 +3770,7 @@
         "id": "Portsmouth_vs_Norwich_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3489,9 +3780,10 @@
         "Time Visitante": "Blackburn",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_Blackburn_10/12/2024"
+        "id": "Sheffield_Wednesday_vs_Blackburn_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 20",
@@ -3501,9 +3793,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Sunderland_vs_BristolCity_10/12/2024"
+        "id": "Sunderland_vs_Bristol_City_10/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3513,9 +3806,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "WestBromwich_vs_SheffieldUtd_08/12/2024"
+        "id": "West_Bromwich_vs_Sheffield_Utd_08/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3528,6 +3822,7 @@
         "id": "Hull_vs_Blackburn_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3540,6 +3835,7 @@
         "id": "Luton_vs_Swansea_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3552,6 +3848,7 @@
         "id": "Millwall_vs_Coventry_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3561,9 +3858,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Portsmouth_vs_BristolCity_07/12/2024"
+        "id": "Portsmouth_vs_Bristol_City_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3576,6 +3874,7 @@
         "id": "QPR_vs_Norwich_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3588,6 +3887,7 @@
         "id": "Leeds_vs_Derby_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3597,9 +3897,10 @@
         "Time Visitante": "Preston",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_Preston_07/12/2024"
+        "id": "Sheffield_Wednesday_vs_Preston_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3612,6 +3913,7 @@
         "id": "Sunderland_vs_Stoke_07/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 19",
@@ -3624,6 +3926,7 @@
         "id": "Burnley_vs_Middlesbrough_06/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3633,9 +3936,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Derby_vs_SheffieldWednesday_01/12/2024"
+        "id": "Derby_vs_Sheffield_Wednesday_01/12/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3645,9 +3949,10 @@
         "Time Visitante": "Plymouth",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Plymouth_30/11/2024"
+        "id": "Bristol_City_vs_Plymouth_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3660,6 +3965,7 @@
         "id": "Coventry_vs_Cardiff_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3672,6 +3978,7 @@
         "id": "Norwich_vs_Luton_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3681,9 +3988,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Preston_vs_WestBromwich_30/11/2024"
+        "id": "Preston_vs_West_Bromwich_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3696,6 +4004,7 @@
         "id": "Stoke_vs_Burnley_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3708,6 +4017,7 @@
         "id": "Swansea_vs_Portsmouth_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3720,6 +4030,7 @@
         "id": "Blackburn_vs_Leeds_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3732,6 +4043,7 @@
         "id": "Middlesbrough_vs_Hull_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3741,9 +4053,10 @@
         "Time Visitante": "Millwall",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_Millwall_30/11/2024"
+        "id": "Oxford_Utd_vs_Millwall_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3756,6 +4069,7 @@
         "id": "Watford_vs_QPR_30/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 18",
@@ -3765,9 +4079,10 @@
         "Time Visitante": "Sunderland",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Sunderland_29/11/2024"
+        "id": "Sheffield_Utd_vs_Sunderland_29/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3780,6 +4095,7 @@
         "id": "Derby_vs_Swansea_27/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3792,6 +4108,7 @@
         "id": "Cardiff_vs_QPR_27/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3804,6 +4121,7 @@
         "id": "Leeds_vs_Luton_27/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3816,6 +4134,7 @@
         "id": "Middlesbrough_vs_Blackburn_27/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3825,9 +4144,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Sunderland_vs_WestBromwich_26/11/2024"
+        "id": "Sunderland_vs_West_Bromwich_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3840,6 +4160,7 @@
         "id": "Burnley_vs_Coventry_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3849,9 +4170,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Hull_vs_SheffieldWednesday_26/11/2024"
+        "id": "Hull_vs_Sheffield_Wednesday_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3864,6 +4186,7 @@
         "id": "Norwich_vs_Plymouth_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3873,9 +4196,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_OxfordUtd_26/11/2024"
+        "id": "Sheffield_Utd_vs_Oxford_Utd_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3888,6 +4212,7 @@
         "id": "Stoke_vs_Preston_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 17",
@@ -3897,9 +4222,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Watford_vs_BristolCity_26/11/2024"
+        "id": "Watford_vs_Bristol_City_26/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3912,6 +4238,7 @@
         "id": "Swansea_vs_Leeds_24/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3924,6 +4251,7 @@
         "id": "Luton_vs_Hull_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3936,6 +4264,7 @@
         "id": "Millwall_vs_Sunderland_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3945,9 +4274,10 @@
         "Time Visitante": "Middlesbrough",
         "Placar da Casa": "2",
         "Placar do Visitante": "6",
-        "id": "OxfordUtd_vs_Middlesbrough_23/11/2024"
+        "id": "Oxford_Utd_vs_Middlesbrough_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3960,6 +4290,7 @@
         "id": "Preston_vs_Derby_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3972,6 +4303,7 @@
         "id": "QPR_vs_Stoke_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3981,9 +4313,10 @@
         "Time Visitante": "Norwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "WestBromwich_vs_Norwich_23/11/2024"
+        "id": "West_Bromwich_vs_Norwich_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -3993,9 +4326,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Burnley_23/11/2024"
+        "id": "Bristol_City_vs_Burnley_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -4005,9 +4339,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Coventry_vs_SheffieldUtd_23/11/2024"
+        "id": "Coventry_vs_Sheffield_Utd_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -4017,9 +4352,10 @@
         "Time Visitante": "Cardiff",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_Cardiff_23/11/2024"
+        "id": "Sheffield_Wednesday_vs_Cardiff_23/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 16",
@@ -4032,6 +4368,7 @@
         "id": "Plymouth_vs_Watford_22/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4044,6 +4381,7 @@
         "id": "Burnley_vs_Swansea_10/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4053,9 +4391,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Hull_vs_WestBromwich_10/11/2024"
+        "id": "Hull_vs_West_Bromwich_10/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4065,9 +4404,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_SheffieldWednesday_10/11/2024"
+        "id": "Sheffield_Utd_vs_Sheffield_Wednesday_10/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4080,6 +4420,7 @@
         "id": "Derby_vs_Plymouth_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4092,6 +4433,7 @@
         "id": "Leeds_vs_QPR_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4101,9 +4443,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Norwich_vs_BristolCity_09/11/2024"
+        "id": "Norwich_vs_Bristol_City_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4116,6 +4459,7 @@
         "id": "Portsmouth_vs_Preston_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4128,6 +4472,7 @@
         "id": "Sunderland_vs_Coventry_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4140,6 +4485,7 @@
         "id": "Cardiff_vs_Blackburn_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4152,6 +4498,7 @@
         "id": "Middlesbrough_vs_Luton_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4164,6 +4511,7 @@
         "id": "Stoke_vs_Millwall_09/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 15",
@@ -4173,9 +4521,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Watford_vs_OxfordUtd_08/11/2024"
+        "id": "Watford_vs_Oxford_Utd_08/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4185,9 +4534,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Burnley_07/11/2024"
+        "id": "West_Bromwich_vs_Burnley_07/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4200,6 +4550,7 @@
         "id": "Luton_vs_Cardiff_06/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4212,6 +4563,7 @@
         "id": "Preston_vs_Sunderland_06/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4224,6 +4576,7 @@
         "id": "Blackburn_vs_Stoke_06/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4236,6 +4589,7 @@
         "id": "Coventry_vs_Derby_06/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4248,6 +4602,7 @@
         "id": "Millwall_vs_Leeds_06/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4260,6 +4615,7 @@
         "id": "Plymouth_vs_Portsmouth_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4272,6 +4628,7 @@
         "id": "Swansea_vs_Watford_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4281,9 +4638,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "BristolCity_vs_SheffieldUtd_05/11/2024"
+        "id": "Bristol_City_vs_Sheffield_Utd_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4293,9 +4651,10 @@
         "Time Visitante": "Hull",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Hull_05/11/2024"
+        "id": "Oxford_Utd_vs_Hull_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4308,6 +4667,7 @@
         "id": "QPR_vs_Middlesbrough_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 14",
@@ -4317,9 +4677,10 @@
         "Time Visitante": "Norwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldWednesday_vs_Norwich_05/11/2024"
+        "id": "Sheffield_Wednesday_vs_Norwich_05/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4332,6 +4693,7 @@
         "id": "Millwall_vs_Burnley_03/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4344,6 +4706,7 @@
         "id": "Cardiff_vs_Norwich_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4356,6 +4719,7 @@
         "id": "Hull_vs_Portsmouth_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4368,6 +4732,7 @@
         "id": "Leeds_vs_Plymouth_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4380,6 +4745,7 @@
         "id": "Middlesbrough_vs_Coventry_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4389,9 +4755,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "Preston_vs_BristolCity_02/11/2024"
+        "id": "Preston_vs_Bristol_City_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4404,6 +4771,7 @@
         "id": "QPR_vs_Sunderland_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4413,9 +4781,10 @@
         "Time Visitante": "Watford",
         "Placar da Casa": "2",
         "Placar do Visitante": "6",
-        "id": "SheffieldWednesday_vs_Watford_02/11/2024"
+        "id": "Sheffield_Wednesday_vs_Watford_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4425,9 +4794,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Blackburn_vs_SheffieldUtd_02/11/2024"
+        "id": "Blackburn_vs_Sheffield_Utd_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4437,9 +4807,10 @@
         "Time Visitante": "Swansea",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "OxfordUtd_vs_Swansea_02/11/2024"
+        "id": "Oxford_Utd_vs_Swansea_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4452,6 +4823,7 @@
         "id": "Stoke_vs_Derby_02/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 13",
@@ -4461,9 +4833,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Luton_vs_WestBromwich_01/11/2024"
+        "id": "Luton_vs_West_Bromwich_01/11/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4476,6 +4849,7 @@
         "id": "Norwich_vs_Middlesbrough_27/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4488,6 +4862,7 @@
         "id": "Burnley_vs_QPR_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4500,6 +4875,7 @@
         "id": "Derby_vs_Hull_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4512,6 +4888,7 @@
         "id": "Plymouth_vs_Preston_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4521,9 +4898,10 @@
         "Time Visitante": "Stoke",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Stoke_26/10/2024"
+        "id": "Sheffield_Utd_vs_Stoke_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4533,9 +4911,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Sunderland_vs_OxfordUtd_26/10/2024"
+        "id": "Sunderland_vs_Oxford_Utd_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4548,6 +4927,7 @@
         "id": "Swansea_vs_Millwall_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4557,9 +4937,10 @@
         "Time Visitante": "Cardiff",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Cardiff_26/10/2024"
+        "id": "West_Bromwich_vs_Cardiff_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4569,9 +4950,10 @@
         "Time Visitante": "Leeds",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_Leeds_26/10/2024"
+        "id": "Bristol_City_vs_Leeds_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4584,6 +4966,7 @@
         "id": "Coventry_vs_Luton_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4596,6 +4979,7 @@
         "id": "Watford_vs_Blackburn_26/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 12",
@@ -4605,9 +4989,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Portsmouth_vs_SheffieldWednesday_25/10/2024"
+        "id": "Portsmouth_vs_Sheffield_Wednesday_25/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4617,9 +5002,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Middlesbrough_vs_SheffieldUtd_23/10/2024"
+        "id": "Middlesbrough_vs_Sheffield_Utd_23/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4629,9 +5015,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Blackburn_vs_WestBromwich_23/10/2024"
+        "id": "Blackburn_vs_West_Bromwich_23/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4644,6 +5031,7 @@
         "id": "Hull_vs_Burnley_23/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4656,6 +5044,7 @@
         "id": "Luton_vs_Sunderland_23/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4668,6 +5057,7 @@
         "id": "Millwall_vs_Plymouth_23/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4680,6 +5070,7 @@
         "id": "QPR_vs_Coventry_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4692,6 +5083,7 @@
         "id": "Cardiff_vs_Portsmouth_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4704,6 +5096,7 @@
         "id": "Leeds_vs_Watford_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4713,9 +5106,10 @@
         "Time Visitante": "Derby",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_Derby_22/10/2024"
+        "id": "Oxford_Utd_vs_Derby_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4728,6 +5122,7 @@
         "id": "Preston_vs_Norwich_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4737,9 +5132,10 @@
         "Time Visitante": "Swansea",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "SheffieldWednesday_vs_Swansea_22/10/2024"
+        "id": "Sheffield_Wednesday_vs_Swansea_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 11",
@@ -4749,9 +5145,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Stoke_vs_BristolCity_22/10/2024"
+        "id": "Stoke_vs_Bristol_City_22/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4764,6 +5161,7 @@
         "id": "Hull_vs_Sunderland_20/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4776,6 +5174,7 @@
         "id": "Blackburn_vs_Swansea_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4785,9 +5184,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Middlesbrough_vs_BristolCity_19/10/2024"
+        "id": "Middlesbrough_vs_Bristol_City_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4800,6 +5200,7 @@
         "id": "Millwall_vs_Derby_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4812,6 +5213,7 @@
         "id": "QPR_vs_Portsmouth_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4821,9 +5223,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Burnley_19/10/2024"
+        "id": "Sheffield_Wednesday_vs_Burnley_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4836,6 +5239,7 @@
         "id": "Stoke_vs_Norwich_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4848,6 +5252,7 @@
         "id": "Cardiff_vs_Plymouth_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4860,6 +5265,7 @@
         "id": "Luton_vs_Watford_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4869,9 +5275,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_WestBromwich_19/10/2024"
+        "id": "Oxford_Utd_vs_West_Bromwich_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4884,6 +5291,7 @@
         "id": "Preston_vs_Coventry_19/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 10",
@@ -4893,9 +5301,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Leeds_vs_SheffieldUtd_18/10/2024"
+        "id": "Leeds_vs_Sheffield_Utd_18/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4905,9 +5314,10 @@
         "Time Visitante": "Cardiff",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Cardiff_06/10/2024"
+        "id": "Bristol_City_vs_Cardiff_06/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4917,9 +5327,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Coventry_vs_SheffieldWednesday_05/10/2024"
+        "id": "Coventry_vs_Sheffield_Wednesday_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4932,6 +5343,7 @@
         "id": "Derby_vs_QPR_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4944,6 +5356,7 @@
         "id": "Plymouth_vs_Blackburn_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4953,9 +5366,10 @@
         "Time Visitante": "Luton",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Luton_05/10/2024"
+        "id": "Sheffield_Utd_vs_Luton_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4968,6 +5382,7 @@
         "id": "Swansea_vs_Stoke_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4980,6 +5395,7 @@
         "id": "Watford_vs_Middlesbrough_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -4989,9 +5405,10 @@
         "Time Visitante": "Millwall",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Millwall_05/10/2024"
+        "id": "West_Bromwich_vs_Millwall_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -5004,6 +5421,7 @@
         "id": "Burnley_vs_Preston_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -5016,6 +5434,7 @@
         "id": "Norwich_vs_Hull_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -5025,9 +5444,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Portsmouth_vs_OxfordUtd_05/10/2024"
+        "id": "Portsmouth_vs_Oxford_Utd_05/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 9",
@@ -5040,6 +5460,7 @@
         "id": "Sunderland_vs_Leeds_04/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5049,9 +5470,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "BristolCity_vs_SheffieldWednesday_02/10/2024"
+        "id": "Bristol_City_vs_Sheffield_Wednesday_02/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5064,6 +5486,7 @@
         "id": "Preston_vs_Watford_02/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5073,9 +5496,10 @@
         "Time Visitante": "Swansea",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Swansea_02/10/2024"
+        "id": "Sheffield_Utd_vs_Swansea_02/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5088,6 +5512,7 @@
         "id": "Stoke_vs_Portsmouth_02/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5097,9 +5522,10 @@
         "Time Visitante": "Middlesbrough",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "WestBromwich_vs_Middlesbrough_01/10/2024"
+        "id": "West_Bromwich_vs_Middlesbrough_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5112,6 +5538,7 @@
         "id": "Burnley_vs_Plymouth_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5124,6 +5551,7 @@
         "id": "Cardiff_vs_Millwall_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5136,6 +5564,7 @@
         "id": "Coventry_vs_Blackburn_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5145,9 +5574,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Luton_vs_OxfordUtd_01/10/2024"
+        "id": "Luton_vs_Oxford_Utd_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5160,6 +5590,7 @@
         "id": "Norwich_vs_Leeds_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5172,6 +5603,7 @@
         "id": "QPR_vs_Hull_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -5184,6 +5616,7 @@
         "id": "Sunderland_vs_Derby_01/10/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5193,9 +5626,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Swansea_vs_BristolCity_29/09/2024"
+        "id": "Swansea_vs_Bristol_City_29/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5208,6 +5642,7 @@
         "id": "Hull_vs_Cardiff_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5220,6 +5655,7 @@
         "id": "Leeds_vs_Coventry_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5232,6 +5668,7 @@
         "id": "Middlesbrough_vs_Stoke_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5244,6 +5681,7 @@
         "id": "Millwall_vs_Preston_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5253,9 +5691,10 @@
         "Time Visitante": "Burnley",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Burnley_28/09/2024"
+        "id": "Oxford_Utd_vs_Burnley_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5265,9 +5704,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Portsmouth_vs_SheffieldUtd_28/09/2024"
+        "id": "Portsmouth_vs_Sheffield_Utd_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5280,6 +5720,7 @@
         "id": "Watford_vs_Sunderland_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5292,6 +5733,7 @@
         "id": "Blackburn_vs_QPR_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5304,6 +5746,7 @@
         "id": "Derby_vs_Norwich_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5313,9 +5756,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_WestBromwich_28/09/2024"
+        "id": "Sheffield_Wednesday_vs_West_Bromwich_28/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -5328,6 +5772,7 @@
         "id": "Plymouth_vs_Luton_27/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5340,6 +5785,7 @@
         "id": "Preston_vs_Blackburn_22/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5349,9 +5795,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_OxfordUtd_21/09/2024"
+        "id": "Bristol_City_vs_Oxford_Utd_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5364,6 +5811,7 @@
         "id": "Burnley_vs_Portsmouth_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5376,6 +5824,7 @@
         "id": "Cardiff_vs_Leeds_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5388,6 +5837,7 @@
         "id": "Coventry_vs_Swansea_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5397,9 +5847,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Luton_vs_SheffieldWednesday_21/09/2024"
+        "id": "Luton_vs_Sheffield_Wednesday_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5409,9 +5860,10 @@
         "Time Visitante": "Derby",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Derby_21/09/2024"
+        "id": "Sheffield_Utd_vs_Derby_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5421,9 +5873,10 @@
         "Time Visitante": "Plymouth",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Plymouth_21/09/2024"
+        "id": "West_Bromwich_vs_Plymouth_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5436,6 +5889,7 @@
         "id": "Norwich_vs_Watford_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5448,6 +5902,7 @@
         "id": "QPR_vs_Millwall_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5460,6 +5915,7 @@
         "id": "Sunderland_vs_Middlesbrough_21/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -5472,6 +5928,7 @@
         "id": "Stoke_vs_Hull_20/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5481,9 +5938,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Portsmouth_vs_WestBromwich_15/09/2024"
+        "id": "Portsmouth_vs_West_Bromwich_15/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5493,9 +5951,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Blackburn_vs_BristolCity_14/09/2024"
+        "id": "Blackburn_vs_Bristol_City_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5508,6 +5967,7 @@
         "id": "Derby_vs_Cardiff_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5520,6 +5980,7 @@
         "id": "Middlesbrough_vs_Preston_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5532,6 +5993,7 @@
         "id": "Plymouth_vs_Sunderland_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5541,9 +6003,10 @@
         "Time Visitante": "QPR",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SheffieldWednesday_vs_QPR_14/09/2024"
+        "id": "Sheffield_Wednesday_vs_QPR_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5556,6 +6019,7 @@
         "id": "Swansea_vs_Norwich_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5568,6 +6032,7 @@
         "id": "Watford_vs_Coventry_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5580,6 +6045,7 @@
         "id": "Leeds_vs_Burnley_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5592,6 +6058,7 @@
         "id": "Millwall_vs_Luton_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5601,9 +6068,10 @@
         "Time Visitante": "Stoke",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Stoke_14/09/2024"
+        "id": "Oxford_Utd_vs_Stoke_14/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -5613,9 +6081,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Hull_vs_SheffieldUtd_13/09/2024"
+        "id": "Hull_vs_Sheffield_Utd_13/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5625,9 +6094,10 @@
         "Time Visitante": "Watford",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SheffieldUtd_vs_Watford_01/09/2024"
+        "id": "Sheffield_Utd_vs_Watford_01/09/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5637,9 +6107,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Derby_vs_BristolCity_31/08/2024"
+        "id": "Derby_vs_Bristol_City_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5652,6 +6123,7 @@
         "id": "Leeds_vs_Hull_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5661,9 +6133,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Millwall_vs_SheffieldWednesday_31/08/2024"
+        "id": "Millwall_vs_Sheffield_Wednesday_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5673,9 +6146,10 @@
         "Time Visitante": "Preston",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "OxfordUtd_vs_Preston_31/08/2024"
+        "id": "Oxford_Utd_vs_Preston_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5688,6 +6162,7 @@
         "id": "Plymouth_vs_Stoke_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5700,6 +6175,7 @@
         "id": "Portsmouth_vs_Sunderland_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5709,9 +6185,10 @@
         "Time Visitante": "Swansea",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Swansea_31/08/2024"
+        "id": "West_Bromwich_vs_Swansea_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5724,6 +6201,7 @@
         "id": "Burnley_vs_Blackburn_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5736,6 +6214,7 @@
         "id": "Cardiff_vs_Middlesbrough_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5748,6 +6227,7 @@
         "id": "Coventry_vs_Norwich_31/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -5760,6 +6240,7 @@
         "id": "Luton_vs_QPR_30/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5772,6 +6253,7 @@
         "id": "Swansea_vs_Cardiff_25/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5781,9 +6263,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Blackburn_vs_OxfordUtd_24/08/2024"
+        "id": "Blackburn_vs_Oxford_Utd_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5796,6 +6279,7 @@
         "id": "Middlesbrough_vs_Portsmouth_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5805,9 +6289,10 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Norwich_vs_SheffieldUtd_24/08/2024"
+        "id": "Norwich_vs_Sheffield_Utd_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5820,6 +6305,7 @@
         "id": "Preston_vs_Luton_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5829,9 +6315,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Stoke_vs_WestBromwich_24/08/2024"
+        "id": "Stoke_vs_West_Bromwich_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5844,6 +6331,7 @@
         "id": "Sunderland_vs_Burnley_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5856,6 +6344,7 @@
         "id": "Watford_vs_Derby_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5865,9 +6354,10 @@
         "Time Visitante": "Coventry",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "BristolCity_vs_Coventry_24/08/2024"
+        "id": "Bristol_City_vs_Coventry_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5880,6 +6370,7 @@
         "id": "Hull_vs_Millwall_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5889,9 +6380,10 @@
         "Time Visitante": "Plymouth\n2",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "QPR_vs_Plymouth\n2_24/08/2024"
+        "id": "QPR_vs_Plymouth_2_24/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -5901,9 +6393,10 @@
         "Time Visitante": "Leeds",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "SheffieldWednesday_vs_Leeds_23/08/2024"
+        "id": "Sheffield_Wednesday_vs_Leeds_23/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5913,9 +6406,10 @@
         "Time Visitante": "Sheffield Wednesday",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Sunderland_vs_SheffieldWednesday_18/08/2024"
+        "id": "Sunderland_vs_Sheffield_Wednesday_18/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5925,9 +6419,10 @@
         "Time Visitante": "Millwall",
         "Placar da Casa": "4",
         "Placar do Visitante": "3",
-        "id": "BristolCity_vs_Millwall_17/08/2024"
+        "id": "Bristol_City_vs_Millwall_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5940,6 +6435,7 @@
         "id": "Burnley_vs_Cardiff_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5952,6 +6448,7 @@
         "id": "Norwich_vs_Blackburn_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5964,6 +6461,7 @@
         "id": "Plymouth_vs_Hull_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5973,9 +6471,10 @@
         "Time Visitante": "QPR",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "SheffieldUtd_vs_QPR_17/08/2024"
+        "id": "Sheffield_Utd_vs_QPR_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -5988,6 +6487,7 @@
         "id": "Swansea_vs_Preston_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -6000,6 +6500,7 @@
         "id": "Watford_vs_Stoke_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -6012,6 +6513,7 @@
         "id": "Derby_vs_Middlesbrough_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -6024,6 +6526,7 @@
         "id": "Portsmouth_vs_Luton_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -6033,9 +6536,10 @@
         "Time Visitante": "Leeds",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "WestBromwich_vs_Leeds_17/08/2024"
+        "id": "West_Bromwich_vs_Leeds_17/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -6045,9 +6549,10 @@
         "Time Visitante": "Oxford Utd",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "Coventry_vs_OxfordUtd_16/08/2024"
+        "id": "Coventry_vs_Oxford_Utd_16/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6060,6 +6565,7 @@
         "id": "Luton_vs_Burnley_12/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6069,9 +6575,10 @@
         "Time Visitante": "Plymouth",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "SheffieldWednesday_vs_Plymouth_11/08/2024"
+        "id": "Sheffield_Wednesday_vs_Plymouth_11/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6084,6 +6591,7 @@
         "id": "Cardiff_vs_Sunderland_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6093,9 +6601,10 @@
         "Time Visitante": "Bristol City",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Hull_vs_BristolCity_10/08/2024"
+        "id": "Hull_vs_Bristol_City_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6108,6 +6617,7 @@
         "id": "Leeds_vs_Portsmouth_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6120,6 +6630,7 @@
         "id": "Middlesbrough_vs_Swansea_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6132,6 +6643,7 @@
         "id": "Millwall_vs_Watford_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6141,9 +6653,10 @@
         "Time Visitante": "Norwich",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "OxfordUtd_vs_Norwich_10/08/2024"
+        "id": "Oxford_Utd_vs_Norwich_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6153,9 +6666,10 @@
         "Time Visitante": "West Bromwich",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "QPR_vs_WestBromwich_10/08/2024"
+        "id": "QPR_vs_West_Bromwich_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6168,6 +6682,7 @@
         "id": "Stoke_vs_Coventry_10/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6180,6 +6695,7 @@
         "id": "Blackburn_vs_Derby_09/08/2024"
     },
     {
+        "origem": "Inglaterra",
         "Campeonato": "Championship",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -6189,6 +6705,6 @@
         "Time Visitante": "Sheffield Utd",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Preston_vs_SheffieldUtd_09/08/2024"
+        "id": "Preston_vs_Sheffield_Utd_09/08/2024"
     }
 ]

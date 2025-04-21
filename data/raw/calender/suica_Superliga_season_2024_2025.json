@@ -1,0 +1,57 @@
+[
+    {
+        "origem": "Suíça",
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "21/04/2025",
+        "Hora": "11:30",
+        "Time da Casa": "Basel",
+        "Time Visitante": "Yverdon",
+        "id": "Basel_vs_Yverdon_21/04/2025"
+    },
+    {
+        "origem": "Suíça",
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "21/04/2025",
+        "Hora": "11:30",
+        "Time da Casa": "Lausanne",
+        "Time Visitante": "Lugano",
+        "id": "Lausanne_vs_Lugano_21/04/2025"
+    },
+    {
+        "origem": "Suíça",
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "21/04/2025",
+        "Hora": "11:30",
+        "Time da Casa": "Servette",
+        "Time Visitante": "Luzern",
+        "id": "Servette_vs_Luzern_21/04/2025"
+    },
+    {
+        "origem": "Suíça",
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "21/04/2025",
+        "Hora": "11:30",
+        "Time da Casa": "St. Gallen",
+        "Time Visitante": "Sion",
+        "id": "St_Gallen_vs_Sion_21/04/2025"
+    },
+    {
+        "origem": "Suíça",
+        "Campeonato": "Superliga",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 33",
+        "Data": "21/04/2025",
+        "Hora": "11:30",
+        "Time da Casa": "Young Boys",
+        "Time Visitante": "Zurich",
+        "id": "Young_Boys_vs_Zurich_21/04/2025"
+    }
+]

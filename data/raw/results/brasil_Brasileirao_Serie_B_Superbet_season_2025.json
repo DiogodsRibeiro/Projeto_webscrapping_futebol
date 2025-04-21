@@ -1,5 +1,32 @@
 [
     {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 4",
+        "Data": "20/04/2025",
+        "Hora": "18:00",
+        "Time da Casa": "Chapecoense",
+        "Time Visitante": "Athletic Club",
+        "Placar da Casa": "1",
+        "Placar do Visitante": "0",
+        "id": "Chapecoense_vs_Athletic_Club_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 4",
+        "Data": "20/04/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Vila Nova",
+        "Time Visitante": "Botafogo-SP",
+        "Placar da Casa": "2",
+        "Placar do Visitante": "0",
+        "id": "Vila_Nova_vs_Botafogo-SP_20/04/2025"
+    },
+    {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 4",
@@ -9,9 +36,10 @@
         "Time Visitante": "Paysandu",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Operário_vs_Paysandu_19/04/2025"
+        "id": "Operario_vs_Paysandu_19/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -21,9 +49,10 @@
         "Time Visitante": "Amazonas",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "América-MG_vs_Amazonas_17/04/2025"
+        "id": "America-MG_vs_Amazonas_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -33,9 +62,10 @@
         "Time Visitante": "Atlético-GO",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Ferroviária_vs_Atlético-GO_17/04/2025"
+        "id": "Ferroviaria_vs_Atletico-GO_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -48,6 +78,7 @@
         "id": "Botafogo-SP_vs_Remo_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -57,9 +88,10 @@
         "Time Visitante": "Volta Redonda",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "CRB_vs_VoltaRedonda_17/04/2025"
+        "id": "CRB_vs_Volta_Redonda_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -69,9 +101,10 @@
         "Time Visitante": "Athletic Club",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Criciúma_vs_AthleticClub_17/04/2025"
+        "id": "Criciuma_vs_Athletic_Club_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -81,9 +114,10 @@
         "Time Visitante": "Vila Nova",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Goiás_vs_VilaNova_17/04/2025"
+        "id": "Goias_vs_Vila_Nova_17/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -93,9 +127,10 @@
         "Time Visitante": "Novorizontino\n2",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Coritiba_vs_Novorizontino\n2_16/04/2025"
+        "id": "Coritiba_vs_Novorizontino_2_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -105,9 +140,10 @@
         "Time Visitante": "Operário",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Avaí_vs_Operário_16/04/2025"
+        "id": "Avai_vs_Operario_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -120,6 +156,7 @@
         "id": "Paysandu_vs_Chapecoense_16/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 3",
@@ -129,9 +166,10 @@
         "Time Visitante": "Athletico-PR",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Cuiabá_vs_Athletico-PR_15/04/2025"
+        "id": "Cuiaba_vs_Athletico-PR_15/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -141,9 +179,10 @@
         "Time Visitante": "Atlético-GO",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Botafogo-SP_vs_Atlético-GO_13/04/2025"
+        "id": "Botafogo-SP_vs_Atletico-GO_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -153,9 +192,10 @@
         "Time Visitante": "CRB",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "AthleticClub_vs_CRB_13/04/2025"
+        "id": "Athletic_Club_vs_CRB_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -165,9 +205,10 @@
         "Time Visitante": "América-MG",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Remo_vs_América-MG_13/04/2025"
+        "id": "Remo_vs_America-MG_13/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -177,9 +218,10 @@
         "Time Visitante": "Goiás",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Operário_vs_Goiás_12/04/2025"
+        "id": "Operario_vs_Goias_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -189,9 +231,10 @@
         "Time Visitante": "Ferroviária",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Amazonas_vs_Ferroviária_12/04/2025"
+        "id": "Amazonas_vs_Ferroviaria_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -201,9 +244,10 @@
         "Time Visitante": "Volta Redonda",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Novorizontino_vs_VoltaRedonda_12/04/2025"
+        "id": "Novorizontino_vs_Volta_Redonda_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -213,9 +257,10 @@
         "Time Visitante": "Paysandu",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "VilaNova_vs_Paysandu_12/04/2025"
+        "id": "Vila_Nova_vs_Paysandu_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -228,6 +273,7 @@
         "id": "Chapecoense_vs_Coritiba_12/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -237,9 +283,10 @@
         "Time Visitante": "Avaí",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Cuiabá_vs_Avaí_10/04/2025"
+        "id": "Cuiaba_vs_Avai_10/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -249,9 +296,10 @@
         "Time Visitante": "Criciúma",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Athletico-PR_vs_Criciúma_10/04/2025"
+        "id": "Athletico-PR_vs_Criciuma_10/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -261,9 +309,10 @@
         "Time Visitante": "Athletic Club",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "Atlético-GO_vs_AthleticClub_07/04/2025"
+        "id": "Atletico-GO_vs_Athletic_Club_07/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -273,9 +322,10 @@
         "Time Visitante": "Novorizontino",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Avaí_vs_Novorizontino_06/04/2025"
+        "id": "Avai_vs_Novorizontino_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -285,9 +335,10 @@
         "Time Visitante": "Remo",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Ferroviária_vs_Remo_06/04/2025"
+        "id": "Ferroviaria_vs_Remo_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -297,9 +348,10 @@
         "Time Visitante": "Cuiabá",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "VoltaRedonda_vs_Cuiabá_06/04/2025"
+        "id": "Volta_Redonda_vs_Cuiaba_06/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -309,9 +361,10 @@
         "Time Visitante": "Botafogo-SP",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "América-MG_vs_Botafogo-SP_05/04/2025"
+        "id": "America-MG_vs_Botafogo-SP_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -321,9 +374,10 @@
         "Time Visitante": "Vila Nova",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Coritiba_vs_VilaNova_05/04/2025"
+        "id": "Coritiba_vs_Vila_Nova_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -336,6 +390,7 @@
         "id": "CRB_vs_Chapecoense_05/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -345,9 +400,10 @@
         "Time Visitante": "Operário",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Criciúma_vs_Operário_04/04/2025"
+        "id": "Criciuma_vs_Operario_04/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -360,6 +416,7 @@
         "id": "Paysandu_vs_Athletico-PR_04/04/2025"
     },
     {
+        "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -369,6 +426,6 @@
         "Time Visitante": "Amazonas",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Goiás_vs_Amazonas_04/04/2025"
+        "id": "Goias_vs_Amazonas_04/04/2025"
     }
 ]

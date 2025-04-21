@@ -1,5 +1,6 @@
 [
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -9,9 +10,10 @@
         "Time Visitante": "Alianza Lima (Per)",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "SãoPaulo(Bra)_vs_AlianzaLima(Per)_10/04/2025"
+        "id": "Sao_Paulo_Bra_vs_Alianza_Lima_Per_10/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -21,9 +23,10 @@
         "Time Visitante": "Fortaleza (Bra)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "ColoColo(Chi)_vs_Fortaleza(Bra)_10/04/2025"
+        "id": "Colo_Colo_Chi_vs_Fortaleza_Bra_10/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -33,9 +36,10 @@
         "Time Visitante": "Atl. Nacional (Col)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Internacional(Bra)_vs_Atl.Nacional(Col)_10/04/2025"
+        "id": "Internacional_Bra_vs_Atl_Nacional_Col_10/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -45,9 +49,10 @@
         "Time Visitante": "Bucaramanga (Col)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "RacingClub(Arg)_vs_Bucaramanga(Col)_10/04/2025"
+        "id": "Racing_Club_Arg_vs_Bucaramanga_Col_10/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -57,9 +62,10 @@
         "Time Visitante": "Dep. Tachira (Ven)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "LDUQuito(Ecu)_vs_Dep.Tachira(Ven)_09/04/2025"
+        "id": "LDU_Quito_Ecu_vs_Dep_Tachira_Ven_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -69,9 +75,10 @@
         "Time Visitante": "Sporting Cristal (Per)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Bolivar(Bol)_vs_SportingCristal(Per)_09/04/2025"
+        "id": "Bolivar_Bol_vs_Sporting_Cristal_Per_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -81,9 +88,10 @@
         "Time Visitante": "Central Córdoba (Arg)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Flamengo(Bra)_vs_CentralCórdoba(Arg)_09/04/2025"
+        "id": "Flamengo_Bra_vs_Central_Cordoba_Arg_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -93,9 +101,10 @@
         "Time Visitante": "Cerro Porteno (Par)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Palmeiras(Bra)_vs_CerroPorteno(Par)_09/04/2025"
+        "id": "Palmeiras_Bra_vs_Cerro_Porteno_Par_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -105,9 +114,10 @@
         "Time Visitante": "Bahia (Bra)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Nacional(Uru)_vs_Bahia(Bra)_09/04/2025"
+        "id": "Nacional_Uru_vs_Bahia_Bra_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -117,9 +127,10 @@
         "Time Visitante": "Vélez Sarsfield (Arg)",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "OlimpiaAsuncion(Par)_vs_VélezSarsfield(Arg)_09/04/2025"
+        "id": "Olimpia_Asuncion_Par_vs_Velez_Sarsfield_Arg_09/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -129,9 +140,10 @@
         "Time Visitante": "Universitario (Per)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Ind.delValle(Ecu)_vs_Universitario(Per)_08/04/2025"
+        "id": "Ind_del_Valle_Ecu_vs_Universitario_Per_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -141,9 +153,10 @@
         "Time Visitante": "Universidad de Chile (Chi)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Estudiantes(Arg)_vs_UniversidaddeChile(Chi)_08/04/2025"
+        "id": "Estudiantes_Arg_vs_Universidad_de_Chile_Chi_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -153,9 +166,10 @@
         "Time Visitante": "Barcelona (Ecu)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "RiverPlate(Arg)_vs_Barcelona(Ecu)_08/04/2025"
+        "id": "River_Plate_Arg_vs_Barcelona_Ecu_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -165,9 +179,10 @@
         "Time Visitante": "SA Bulo Bulo (Bol)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Peñarol(Uru)_vs_SABuloBulo(Bol)_08/04/2025"
+        "id": "Penarol_Uru_vs_SA_Bulo_Bulo_Bol_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -177,9 +192,10 @@
         "Time Visitante": "Carabobo (Ven)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Botafogo(Bra)_vs_Carabobo(Ven)_08/04/2025"
+        "id": "Botafogo_Bra_vs_Carabobo_Ven_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 2",
@@ -189,9 +205,10 @@
         "Time Visitante": "Talleres Córdoba (Arg)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Libertad(Par)_vs_TalleresCórdoba(Arg)_08/04/2025"
+        "id": "Libertad_Par_vs_Talleres_Cordoba_Arg_08/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -201,9 +218,10 @@
         "Time Visitante": "Flamengo (Bra)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Dep.Tachira(Ven)_vs_Flamengo(Bra)_03/04/2025"
+        "id": "Dep_Tachira_Ven_vs_Flamengo_Bra_03/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -213,9 +231,10 @@
         "Time Visitante": "Internacional (Bra)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Bahia(Bra)_vs_Internacional(Bra)_03/04/2025"
+        "id": "Bahia_Bra_vs_Internacional_Bra_03/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -225,9 +244,10 @@
         "Time Visitante": "LDU Quito (Ecu)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "CentralCórdoba(Arg)_vs_LDUQuito(Ecu)_03/04/2025"
+        "id": "Central_Cordoba_Arg_vs_LDU_Quito_Ecu_03/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -237,9 +257,10 @@
         "Time Visitante": "Palmeiras (Bra)",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "SportingCristal(Per)_vs_Palmeiras(Bra)_03/04/2025"
+        "id": "Sporting_Cristal_Per_vs_Palmeiras_Bra_03/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -249,9 +270,10 @@
         "Time Visitante": "Nacional (Uru)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Atl.Nacional(Col)_vs_Nacional(Uru)_02/04/2025"
+        "id": "Atl_Nacional_Col_vs_Nacional_Uru_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -261,9 +283,10 @@
         "Time Visitante": "São Paulo (Bra)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "TalleresCórdoba(Arg)_vs_SãoPaulo(Bra)_02/04/2025"
+        "id": "Talleres_Cordoba_Arg_vs_Sao_Paulo_Bra_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -273,9 +296,10 @@
         "Time Visitante": "Botafogo (Bra)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "UniversidaddeChile(Chi)_vs_Botafogo(Bra)_02/04/2025"
+        "id": "Universidad_de_Chile_Chi_vs_Botafogo_Bra_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -285,9 +309,10 @@
         "Time Visitante": "River Plate (Arg)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Universitario(Per)_vs_RiverPlate(Arg)_02/04/2025"
+        "id": "Universitario_Per_vs_River_Plate_Arg_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -297,9 +322,10 @@
         "Time Visitante": "Olimpia Asuncion (Par)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "SABuloBulo(Bol)_vs_OlimpiaAsuncion(Par)_02/04/2025"
+        "id": "SA_Bulo_Bulo_Bol_vs_Olimpia_Asuncion_Par_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -309,9 +335,10 @@
         "Time Visitante": "Peñarol (Uru)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "VélezSarsfield(Arg)_vs_Peñarol(Uru)_02/04/2025"
+        "id": "Velez_Sarsfield_Arg_vs_Penarol_Uru_02/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -321,9 +348,10 @@
         "Time Visitante": "Libertad (Par)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "AlianzaLima(Per)_vs_Libertad(Par)_01/04/2025"
+        "id": "Alianza_Lima_Per_vs_Libertad_Par_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -333,9 +361,10 @@
         "Time Visitante": "Ind. del Valle (Ecu)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Barcelona(Ecu)_vs_Ind.delValle(Ecu)_01/04/2025"
+        "id": "Barcelona_Ecu_vs_Ind_del_Valle_Ecu_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -345,9 +374,10 @@
         "Time Visitante": "Colo Colo (Chi)",
         "Placar da Casa": "3",
         "Placar do Visitante": "3",
-        "id": "Bucaramanga(Col)_vs_ColoColo(Chi)_01/04/2025"
+        "id": "Bucaramanga_Col_vs_Colo_Colo_Chi_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -357,9 +387,10 @@
         "Time Visitante": "Racing Club (Arg)",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Fortaleza(Bra)_vs_RacingClub(Arg)_01/04/2025"
+        "id": "Fortaleza_Bra_vs_Racing_Club_Arg_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -369,9 +400,10 @@
         "Time Visitante": "Estudiantes (Arg)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Carabobo(Ven)_vs_Estudiantes(Arg)_01/04/2025"
+        "id": "Carabobo_Ven_vs_Estudiantes_Arg_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "RODADA 1",
@@ -381,9 +413,10 @@
         "Time Visitante": "Bolivar (Bol)",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "CerroPorteno(Par)_vs_Bolivar(Bol)_01/04/2025"
+        "id": "Cerro_Porteno_Par_vs_Bolivar_Bol_01/04/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -393,9 +426,10 @@
         "Time Visitante": "Boston River (Uru)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Bahia(Bra)_vs_BostonRiver(Uru)_13/03/2025"
+        "id": "Bahia_Bra_vs_Boston_River_Uru_13/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -405,9 +439,10 @@
         "Time Visitante": "Barcelona (Ecu)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Corinthians(Bra)_vs_Barcelona(Ecu)_12/03/2025"
+        "id": "Corinthians_Bra_vs_Barcelona_Ecu_12/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -417,9 +452,10 @@
         "Time Visitante": "Melgar (Per)",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "CerroPorteno(Par)_vs_Melgar(Per)_12/03/2025"
+        "id": "Cerro_Porteno_Par_vs_Melgar_Per_12/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -429,9 +465,10 @@
         "Time Visitante": "Deportes Iquique (Chi)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "AlianzaLima(Per)_vs_DeportesIquique(Chi)_11/03/2025"
+        "id": "Alianza_Lima_Per_vs_Deportes_Iquique_Chi_11/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -441,9 +478,10 @@
         "Time Visitante": "Bahia (Bra)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "BostonRiver(Uru)_vs_Bahia(Bra)_06/03/2025"
+        "id": "Boston_River_Uru_vs_Bahia_Bra_06/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -453,9 +491,10 @@
         "Time Visitante": "Corinthians (Bra)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Barcelona(Ecu)_vs_Corinthians(Bra)_05/03/2025"
+        "id": "Barcelona_Ecu_vs_Corinthians_Bra_05/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -465,9 +504,10 @@
         "Time Visitante": "Cerro Porteno (Par)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Melgar(Per)_vs_CerroPorteno(Par)_05/03/2025"
+        "id": "Melgar_Per_vs_Cerro_Porteno_Par_05/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "FINAL",
@@ -477,9 +517,10 @@
         "Time Visitante": "Alianza Lima (Per)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "DeportesIquique(Chi)_vs_AlianzaLima(Per)_04/03/2025"
+        "id": "Deportes_Iquique_Chi_vs_Alianza_Lima_Per_04/03/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -489,9 +530,10 @@
         "Time Visitante": "Tolima (Col)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Melgar(Per)_vs_Tolima(Col)_27/02/2025"
+        "id": "Melgar_Per_vs_Tolima_Col_27/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -501,9 +543,10 @@
         "Time Visitante": "Monagas (Ven)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "CerroPorteno(Par)_vs_Monagas(Ven)_27/02/2025"
+        "id": "Cerro_Porteno_Par_vs_Monagas_Ven_27/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -513,9 +556,10 @@
         "Time Visitante": "El Nacional (Ecu)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Barcelona(Ecu)_vs_ElNacional(Ecu)_26/02/2025"
+        "id": "Barcelona_Ecu_vs_El_Nacional_Ecu_26/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -525,9 +569,10 @@
         "Time Visitante": "Universidad Central (Ven)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "Corinthians(Bra)_vs_UniversidadCentral(Ven)_26/02/2025"
+        "id": "Corinthians_Bra_vs_Universidad_Central_Ven_26/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -537,9 +582,10 @@
         "Time Visitante": "Boston River (Uru)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Ñublense(Chi)_vs_BostonRiver(Uru)_26/02/2025"
+        "id": "Nublense_Chi_vs_Boston_River_Uru_26/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -549,9 +595,10 @@
         "Time Visitante": "The Strongest (Bol)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Bahia(Bra)_vs_TheStrongest(Bol)_25/02/2025"
+        "id": "Bahia_Bra_vs_The_Strongest_Bol_25/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -561,9 +608,10 @@
         "Time Visitante": "Alianza Lima (Per)",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "BocaJuniors(Arg)_vs_AlianzaLima(Per)_25/02/2025"
+        "id": "Boca_Juniors_Arg_vs_Alianza_Lima_Per_25/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -573,9 +621,10 @@
         "Time Visitante": "Deportes Iquique (Chi)",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "SantaFe(Col)_vs_DeportesIquique(Chi)_25/02/2025"
+        "id": "Santa_Fe_Col_vs_Deportes_Iquique_Chi_25/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -585,9 +634,10 @@
         "Time Visitante": "Melgar (Per)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Tolima(Col)_vs_Melgar(Per)_20/02/2025"
+        "id": "Tolima_Col_vs_Melgar_Per_20/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -597,9 +647,10 @@
         "Time Visitante": "Cerro Porteno (Par)",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "Monagas(Ven)_vs_CerroPorteno(Par)_20/02/2025"
+        "id": "Monagas_Ven_vs_Cerro_Porteno_Par_20/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -609,9 +660,10 @@
         "Time Visitante": "Barcelona (Ecu)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "ElNacional(Ecu)_vs_Barcelona(Ecu)_19/02/2025"
+        "id": "El_Nacional_Ecu_vs_Barcelona_Ecu_19/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -621,9 +673,10 @@
         "Time Visitante": "Corinthians (Bra)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "UniversidadCentral(Ven)_vs_Corinthians(Bra)_19/02/2025"
+        "id": "Universidad_Central_Ven_vs_Corinthians_Bra_19/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -633,9 +686,10 @@
         "Time Visitante": "Ñublense (Chi)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "BostonRiver(Uru)_vs_Ñublense(Chi)_19/02/2025"
+        "id": "Boston_River_Uru_vs_Nublense_Chi_19/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -645,9 +699,10 @@
         "Time Visitante": "Boca Juniors (Arg)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "AlianzaLima(Per)_vs_BocaJuniors(Arg)_18/02/2025"
+        "id": "Alianza_Lima_Per_vs_Boca_Juniors_Arg_18/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -657,9 +712,10 @@
         "Time Visitante": "Bahia (Bra)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "TheStrongest(Bol)_vs_Bahia(Bra)_18/02/2025"
+        "id": "The_Strongest_Bol_vs_Bahia_Bra_18/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "SEMIFINAIS",
@@ -669,9 +725,10 @@
         "Time Visitante": "Santa Fe (Col)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "DeportesIquique(Chi)_vs_SantaFe(Col)_18/02/2025"
+        "id": "Deportes_Iquique_Chi_vs_Santa_Fe_Col_18/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -681,9 +738,10 @@
         "Time Visitante": "Blooming (Bol)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "ElNacional(Ecu)_vs_Blooming(Bol)_13/02/2025"
+        "id": "El_Nacional_Ecu_vs_Blooming_Bol_13/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -693,9 +751,10 @@
         "Time Visitante": "Nacional Asunción (Par)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "AlianzaLima(Per)_vs_NacionalAsunción(Par)_12/02/2025"
+        "id": "Alianza_Lima_Per_vs_Nacional_Asuncion_Par_12/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -705,9 +764,10 @@
         "Time Visitante": "Monagas (Ven)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "DefensorSp.(Uru)_vs_Monagas(Ven)_11/02/2025"
+        "id": "Defensor_Sp_Uru_vs_Monagas_Ven_11/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -717,9 +777,10 @@
         "Time Visitante": "El Nacional (Ecu)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "Blooming(Bol)_vs_ElNacional(Ecu)_06/02/2025"
+        "id": "Blooming_Bol_vs_El_Nacional_Ecu_06/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -729,9 +790,10 @@
         "Time Visitante": "Alianza Lima (Per)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "NacionalAsunción(Par)_vs_AlianzaLima(Per)_05/02/2025"
+        "id": "Nacional_Asuncion_Par_vs_Alianza_Lima_Per_05/02/2025"
     },
     {
+        "origem": "América do sul",
         "Campeonato": "Copa Libertadores",
         "Temporada": "2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -741,6 +803,6 @@
         "Time Visitante": "Defensor Sp. (Uru)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Monagas(Ven)_vs_DefensorSp.(Uru)_04/02/2025"
+        "id": "Monagas_Ven_vs_Defensor_Sp_Uru_04/02/2025"
     }
 ]

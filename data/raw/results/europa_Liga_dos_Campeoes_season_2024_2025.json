@@ -1,5 +1,6 @@
 [
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -12,6 +13,7 @@
         "id": "Inter_vs_Bayern_16/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -21,9 +23,10 @@
         "Time Visitante": "Arsenal",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "RealMadrid_vs_Arsenal_16/04/2025"
+        "id": "Real_Madrid_vs_Arsenal_16/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -33,9 +36,10 @@
         "Time Visitante": "PSG",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "AstonVilla_vs_PSG_15/04/2025"
+        "id": "Aston_Villa_vs_PSG_15/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -48,6 +52,7 @@
         "id": "Dortmund_vs_Barcelona_15/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -60,6 +65,7 @@
         "id": "Barcelona_vs_Dortmund_09/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -69,9 +75,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "PSG_vs_AstonVilla_09/04/2025"
+        "id": "PSG_vs_Aston_Villa_09/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -81,9 +88,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Arsenal_vs_RealMadrid_08/04/2025"
+        "id": "Arsenal_vs_Real_Madrid_08/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -96,6 +104,7 @@
         "id": "Bayern_vs_Inter_08/04/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -108,6 +117,7 @@
         "id": "Arsenal_vs_PSV_12/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -117,9 +127,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "AstonVilla_vs_ClubBrugge_12/03/2025"
+        "id": "Aston_Villa_vs_Club_Brugge_12/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -129,9 +140,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Atl.Madrid_vs_RealMadrid_12/03/2025"
+        "id": "Atl_Madrid_vs_Real_Madrid_12/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -144,6 +156,7 @@
         "id": "Lille_vs_Dortmund_12/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -156,6 +169,7 @@
         "id": "Inter_vs_Feyenoord_11/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -168,6 +182,7 @@
         "id": "Leverkusen_vs_Bayern_11/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -180,6 +195,7 @@
         "id": "Liverpool_vs_PSG_11/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -192,6 +208,7 @@
         "id": "Barcelona_vs_Benfica_11/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -204,6 +221,7 @@
         "id": "Bayern_vs_Leverkusen_05/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -216,6 +234,7 @@
         "id": "Benfica_vs_Barcelona_05/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -228,6 +247,7 @@
         "id": "PSG_vs_Liverpool_05/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -240,6 +260,7 @@
         "id": "Feyenoord_vs_Inter_05/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -252,6 +273,7 @@
         "id": "Dortmund_vs_Lille_04/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -264,6 +286,7 @@
         "id": "PSV_vs_Arsenal_04/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -273,9 +296,10 @@
         "Time Visitante": "Atl. Madrid",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "RealMadrid_vs_Atl.Madrid_04/03/2025"
+        "id": "Real_Madrid_vs_Atl_Madrid_04/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -285,9 +309,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "ClubBrugge_vs_AstonVilla_04/03/2025"
+        "id": "Club_Brugge_vs_Aston_Villa_04/03/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -300,6 +325,7 @@
         "id": "PSG_vs_Brest_19/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -312,6 +338,7 @@
         "id": "PSV_vs_Juventus_19/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -321,9 +348,10 @@
         "Time Visitante": "Manchester City",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "RealMadrid_vs_ManchesterCity_19/02/2025"
+        "id": "Real_Madrid_vs_Manchester_City_19/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -336,6 +364,7 @@
         "id": "Dortmund_vs_Sporting_19/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -345,9 +374,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "Atalanta_vs_ClubBrugge_18/02/2025"
+        "id": "Atalanta_vs_Club_Brugge_18/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -360,6 +390,7 @@
         "id": "Bayern_vs_Celtic_18/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -372,6 +403,7 @@
         "id": "Benfica_vs_Monaco_18/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -381,9 +413,10 @@
         "Time Visitante": "Feyenoord",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "ACMilan_vs_Feyenoord_18/02/2025"
+        "id": "AC_Milan_vs_Feyenoord_18/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -396,6 +429,7 @@
         "id": "Celtic_vs_Bayern_12/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -405,9 +439,10 @@
         "Time Visitante": "AC Milan",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Feyenoord_vs_ACMilan_12/02/2025"
+        "id": "Feyenoord_vs_AC_Milan_12/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -420,6 +455,7 @@
         "id": "Monaco_vs_Benfica_12/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -429,9 +465,10 @@
         "Time Visitante": "Atalanta",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "ClubBrugge_vs_Atalanta_12/02/2025"
+        "id": "Club_Brugge_vs_Atalanta_12/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -444,6 +481,7 @@
         "id": "Juventus_vs_PSV_11/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -453,9 +491,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "ManchesterCity_vs_RealMadrid_11/02/2025"
+        "id": "Manchester_City_vs_Real_Madrid_11/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -468,6 +507,7 @@
         "id": "Sporting_vs_Dortmund_11/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "16 AVOS DE FINAL",
@@ -480,6 +520,7 @@
         "id": "Brest_vs_PSG_11/02/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -489,9 +530,10 @@
         "Time Visitante": "Celtic",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "AstonVilla_vs_Celtic_29/01/2025"
+        "id": "Aston_Villa_vs_Celtic_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -504,6 +546,7 @@
         "id": "Barcelona_vs_Atalanta_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -513,9 +556,10 @@
         "Time Visitante": "Slovan Bratislava",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Bayern_vs_SlovanBratislava_29/01/2025"
+        "id": "Bayern_vs_Slovan_Bratislava_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -525,9 +569,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Brest_vs_RealMadrid_29/01/2025"
+        "id": "Brest_vs_Real_Madrid_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -537,9 +582,10 @@
         "Time Visitante": "AC Milan",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Din.Zagreb_vs_ACMilan_29/01/2025"
+        "id": "Din_Zagreb_vs_AC_Milan_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -552,6 +598,7 @@
         "id": "Dortmund_vs_Shakhtar_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -564,6 +611,7 @@
         "id": "Girona_vs_Arsenal_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -576,6 +624,7 @@
         "id": "Inter_vs_Monaco_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -588,6 +637,7 @@
         "id": "Juventus_vs_Benfica_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -597,9 +647,10 @@
         "Time Visitante": "Sparta Praga",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Leverkusen_vs_SpartaPraga_29/01/2025"
+        "id": "Leverkusen_vs_Sparta_Praga_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -612,6 +663,7 @@
         "id": "Lille_vs_Feyenoord_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -621,9 +673,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "ManchesterCity_vs_ClubBrugge_29/01/2025"
+        "id": "Manchester_City_vs_Club_Brugge_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -636,6 +689,7 @@
         "id": "PSV_vs_Liverpool_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -645,9 +699,10 @@
         "Time Visitante": "Atl. Madrid",
         "Placar da Casa": "1",
         "Placar do Visitante": "4",
-        "id": "RedBullSalzburg_vs_Atl.Madrid_29/01/2025"
+        "id": "Red_Bull_Salzburg_vs_Atl_Madrid_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -660,6 +715,7 @@
         "id": "Sporting_vs_Bologna_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -669,9 +725,10 @@
         "Time Visitante": "RB Leipzig",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SturmGraz_vs_RBLeipzig_29/01/2025"
+        "id": "Sturm_Graz_vs_RB_Leipzig_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -684,6 +741,7 @@
         "id": "Stuttgart_vs_PSG_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 8",
@@ -693,9 +751,10 @@
         "Time Visitante": "Crvena zvezda",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "YoungBoys_vs_Crvenazvezda_29/01/2025"
+        "id": "Young_Boys_vs_Crvena_zvezda_29/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -705,9 +764,10 @@
         "Time Visitante": "Girona",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "ACMilan_vs_Girona_22/01/2025"
+        "id": "AC_Milan_vs_Girona_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -717,9 +777,10 @@
         "Time Visitante": "Din. Zagreb",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Arsenal_vs_Din.Zagreb_22/01/2025"
+        "id": "Arsenal_vs_Din_Zagreb_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -729,9 +790,10 @@
         "Time Visitante": "Young Boys",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Celtic_vs_YoungBoys_22/01/2025"
+        "id": "Celtic_vs_Young_Boys_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -744,6 +806,7 @@
         "id": "Feyenoord_vs_Bayern_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -753,9 +816,10 @@
         "Time Visitante": "Manchester City",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "PSG_vs_ManchesterCity_22/01/2025"
+        "id": "PSG_vs_Manchester_City_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -765,9 +829,10 @@
         "Time Visitante": "Red Bull Salzburg",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "RealMadrid_vs_RedBullSalzburg_22/01/2025"
+        "id": "Real_Madrid_vs_Red_Bull_Salzburg_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -777,9 +842,10 @@
         "Time Visitante": "Inter",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SpartaPraga_vs_Inter_22/01/2025"
+        "id": "Sparta_Praga_vs_Inter_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -789,9 +855,10 @@
         "Time Visitante": "Sporting",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "RBLeipzig_vs_Sporting_22/01/2025"
+        "id": "RB_Leipzig_vs_Sporting_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -804,6 +871,7 @@
         "id": "Shakhtar_vs_Brest_22/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -813,9 +881,10 @@
         "Time Visitante": "Leverkusen",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Atl.Madrid_vs_Leverkusen_21/01/2025"
+        "id": "Atl_Madrid_vs_Leverkusen_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -828,6 +897,7 @@
         "id": "Benfica_vs_Barcelona_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -840,6 +910,7 @@
         "id": "Bologna_vs_Dortmund_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -849,9 +920,10 @@
         "Time Visitante": "Juventus",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "ClubBrugge_vs_Juventus_21/01/2025"
+        "id": "Club_Brugge_vs_Juventus_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -861,9 +933,10 @@
         "Time Visitante": "PSV",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "Crvenazvezda_vs_PSV_21/01/2025"
+        "id": "Crvena_zvezda_vs_PSV_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -876,6 +949,7 @@
         "id": "Liverpool_vs_Lille_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -885,9 +959,10 @@
         "Time Visitante": "Stuttgart",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "SlovanBratislava_vs_Stuttgart_21/01/2025"
+        "id": "Slovan_Bratislava_vs_Stuttgart_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -897,9 +972,10 @@
         "Time Visitante": "Sturm Graz",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "Atalanta_vs_SturmGraz_21/01/2025"
+        "id": "Atalanta_vs_Sturm_Graz_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 7",
@@ -909,9 +985,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Monaco_vs_AstonVilla_21/01/2025"
+        "id": "Monaco_vs_Aston_Villa_21/01/2025"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -921,9 +998,10 @@
         "Time Visitante": "Crvena zvezda",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "ACMilan_vs_Crvenazvezda_11/12/2024"
+        "id": "AC_Milan_vs_Crvena_zvezda_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -936,6 +1014,7 @@
         "id": "Arsenal_vs_Monaco_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -948,6 +1027,7 @@
         "id": "Benfica_vs_Bologna_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -960,6 +1040,7 @@
         "id": "Dortmund_vs_Barcelona_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -969,9 +1050,10 @@
         "Time Visitante": "Sparta Praga",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "Feyenoord_vs_SpartaPraga_11/12/2024"
+        "id": "Feyenoord_vs_Sparta_Praga_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -981,9 +1063,10 @@
         "Time Visitante": "Manchester City",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Juventus_vs_ManchesterCity_11/12/2024"
+        "id": "Juventus_vs_Manchester_City_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -993,9 +1076,10 @@
         "Time Visitante": "Young Boys",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "Stuttgart_vs_YoungBoys_11/12/2024"
+        "id": "Stuttgart_vs_Young_Boys_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1005,9 +1089,10 @@
         "Time Visitante": "Slovan Bratislava",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Atl.Madrid_vs_SlovanBratislava_11/12/2024"
+        "id": "Atl_Madrid_vs_Slovan_Bratislava_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1017,9 +1102,10 @@
         "Time Visitante": "Sturm Graz",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "Lille_vs_SturmGraz_11/12/2024"
+        "id": "Lille_vs_Sturm_Graz_11/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1029,9 +1115,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "Atalanta_vs_RealMadrid_10/12/2024"
+        "id": "Atalanta_vs_Real_Madrid_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1044,6 +1131,7 @@
         "id": "Brest_vs_PSV_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1053,9 +1141,10 @@
         "Time Visitante": "Sporting",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "ClubBrugge_vs_Sporting_10/12/2024"
+        "id": "Club_Brugge_vs_Sporting_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1068,6 +1157,7 @@
         "id": "Leverkusen_vs_Inter_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1077,9 +1167,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "RBLeipzig_vs_AstonVilla_10/12/2024"
+        "id": "RB_Leipzig_vs_Aston_Villa_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1089,9 +1180,10 @@
         "Time Visitante": "PSG",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "RedBullSalzburg_vs_PSG_10/12/2024"
+        "id": "Red_Bull_Salzburg_vs_PSG_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1104,6 +1196,7 @@
         "id": "Shakhtar_vs_Bayern_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1113,9 +1206,10 @@
         "Time Visitante": "Celtic",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Din.Zagreb_vs_Celtic_10/12/2024"
+        "id": "Din_Zagreb_vs_Celtic_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 6",
@@ -1128,6 +1222,7 @@
         "id": "Girona_vs_Liverpool_10/12/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1137,9 +1232,10 @@
         "Time Visitante": "Juventus",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "AstonVilla_vs_Juventus_27/11/2024"
+        "id": "Aston_Villa_vs_Juventus_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1152,6 +1248,7 @@
         "id": "Bologna_vs_Lille_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1161,9 +1258,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Celtic_vs_ClubBrugge_27/11/2024"
+        "id": "Celtic_vs_Club_Brugge_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1173,9 +1271,10 @@
         "Time Visitante": "Dortmund",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Din.Zagreb_vs_Dortmund_27/11/2024"
+        "id": "Din_Zagreb_vs_Dortmund_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1185,9 +1284,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Liverpool_vs_RealMadrid_27/11/2024"
+        "id": "Liverpool_vs_Real_Madrid_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1200,6 +1300,7 @@
         "id": "Monaco_vs_Benfica_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1212,6 +1313,7 @@
         "id": "PSV_vs_Shakhtar_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1221,9 +1323,10 @@
         "Time Visitante": "Stuttgart",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "Crvenazvezda_vs_Stuttgart_27/11/2024"
+        "id": "Crvena_zvezda_vs_Stuttgart_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1233,9 +1336,10 @@
         "Time Visitante": "Girona",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "SturmGraz_vs_Girona_27/11/2024"
+        "id": "Sturm_Graz_vs_Girona_27/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1248,6 +1352,7 @@
         "id": "Barcelona_vs_Brest_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1260,6 +1365,7 @@
         "id": "Bayern_vs_PSG_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1269,9 +1375,10 @@
         "Time Visitante": "RB Leipzig",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Inter_vs_RBLeipzig_26/11/2024"
+        "id": "Inter_vs_RB_Leipzig_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1281,9 +1388,10 @@
         "Time Visitante": "Red Bull Salzburg",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "Leverkusen_vs_RedBullSalzburg_26/11/2024"
+        "id": "Leverkusen_vs_Red_Bull_Salzburg_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1293,9 +1401,10 @@
         "Time Visitante": "Feyenoord",
         "Placar da Casa": "3",
         "Placar do Visitante": "3",
-        "id": "ManchesterCity_vs_Feyenoord_26/11/2024"
+        "id": "Manchester_City_vs_Feyenoord_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1308,6 +1417,7 @@
         "id": "Sporting_vs_Arsenal_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1317,9 +1427,10 @@
         "Time Visitante": "Atalanta",
         "Placar da Casa": "1",
         "Placar do Visitante": "6",
-        "id": "YoungBoys_vs_Atalanta_26/11/2024"
+        "id": "Young_Boys_vs_Atalanta_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1329,9 +1440,10 @@
         "Time Visitante": "AC Milan",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "SlovanBratislava_vs_ACMilan_26/11/2024"
+        "id": "Slovan_Bratislava_vs_AC_Milan_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 5",
@@ -1341,9 +1453,10 @@
         "Time Visitante": "Atl. Madrid",
         "Placar da Casa": "0",
         "Placar do Visitante": "6",
-        "id": "SpartaPraga_vs_Atl.Madrid_26/11/2024"
+        "id": "Sparta_Praga_vs_Atl_Madrid_26/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1356,6 +1469,7 @@
         "id": "Bayern_vs_Benfica_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1365,9 +1479,10 @@
         "Time Visitante": "Barcelona",
         "Placar da Casa": "2",
         "Placar do Visitante": "5",
-        "id": "Crvenazvezda_vs_Barcelona_06/11/2024"
+        "id": "Crvena_zvezda_vs_Barcelona_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1377,9 +1492,10 @@
         "Time Visitante": "Red Bull Salzburg",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "Feyenoord_vs_RedBullSalzburg_06/11/2024"
+        "id": "Feyenoord_vs_Red_Bull_Salzburg_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1392,6 +1508,7 @@
         "id": "Inter_vs_Arsenal_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1401,9 +1518,10 @@
         "Time Visitante": "Atl. Madrid",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "PSG_vs_Atl.Madrid_06/11/2024"
+        "id": "PSG_vs_Atl_Madrid_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1413,9 +1531,10 @@
         "Time Visitante": "Brest",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "SpartaPraga_vs_Brest_06/11/2024"
+        "id": "Sparta_Praga_vs_Brest_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1428,6 +1547,7 @@
         "id": "Stuttgart_vs_Atalanta_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1437,9 +1557,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "ClubBrugge_vs_AstonVilla_06/11/2024"
+        "id": "Club_Brugge_vs_Aston_Villa_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1449,9 +1570,10 @@
         "Time Visitante": "Young Boys",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Shakhtar_vs_YoungBoys_06/11/2024"
+        "id": "Shakhtar_vs_Young_Boys_06/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1464,6 +1586,7 @@
         "id": "Bologna_vs_Monaco_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1473,9 +1596,10 @@
         "Time Visitante": "RB Leipzig",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Celtic_vs_RBLeipzig_05/11/2024"
+        "id": "Celtic_vs_RB_Leipzig_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1485,9 +1609,10 @@
         "Time Visitante": "Sturm Graz",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Dortmund_vs_SturmGraz_05/11/2024"
+        "id": "Dortmund_vs_Sturm_Graz_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1500,6 +1625,7 @@
         "id": "Lille_vs_Juventus_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1512,6 +1638,7 @@
         "id": "Liverpool_vs_Leverkusen_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1521,9 +1648,10 @@
         "Time Visitante": "AC Milan",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "RealMadrid_vs_ACMilan_05/11/2024"
+        "id": "Real_Madrid_vs_AC_Milan_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1533,9 +1661,10 @@
         "Time Visitante": "Manchester City",
         "Placar da Casa": "4",
         "Placar do Visitante": "1",
-        "id": "Sporting_vs_ManchesterCity_05/11/2024"
+        "id": "Sporting_vs_Manchester_City_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1548,6 +1677,7 @@
         "id": "PSV_vs_Girona_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 4",
@@ -1557,9 +1687,10 @@
         "Time Visitante": "Din. Zagreb",
         "Placar da Casa": "1",
         "Placar do Visitante": "4",
-        "id": "SlovanBratislava_vs_Din.Zagreb_05/11/2024"
+        "id": "Slovan_Bratislava_vs_Din_Zagreb_05/11/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1569,9 +1700,10 @@
         "Time Visitante": "Lille",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "Atl.Madrid_vs_Lille_23/10/2024"
+        "id": "Atl_Madrid_vs_Lille_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1584,6 +1716,7 @@
         "id": "Barcelona_vs_Bayern_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1596,6 +1729,7 @@
         "id": "Benfica_vs_Feyenoord_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1605,9 +1739,10 @@
         "Time Visitante": "Sparta Praga",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "ManchesterCity_vs_SpartaPraga_23/10/2024"
+        "id": "Manchester_City_vs_Sparta_Praga_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1617,9 +1752,10 @@
         "Time Visitante": "Liverpool",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "RBLeipzig_vs_Liverpool_23/10/2024"
+        "id": "RB_Leipzig_vs_Liverpool_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1629,9 +1765,10 @@
         "Time Visitante": "Din. Zagreb",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "RedBullSalzburg_vs_Din.Zagreb_23/10/2024"
+        "id": "Red_Bull_Salzburg_vs_Din_Zagreb_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1641,9 +1778,10 @@
         "Time Visitante": "Inter",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "YoungBoys_vs_Inter_23/10/2024"
+        "id": "Young_Boys_vs_Inter_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1656,6 +1794,7 @@
         "id": "Atalanta_vs_Celtic_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1668,6 +1807,7 @@
         "id": "Brest_vs_Leverkusen_23/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1680,6 +1820,7 @@
         "id": "Arsenal_vs_Shakhtar_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1689,9 +1830,10 @@
         "Time Visitante": "Bologna",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "AstonVilla_vs_Bologna_22/10/2024"
+        "id": "Aston_Villa_vs_Bologna_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1701,9 +1843,10 @@
         "Time Visitante": "Slovan Bratislava",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Girona_vs_SlovanBratislava_22/10/2024"
+        "id": "Girona_vs_Slovan_Bratislava_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1716,6 +1859,7 @@
         "id": "Juventus_vs_Stuttgart_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1728,6 +1872,7 @@
         "id": "PSG_vs_PSV_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1737,9 +1882,10 @@
         "Time Visitante": "Dortmund",
         "Placar da Casa": "5",
         "Placar do Visitante": "2",
-        "id": "RealMadrid_vs_Dortmund_22/10/2024"
+        "id": "Real_Madrid_vs_Dortmund_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1749,9 +1895,10 @@
         "Time Visitante": "Sporting",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "SturmGraz_vs_Sporting_22/10/2024"
+        "id": "Sturm_Graz_vs_Sporting_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1761,9 +1908,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "ACMilan_vs_ClubBrugge_22/10/2024"
+        "id": "AC_Milan_vs_Club_Brugge_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 3",
@@ -1773,9 +1921,10 @@
         "Time Visitante": "Crvena zvezda",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "Monaco_vs_Crvenazvezda_22/10/2024"
+        "id": "Monaco_vs_Crvena_zvezda_22/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1785,9 +1934,10 @@
         "Time Visitante": "Bayern",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "AstonVilla_vs_Bayern_02/10/2024"
+        "id": "Aston_Villa_vs_Bayern_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1797,9 +1947,10 @@
         "Time Visitante": "Atl. Madrid",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Benfica_vs_Atl.Madrid_02/10/2024"
+        "id": "Benfica_vs_Atl_Madrid_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1809,9 +1960,10 @@
         "Time Visitante": "Monaco",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "Din.Zagreb_vs_Monaco_02/10/2024"
+        "id": "Din_Zagreb_vs_Monaco_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1821,9 +1973,10 @@
         "Time Visitante": "Real Madrid",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Lille_vs_RealMadrid_02/10/2024"
+        "id": "Lille_vs_Real_Madrid_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1836,6 +1989,7 @@
         "id": "Liverpool_vs_Bologna_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1845,9 +1999,10 @@
         "Time Visitante": "Juventus",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "RBLeipzig_vs_Juventus_02/10/2024"
+        "id": "RB_Leipzig_vs_Juventus_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1857,9 +2012,10 @@
         "Time Visitante": "Club Brugge",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "SturmGraz_vs_ClubBrugge_02/10/2024"
+        "id": "Sturm_Graz_vs_Club_Brugge_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1872,6 +2028,7 @@
         "id": "Girona_vs_Feyenoord_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1884,6 +2041,7 @@
         "id": "Shakhtar_vs_Atalanta_02/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1896,6 +2054,7 @@
         "id": "Arsenal_vs_PSG_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1905,9 +2064,10 @@
         "Time Visitante": "Young Boys",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "Barcelona_vs_YoungBoys_01/10/2024"
+        "id": "Barcelona_vs_Young_Boys_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1920,6 +2080,7 @@
         "id": "Dortmund_vs_Celtic_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1929,9 +2090,10 @@
         "Time Visitante": "Crvena zvezda",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Inter_vs_Crvenazvezda_01/10/2024"
+        "id": "Inter_vs_Crvena_zvezda_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1941,9 +2103,10 @@
         "Time Visitante": "AC Milan",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Leverkusen_vs_ACMilan_01/10/2024"
+        "id": "Leverkusen_vs_AC_Milan_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1956,6 +2119,7 @@
         "id": "PSV_vs_Sporting_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1965,9 +2129,10 @@
         "Time Visitante": "Manchester City",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "SlovanBratislava_vs_ManchesterCity_01/10/2024"
+        "id": "Slovan_Bratislava_vs_Manchester_City_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1977,9 +2142,10 @@
         "Time Visitante": "Brest",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "RedBullSalzburg_vs_Brest_01/10/2024"
+        "id": "Red_Bull_Salzburg_vs_Brest_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 2",
@@ -1989,9 +2155,10 @@
         "Time Visitante": "Sparta Praga",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Stuttgart_vs_SpartaPraga_01/10/2024"
+        "id": "Stuttgart_vs_Sparta_Praga_01/10/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2004,6 +2171,7 @@
         "id": "Atalanta_vs_Arsenal_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2013,9 +2181,10 @@
         "Time Visitante": "RB Leipzig",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Atl.Madrid_vs_RBLeipzig_19/09/2024"
+        "id": "Atl_Madrid_vs_RB_Leipzig_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2025,9 +2194,10 @@
         "Time Visitante": "Sturm Graz",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Brest_vs_SturmGraz_19/09/2024"
+        "id": "Brest_vs_Sturm_Graz_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2040,6 +2210,7 @@
         "id": "Monaco_vs_Barcelona_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2049,9 +2220,10 @@
         "Time Visitante": "Benfica",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Crvenazvezda_vs_Benfica_19/09/2024"
+        "id": "Crvena_zvezda_vs_Benfica_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2064,6 +2236,7 @@
         "id": "Feyenoord_vs_Leverkusen_19/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2073,9 +2246,10 @@
         "Time Visitante": "Slovan Bratislava",
         "Placar da Casa": "5",
         "Placar do Visitante": "1",
-        "id": "Celtic_vs_SlovanBratislava_18/09/2024"
+        "id": "Celtic_vs_Slovan_Bratislava_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2085,9 +2259,10 @@
         "Time Visitante": "Dortmund",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "ClubBrugge_vs_Dortmund_18/09/2024"
+        "id": "Club_Brugge_vs_Dortmund_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2097,9 +2272,10 @@
         "Time Visitante": "Inter",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "ManchesterCity_vs_Inter_18/09/2024"
+        "id": "Manchester_City_vs_Inter_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2112,6 +2288,7 @@
         "id": "PSG_vs_Girona_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2124,6 +2301,7 @@
         "id": "Bologna_vs_Shakhtar_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2133,9 +2311,10 @@
         "Time Visitante": "Red Bull Salzburg",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "SpartaPraga_vs_RedBullSalzburg_18/09/2024"
+        "id": "Sparta_Praga_vs_Red_Bull_Salzburg_18/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2145,9 +2324,10 @@
         "Time Visitante": "Liverpool",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "ACMilan_vs_Liverpool_17/09/2024"
+        "id": "AC_Milan_vs_Liverpool_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2157,9 +2337,10 @@
         "Time Visitante": "Din. Zagreb",
         "Placar da Casa": "9",
         "Placar do Visitante": "2",
-        "id": "Bayern_vs_Din.Zagreb_17/09/2024"
+        "id": "Bayern_vs_Din_Zagreb_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2169,9 +2350,10 @@
         "Time Visitante": "Stuttgart",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "RealMadrid_vs_Stuttgart_17/09/2024"
+        "id": "Real_Madrid_vs_Stuttgart_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2184,6 +2366,7 @@
         "id": "Sporting_vs_Lille_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2196,6 +2379,7 @@
         "id": "Juventus_vs_PSV_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 1",
@@ -2205,9 +2389,10 @@
         "Time Visitante": "Aston Villa",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "YoungBoys_vs_AstonVilla_17/09/2024"
+        "id": "Young_Boys_vs_Aston_Villa_17/09/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2217,9 +2402,10 @@
         "Time Visitante": "Bodo/Glimt (Nor)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Crvenazvezda(Srb)_vs_Bodo/Glimt(Nor)_28/08/2024"
+        "id": "Crvena_zvezda_Srb_vs_BodoGlimt_Nor_28/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2229,9 +2415,10 @@
         "Time Visitante": "Lille (Fra)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "SlaviaPraga(Cze)_vs_Lille(Fra)_28/08/2024"
+        "id": "Slavia_Praga_Cze_vs_Lille_Fra_28/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2241,9 +2428,10 @@
         "Time Visitante": "Midtjylland (Den)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "SlovanBratislava(Svk)_vs_Midtjylland(Den)_28/08/2024"
+        "id": "Slovan_Bratislava_Svk_vs_Midtjylland_Den_28/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2253,9 +2441,10 @@
         "Time Visitante": "Din. Zagreb (Cro)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Qarabag(Aze)_vs_Din.Zagreb(Cro)_28/08/2024"
+        "id": "Qarabag_Aze_vs_Din_Zagreb_Cro_28/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2265,9 +2454,10 @@
         "Time Visitante": "Young Boys (Sui)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Galatasaray(Tur)_vs_YoungBoys(Sui)_27/08/2024"
+        "id": "Galatasaray_Tur_vs_Young_Boys_Sui_27/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2277,9 +2467,10 @@
         "Time Visitante": "Dyn. Kiev (Ukr)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "RedBullSalzburg(Aut)_vs_Dyn.Kiev(Ukr)_27/08/2024"
+        "id": "Red_Bull_Salzburg_Aut_vs_Dyn_Kiev_Ukr_27/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2289,9 +2480,10 @@
         "Time Visitante": "Malmö FF (Swe)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SpartaPraga(Cze)_vs_MalmöFF(Swe)_27/08/2024"
+        "id": "Sparta_Praga_Cze_vs_Malmo_FF_Swe_27/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2301,9 +2493,10 @@
         "Time Visitante": "Red Bull Salzburg (Aut)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Dyn.Kiev(Ukr)_vs_RedBullSalzburg(Aut)_21/08/2024"
+        "id": "Dyn_Kiev_Ukr_vs_Red_Bull_Salzburg_Aut_21/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2313,9 +2506,10 @@
         "Time Visitante": "Sparta Praga (Cze)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "MalmöFF(Swe)_vs_SpartaPraga(Cze)_21/08/2024"
+        "id": "Malmo_FF_Swe_vs_Sparta_Praga_Cze_21/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2325,9 +2519,10 @@
         "Time Visitante": "Slovan Bratislava (Svk)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Midtjylland(Den)_vs_SlovanBratislava(Svk)_21/08/2024"
+        "id": "Midtjylland_Den_vs_Slovan_Bratislava_Svk_21/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2337,9 +2532,10 @@
         "Time Visitante": "Galatasaray (Tur)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "YoungBoys(Sui)_vs_Galatasaray(Tur)_21/08/2024"
+        "id": "Young_Boys_Sui_vs_Galatasaray_Tur_21/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2349,9 +2545,10 @@
         "Time Visitante": "Crvena zvezda (Srb)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Bodo/Glimt(Nor)_vs_Crvenazvezda(Srb)_20/08/2024"
+        "id": "BodoGlimt_Nor_vs_Crvena_zvezda_Srb_20/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2361,9 +2558,10 @@
         "Time Visitante": "Qarabag (Aze)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "Din.Zagreb(Cro)_vs_Qarabag(Aze)_20/08/2024"
+        "id": "Din_Zagreb_Cro_vs_Qarabag_Aze_20/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "FINAL",
@@ -2373,9 +2571,10 @@
         "Time Visitante": "Slavia Praga (Cze)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Lille(Fra)_vs_SlaviaPraga(Cze)_20/08/2024"
+        "id": "Lille_Fra_vs_Slavia_Praga_Cze_20/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2385,9 +2584,10 @@
         "Time Visitante": "Dyn. Kiev (Ukr)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Rangers(Sco)_vs_Dyn.Kiev(Ukr)_13/08/2024"
+        "id": "Rangers_Sco_vs_Dyn_Kiev_Ukr_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2397,9 +2597,10 @@
         "Time Visitante": "Sparta Praga (Cze)",
         "Placar da Casa": "2",
         "Placar do Visitante": "3",
-        "id": "FCSB(Rou)_vs_SpartaPraga(Cze)_13/08/2024"
+        "id": "FCSB_Rou_vs_Sparta_Praga_Cze_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2409,9 +2610,10 @@
         "Time Visitante": "Slavia Praga (Cze)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "RoyaleUnionSG(Bel)_vs_SlaviaPraga(Cze)_13/08/2024"
+        "id": "Royale_Union_SG_Bel_vs_Slavia_Praga_Cze_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2421,9 +2623,10 @@
         "Time Visitante": "Midtjylland (Den)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Ferencvaros(Hun)_vs_Midtjylland(Den)_13/08/2024"
+        "id": "Ferencvaros_Hun_vs_Midtjylland_Den_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2433,9 +2636,10 @@
         "Time Visitante": "Qarabag (Aze)",
         "Placar da Casa": "2",
         "Placar do Visitante": "7",
-        "id": "Ludogorets(Bul)_vs_Qarabag(Aze)_13/08/2024"
+        "id": "Ludogorets_Bul_vs_Qarabag_Aze_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2445,9 +2649,10 @@
         "Time Visitante": "Malmö FF (Swe)",
         "Placar da Casa": "3",
         "Placar do Visitante": "4",
-        "id": "PAOK(Gre)_vs_MalmöFF(Swe)_13/08/2024"
+        "id": "PAOK_Gre_vs_Malmo_FF_Swe_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2457,9 +2662,10 @@
         "Time Visitante": "Slovan Bratislava (Svk)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "APOEL(Cyp)_vs_SlovanBratislava(Svk)_13/08/2024"
+        "id": "APOEL_Cyp_vs_Slovan_Bratislava_Svk_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2469,9 +2675,10 @@
         "Time Visitante": "Jagiellonia (Pol)",
         "Placar da Casa": "4",
         "Placar do Visitante": "1",
-        "id": "Bodo/Glimt(Nor)_vs_Jagiellonia(Pol)_13/08/2024"
+        "id": "BodoGlimt_Nor_vs_Jagiellonia_Pol_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2481,9 +2688,10 @@
         "Time Visitante": "Lille (Fra)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Fenerbahce(Tur)_vs_Lille(Fra)_13/08/2024"
+        "id": "Fenerbahce_Tur_vs_Lille_Fra_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2493,9 +2701,10 @@
         "Time Visitante": "Red Bull Salzburg (Aut)",
         "Placar da Casa": "3",
         "Placar do Visitante": "3",
-        "id": "Twente(Ned)_vs_RedBullSalzburg(Aut)_13/08/2024"
+        "id": "Twente_Ned_vs_Red_Bull_Salzburg_Aut_13/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2505,9 +2714,10 @@
         "Time Visitante": "Bodo/Glimt (Nor)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Jagiellonia(Pol)_vs_Bodo/Glimt(Nor)_07/08/2024"
+        "id": "Jagiellonia_Pol_vs_BodoGlimt_Nor_07/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2517,9 +2727,10 @@
         "Time Visitante": "APOEL (Cyp)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "SlovanBratislava(Svk)_vs_APOEL(Cyp)_07/08/2024"
+        "id": "Slovan_Bratislava_Svk_vs_APOEL_Cyp_07/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2529,9 +2740,10 @@
         "Time Visitante": "Royale Union SG (Bel)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "SlaviaPraga(Cze)_vs_RoyaleUnionSG(Bel)_07/08/2024"
+        "id": "Slavia_Praga_Cze_vs_Royale_Union_SG_Bel_07/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2541,9 +2753,10 @@
         "Time Visitante": "Twente (Ned)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "RedBullSalzburg(Aut)_vs_Twente(Ned)_06/08/2024"
+        "id": "Red_Bull_Salzburg_Aut_vs_Twente_Ned_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2553,9 +2766,10 @@
         "Time Visitante": "Fenerbahce (Tur)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Lille(Fra)_vs_Fenerbahce(Tur)_06/08/2024"
+        "id": "Lille_Fra_vs_Fenerbahce_Tur_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2565,9 +2779,10 @@
         "Time Visitante": "Rangers (Sco)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Dyn.Kiev(Ukr)_vs_Rangers(Sco)_06/08/2024"
+        "id": "Dyn_Kiev_Ukr_vs_Rangers_Sco_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2577,9 +2792,10 @@
         "Time Visitante": "FCSB (Rou)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "SpartaPraga(Cze)_vs_FCSB(Rou)_06/08/2024"
+        "id": "Sparta_Praga_Cze_vs_FCSB_Rou_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2589,9 +2805,10 @@
         "Time Visitante": "Ferencvaros (Hun)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Midtjylland(Den)_vs_Ferencvaros(Hun)_06/08/2024"
+        "id": "Midtjylland_Den_vs_Ferencvaros_Hun_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2601,9 +2818,10 @@
         "Time Visitante": "PAOK (Gre)",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "MalmöFF(Swe)_vs_PAOK(Gre)_06/08/2024"
+        "id": "Malmo_FF_Swe_vs_PAOK_Gre_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
@@ -2613,9 +2831,10 @@
         "Time Visitante": "Ludogorets (Bul)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Qarabag(Aze)_vs_Ludogorets(Bul)_06/08/2024"
+        "id": "Qarabag_Aze_vs_Ludogorets_Bul_06/08/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2625,9 +2844,10 @@
         "Time Visitante": "PAOK (Gre)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "BoracBanjaLuka(Bih)_vs_PAOK(Gre)_31/07/2024"
+        "id": "Borac_Banja_Luka_Bih_vs_PAOK_Gre_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2637,9 +2857,10 @@
         "Time Visitante": "Ludogorets (Bul)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Din.Minsk(Blr)_vs_Ludogorets(Bul)_31/07/2024"
+        "id": "Din_Minsk_Blr_vs_Ludogorets_Bul_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2649,9 +2870,10 @@
         "Time Visitante": "FK Panevezys (Ltu)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Jagiellonia(Pol)_vs_FKPanevezys(Ltu)_31/07/2024"
+        "id": "Jagiellonia_Pol_vs_FK_Panevezys_Ltu_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2661,9 +2883,10 @@
         "Time Visitante": "FCSB (Rou)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "M.TelAviv(Isr)_vs_FCSB(Rou)_31/07/2024"
+        "id": "M_Tel_Aviv_Isr_vs_FCSB_Rou_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2673,9 +2896,10 @@
         "Time Visitante": "Dyn. Kiev (Ukr)",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "Partizan(Srb)_vs_Dyn.Kiev(Ukr)_31/07/2024"
+        "id": "Partizan_Srb_vs_Dyn_Kiev_Ukr_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2685,9 +2909,10 @@
         "Time Visitante": "UE Santa Coloma (And)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Midtjylland(Den)_vs_UESantaColoma(And)_31/07/2024"
+        "id": "Midtjylland_Den_vs_UE_Santa_Coloma_And_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2697,9 +2922,10 @@
         "Time Visitante": "Bodo/Glimt (Nor)",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "RFS(Lat)_vs_Bodo/Glimt(Nor)_31/07/2024"
+        "id": "RFS_Lat_vs_BodoGlimt_Nor_31/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2709,9 +2935,10 @@
         "Time Visitante": "Malmö FF (Swe)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "Klaksvik(Fai)_vs_MalmöFF(Swe)_30/07/2024"
+        "id": "Klaksvik_Fai_vs_Malmo_FF_Swe_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2721,9 +2948,10 @@
         "Time Visitante": "Celje (Slo)",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "SlovanBratislava(Svk)_vs_Celje(Slo)_30/07/2024"
+        "id": "Slovan_Bratislava_Svk_vs_Celje_Slo_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2733,9 +2961,10 @@
         "Time Visitante": "Ferencvaros (Hun)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "TNS(Wal)_vs_Ferencvaros(Hun)_30/07/2024"
+        "id": "TNS_Wal_vs_Ferencvaros_Hun_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2745,9 +2974,10 @@
         "Time Visitante": "Lugano (Sui)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Fenerbahce(Tur)_vs_Lugano(Sui)_30/07/2024"
+        "id": "Fenerbahce_Tur_vs_Lugano_Sui_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2757,9 +2987,10 @@
         "Time Visitante": "APOEL (Cyp)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Petrocub(Mda)_vs_APOEL(Cyp)_30/07/2024"
+        "id": "Petrocub_Mda_vs_APOEL_Cyp_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2769,9 +3000,10 @@
         "Time Visitante": "Shamrock Rovers (Irl)",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "SpartaPraga(Cze)_vs_ShamrockRovers(Irl)_30/07/2024"
+        "id": "Sparta_Praga_Cze_vs_Shamrock_Rovers_Irl_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2781,9 +3013,10 @@
         "Time Visitante": "Lincoln (Gib)",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "Qarabag(Aze)_vs_Lincoln(Gib)_30/07/2024"
+        "id": "Qarabag_Aze_vs_Lincoln_Gib_30/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2793,9 +3026,10 @@
         "Time Visitante": "Slovan Bratislava (Svk)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Celje(Slo)_vs_SlovanBratislava(Svk)_24/07/2024"
+        "id": "Celje_Slo_vs_Slovan_Bratislava_Svk_24/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2805,9 +3039,10 @@
         "Time Visitante": "Din. Minsk (Blr)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Ludogorets(Bul)_vs_Din.Minsk(Blr)_24/07/2024"
+        "id": "Ludogorets_Bul_vs_Din_Minsk_Blr_24/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2817,9 +3052,10 @@
         "Time Visitante": "Borac Banja Luka (Bih)",
         "Placar da Casa": "3",
         "Placar do Visitante": "2",
-        "id": "PAOK(Gre)_vs_BoracBanjaLuka(Bih)_24/07/2024"
+        "id": "PAOK_Gre_vs_Borac_Banja_Luka_Bih_24/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2829,9 +3065,10 @@
         "Time Visitante": "Sparta Praga (Cze)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "ShamrockRovers(Irl)_vs_SpartaPraga(Cze)_23/07/2024"
+        "id": "Shamrock_Rovers_Irl_vs_Sparta_Praga_Cze_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2841,9 +3078,10 @@
         "Time Visitante": "Fenerbahce (Tur)",
         "Placar da Casa": "3",
         "Placar do Visitante": "4",
-        "id": "Lugano(Sui)_vs_Fenerbahce(Tur)_23/07/2024"
+        "id": "Lugano_Sui_vs_Fenerbahce_Tur_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2853,9 +3091,10 @@
         "Time Visitante": "Partizan (Srb)",
         "Placar da Casa": "6",
         "Placar do Visitante": "2",
-        "id": "Dyn.Kiev(Ukr)_vs_Partizan(Srb)_23/07/2024"
+        "id": "Dyn_Kiev_Ukr_vs_Partizan_Srb_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2865,9 +3104,10 @@
         "Time Visitante": "TNS (Wal)",
         "Placar da Casa": "5",
         "Placar do Visitante": "0",
-        "id": "Ferencvaros(Hun)_vs_TNS(Wal)_23/07/2024"
+        "id": "Ferencvaros_Hun_vs_TNS_Wal_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2877,9 +3117,10 @@
         "Time Visitante": "Midtjylland (Den)",
         "Placar da Casa": "0",
         "Placar do Visitante": "3",
-        "id": "UESantaColoma(And)_vs_Midtjylland(Den)_23/07/2024"
+        "id": "UE_Santa_Coloma_And_vs_Midtjylland_Den_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2889,9 +3130,10 @@
         "Time Visitante": "M. Tel Aviv (Isr)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "FCSB(Rou)_vs_M.TelAviv(Isr)_23/07/2024"
+        "id": "FCSB_Rou_vs_M_Tel_Aviv_Isr_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2901,9 +3143,10 @@
         "Time Visitante": "Petrocub (Mda)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "APOEL(Cyp)_vs_Petrocub(Mda)_23/07/2024"
+        "id": "APOEL_Cyp_vs_Petrocub_Mda_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2913,9 +3156,10 @@
         "Time Visitante": "Klaksvik (Fai)",
         "Placar da Casa": "4",
         "Placar do Visitante": "1",
-        "id": "MalmöFF(Swe)_vs_Klaksvik(Fai)_23/07/2024"
+        "id": "Malmo_FF_Swe_vs_Klaksvik_Fai_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2925,9 +3169,10 @@
         "Time Visitante": "Qarabag (Aze)",
         "Placar da Casa": "0",
         "Placar do Visitante": "2",
-        "id": "Lincoln(Gib)_vs_Qarabag(Aze)_23/07/2024"
+        "id": "Lincoln_Gib_vs_Qarabag_Aze_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2937,9 +3182,10 @@
         "Time Visitante": "Jagiellonia (Pol)",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "FKPanevezys(Ltu)_vs_Jagiellonia(Pol)_23/07/2024"
+        "id": "FK_Panevezys_Ltu_vs_Jagiellonia_Pol_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "QUARTAS DE FINAL",
@@ -2949,9 +3195,10 @@
         "Time Visitante": "RFS (Lat)",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "Bodo/Glimt(Nor)_vs_RFS(Lat)_23/07/2024"
+        "id": "BodoGlimt_Nor_vs_RFS_Lat_23/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -2961,9 +3208,10 @@
         "Time Visitante": "Borac Banja Luka (Bih)",
         "Placar da Casa": "2",
         "Placar do Visitante": "2",
-        "id": "KFEgnatia(Alb)_vs_BoracBanjaLuka(Bih)_17/07/2024"
+        "id": "KF_Egnatia_Alb_vs_Borac_Banja_Luka_Bih_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -2973,9 +3221,10 @@
         "Time Visitante": "RFS (Lat)",
         "Placar da Casa": "0",
         "Placar do Visitante": "4",
-        "id": "Larne(Nir)_vs_RFS(Lat)_17/07/2024"
+        "id": "Larne_Nir_vs_RFS_Lat_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -2985,9 +3234,10 @@
         "Time Visitante": "Klaksvik (Fai)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Differdange(Lux)_vs_Klaksvik(Fai)_17/07/2024"
+        "id": "Differdange_Lux_vs_Klaksvik_Fai_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -2997,9 +3247,10 @@
         "Time Visitante": "Ludogorets (Bul)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "DinamoBatumi(Geo)_vs_Ludogorets(Bul)_17/07/2024"
+        "id": "Dinamo_Batumi_Geo_vs_Ludogorets_Bul_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3009,9 +3260,10 @@
         "Time Visitante": "Ordabasy (Kaz)",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "Petrocub(Mda)_vs_Ordabasy(Kaz)_17/07/2024"
+        "id": "Petrocub_Mda_vs_Ordabasy_Kaz_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3021,9 +3273,10 @@
         "Time Visitante": "Slovan Bratislava (Svk)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "Struga(Mkd)_vs_SlovanBratislava(Svk)_17/07/2024"
+        "id": "Struga_Mkd_vs_Slovan_Bratislava_Svk_17/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3033,9 +3286,10 @@
         "Time Visitante": "TNS (Wal)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Decic(Mne)_vs_TNS(Wal)_16/07/2024"
+        "id": "Decic_Mne_vs_TNS_Wal_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3045,9 +3299,10 @@
         "Time Visitante": "Vikingur Reykjavik (Ice)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "ShamrockRovers(Irl)_vs_VikingurReykjavik(Ice)_16/07/2024"
+        "id": "Shamrock_Rovers_Irl_vs_Vikingur_Reykjavik_Ice_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3057,9 +3312,10 @@
         "Time Visitante": "Virtus (San)",
         "Placar da Casa": "4",
         "Placar do Visitante": "0",
-        "id": "FCSB(Rou)_vs_Virtus(San)_16/07/2024"
+        "id": "FCSB_Rou_vs_Virtus_San_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3069,9 +3325,10 @@
         "Time Visitante": "Flora (Est)",
         "Placar da Casa": "2",
         "Placar do Visitante": "1",
-        "id": "Celje(Slo)_vs_Flora(Est)_16/07/2024"
+        "id": "Celje_Slo_vs_Flora_Est_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3081,9 +3338,10 @@
         "Time Visitante": "FK Panevezys (Ltu)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "HJK(Fin)_vs_FKPanevezys(Ltu)_16/07/2024"
+        "id": "HJK_Fin_vs_FK_Panevezys_Ltu_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3093,9 +3351,10 @@
         "Time Visitante": "Hamrun (Mlt)",
         "Placar da Casa": "1",
         "Placar do Visitante": "1",
-        "id": "Lincoln(Gib)_vs_Hamrun(Mlt)_16/07/2024"
+        "id": "Lincoln_Gib_vs_Hamrun_Mlt_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3105,9 +3364,10 @@
         "Time Visitante": "Din. Minsk (Blr)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Pyunik(Arm)_vs_Din.Minsk(Blr)_16/07/2024"
+        "id": "Pyunik_Arm_vs_Din_Minsk_Blr_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3117,9 +3377,10 @@
         "Time Visitante": "UE Santa Coloma (And)",
         "Placar da Casa": "1",
         "Placar do Visitante": "3",
-        "id": "FCBallkani(Kos)_vs_UESantaColoma(And)_16/07/2024"
+        "id": "FC_Ballkani_Kos_vs_UE_Santa_Coloma_And_16/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3129,9 +3390,10 @@
         "Time Visitante": "KF Egnatia (Alb)\n2",
         "Placar da Casa": "1",
         "Placar do Visitante": "0",
-        "id": "BoracBanjaLuka(Bih)_vs_KFEgnatia(Alb)\n2_10/07/2024"
+        "id": "Borac_Banja_Luka_Bih_vs_KF_Egnatia_Alb_2_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3141,9 +3403,10 @@
         "Time Visitante": "Pyunik (Arm)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Din.Minsk(Blr)_vs_Pyunik(Arm)_10/07/2024"
+        "id": "Din_Minsk_Blr_vs_Pyunik_Arm_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3153,9 +3416,10 @@
         "Time Visitante": "Differdange (Lux)",
         "Placar da Casa": "2",
         "Placar do Visitante": "0",
-        "id": "Klaksvik(Fai)_vs_Differdange(Lux)_10/07/2024"
+        "id": "Klaksvik_Fai_vs_Differdange_Lux_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3165,9 +3429,10 @@
         "Time Visitante": "Dinamo Batumi (Geo)",
         "Placar da Casa": "3",
         "Placar do Visitante": "1",
-        "id": "Ludogorets(Bul)_vs_DinamoBatumi(Geo)_10/07/2024"
+        "id": "Ludogorets_Bul_vs_Dinamo_Batumi_Geo_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3177,9 +3442,10 @@
         "Time Visitante": "Larne (Nir)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "RFS(Lat)_vs_Larne(Nir)_10/07/2024"
+        "id": "RFS_Lat_vs_Larne_Nir_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3189,9 +3455,10 @@
         "Time Visitante": "Struga (Mkd)",
         "Placar da Casa": "4",
         "Placar do Visitante": "2",
-        "id": "SlovanBratislava(Svk)_vs_Struga(Mkd)_10/07/2024"
+        "id": "Slovan_Bratislava_Svk_vs_Struga_Mkd_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3201,9 +3468,10 @@
         "Time Visitante": "Celje (Slo)",
         "Placar da Casa": "0",
         "Placar do Visitante": "5",
-        "id": "Flora(Est)_vs_Celje(Slo)_10/07/2024"
+        "id": "Flora_Est_vs_Celje_Slo_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3213,9 +3481,10 @@
         "Time Visitante": "Petrocub (Mda)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "Ordabasy(Kaz)_vs_Petrocub(Mda)_10/07/2024"
+        "id": "Ordabasy_Kaz_vs_Petrocub_Mda_10/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3225,9 +3494,10 @@
         "Time Visitante": "FCSB (Rou)",
         "Placar da Casa": "1",
         "Placar do Visitante": "7",
-        "id": "Virtus(San)_vs_FCSB(Rou)_09/07/2024"
+        "id": "Virtus_San_vs_FCSB_Rou_09/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3237,9 +3507,10 @@
         "Time Visitante": "Shamrock Rovers (Irl)",
         "Placar da Casa": "0",
         "Placar do Visitante": "0",
-        "id": "VikingurReykjavik(Ice)_vs_ShamrockRovers(Irl)_09/07/2024"
+        "id": "Vikingur_Reykjavik_Ice_vs_Shamrock_Rovers_Irl_09/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3249,9 +3520,10 @@
         "Time Visitante": "Decic (Mne)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "TNS(Wal)_vs_Decic(Mne)_09/07/2024"
+        "id": "TNS_Wal_vs_Decic_Mne_09/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3261,9 +3533,10 @@
         "Time Visitante": "FC Ballkani (Kos)",
         "Placar da Casa": "1",
         "Placar do Visitante": "2",
-        "id": "UESantaColoma(And)_vs_FCBallkani(Kos)_09/07/2024"
+        "id": "UE_Santa_Coloma_And_vs_FC_Ballkani_Kos_09/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3273,9 +3546,10 @@
         "Time Visitante": "Lincoln (Gib)",
         "Placar da Casa": "0",
         "Placar do Visitante": "1",
-        "id": "Hamrun(Mlt)_vs_Lincoln(Gib)_09/07/2024"
+        "id": "Hamrun_Mlt_vs_Lincoln_Gib_09/07/2024"
     },
     {
+        "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "OITAVAS DE FINAL",
@@ -3285,6 +3559,6 @@
         "Time Visitante": "HJK (Fin)",
         "Placar da Casa": "3",
         "Placar do Visitante": "0",
-        "id": "FKPanevezys(Ltu)_vs_HJK(Fin)_09/07/2024"
+        "id": "FK_Panevezys_Ltu_vs_HJK_Fin_09/07/2024"
     }
 ]

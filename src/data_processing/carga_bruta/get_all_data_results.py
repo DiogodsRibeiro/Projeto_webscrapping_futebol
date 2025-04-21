@@ -37,9 +37,14 @@ def extrair_dados(url_resultado, ano_atual):
                 break
 
         season = driver.find_element(By.CLASS_NAME, "heading__info").text.strip()
-        campeonato = driver.find_element(By.CLASS_NAME, "heading__title").find_element(By.CLASS_NAME, "heading__name").text.strip()
 
-        leagues = driver.find_element(By.CLASS_NAME, "container__fsbody").find_element(By.ID, "live-table").find_element(By.CLASS_NAME, "event--results").find_element(By.CLASS_NAME, "sportName.soccer")
+        heading = driver.find_element(By.CLASS_NAME, "heading__title") 
+        campeonato = heading.find_element(By.CLASS_NAME, "heading__name").text.strip() 
+        nacionalidade = driver.find_elements(By.CLASS_NAME, "breadcrumb__link")[1].text.strip() 
+
+        leagues = driver.find_element(By.CLASS_NAME, "container__fsbody").find_element(By.ID, "live-table") \
+                        .find_element(By.CLASS_NAME, "event--results") \
+                        .find_element(By.CLASS_NAME, "sportName.soccer") 
 
         elements = leagues.find_elements(By.CSS_SELECTOR, ".event__round, .event__match")
 
@@ -66,6 +71,7 @@ def extrair_dados(url_resultado, ano_atual):
                     data_final = datetime.strptime(data_completa, "%d.%m.%Y").strftime("%d/%m/%Y")
 
                     dados.append({
+                        "origem": nacionalidade.capitalize(),
                         "Campeonato": campeonato,
                         "Temporada": season,
                         "Rodada": current_round,
@@ -75,7 +81,7 @@ def extrair_dados(url_resultado, ano_atual):
                         "Time Visitante": away_team,
                         "Placar da Casa": home_score,
                         "Placar do Visitante": away_score,
-                        "id": f"{home_team}_vs_{away_team}_{data_final}".replace(" ", "")
+                        "id": f"{limpar_nome_arquivo(home_team)}_vs_{limpar_nome_arquivo(away_team)}_{data_final}".replace(" ", "")
                     })
 
                 except Exception as e:
@@ -86,53 +92,31 @@ def extrair_dados(url_resultado, ano_atual):
     finally:
         driver.quit()
 
-    return dados, campeonato, season
+    return dados, campeonato, season, nacionalidade
 
-# Carregar URLs do arquivo JSON
-with open("data/json/urls.json", "r", encoding="utf-8") as f:
-    urls = json.load(f)["urls"]
+with open("data/json/all_url.json", "r", encoding="utf-8") as f:
+    config = json.load(f)
+    urls = [url.replace("{endpoint}", "resultados") for url in config["urls"]]
 
-# Função de carga bruta (primeira carga)
-# def carga_bruta():
-#     ano_atual = datetime.now().year
-#     dados = []
-
-#     for url_resultado in urls:
-#         print(f"\nProcessando: {url_resultado}")
-#         dados_partida, campeonato, season = extrair_dados(url_resultado, ano_atual)
-#         dados.extend(dados_partida)
-
-#         nome_liga_formatado = limpar_nome_arquivo(campeonato)
-#         nome_arquivo = f'data/raw/results/{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
-#         os.makedirs(os.path.dirname(nome_arquivo), exist_ok=True)
-
-#         with open(nome_arquivo, "w", encoding="utf-8") as f:
-#             json.dump(dados, f, ensure_ascii=False, indent=4)
-
-#         print(f'Dados salvos em: {nome_arquivo}')
-
-# Função de carga incremental (apenas novos dados)
 def carga_incremental():
     ano_atual = datetime.now().year
     
     for url_resultado in urls:
         print(f"\nProcessando: {url_resultado}")
-        dados_partida, campeonato, season = extrair_dados(url_resultado, ano_atual)
+        dados_partida, campeonato, season, nacionalidade = extrair_dados(url_resultado, ano_atual)
         
         nome_liga_formatado = limpar_nome_arquivo(campeonato)
-        nome_arquivo = f'data/raw/results/{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
+        nome_origem_formatado = limpar_nome_arquivo(nacionalidade)
+        nome_arquivo = f'data/raw/results/{nome_origem_formatado.lower()}_{nome_liga_formatado}_season_{season.replace("/", "_")}.json'
 
-        # Lê os dados existentes se o arquivo existir
         dados_existentes = []
         if os.path.exists(nome_arquivo):
             with open(nome_arquivo, "r", encoding="utf-8") as f:
                 dados_existentes = json.load(f)
         
-        # Filtra apenas os dados novos
         ids_existentes = {d['id'] for d in dados_existentes}
         dados_novos = [d for d in dados_partida if d['id'] not in ids_existentes]
 
-        # Atualiza o arquivo apenas se houver dados novos
         if dados_novos:
             with open(nome_arquivo, "w", encoding="utf-8") as f:
                 json.dump(dados_existentes + dados_novos, f, ensure_ascii=False, indent=4)
