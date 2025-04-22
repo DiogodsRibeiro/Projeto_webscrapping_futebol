@@ -18,19 +18,32 @@ URL = "https://www.flashscore.com.br/jogo/futebol/UqMsyH9c/#/resumo-de-jogo/esta
 driver = webdriver.Chrome()
 driver.get(URL)
 containers = driver.find_element(By.CLASS_NAME, "container__livetable") \
-                  .find_element(By.CLASS_NAME, "section") 
+                  .find_elements(By.CLASS_NAME, "section") \
 
-home_value = containers.find_element(By.CLASS_NAME, "wcl-homeValue_-iJBW").text.strip()
-category = containers.find_element(By.CLASS_NAME, "wcl-category_7qsgP").text.strip()
-away_value = containers.find_element(By.CLASS_NAME, "wcl-awayValue_rQvxs").text.strip()
+dados = {}
+
+for section in containers:
+    elementos = section.find_elements(By.CLASS_NAME, "wcl-row_OFViZ")
+
+
+    for elemento in elementos:
+
+        home_value = elemento.find_element(By.CLASS_NAME, "wcl-homeValue_-iJBW").text.strip()
+        category = elemento.find_element(By.CLASS_NAME, "wcl-category_7qsgP").text.strip()
+        away_value = elemento.find_element(By.CLASS_NAME, "wcl-awayValue_rQvxs").text.strip()
+
+
+
+        if category not in dados:
+            dados[category] = {
+                "time_casa": home_value,
+                "time_visitante": away_value
+            }
+
+
+
+
+print(dados)
 
 driver.quit()
 
-dados = {
-    category: {
-        "time_casa": float(home_value),  
-        "time_visitante": float(away_value)  
-    }
-}
-
-print(dados)
