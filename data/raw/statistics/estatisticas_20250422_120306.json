@@ -1,0 +1,37 @@
+{
+  "url": "https://www.flashscore.com.br/jogo/futebol/UqMsyH9c/#/resumo-de-jogo/estatisticas-de-jogo/2",
+  "estatisticas": {
+    "gols_esperados": {
+      "time_casa": 1.91,
+      "time_visitante": 0.53
+    },
+    "posse_bola": {
+      "time_casa": 52,
+      "time_visitante": 48
+    },
+    "total_finalizacoes": {
+      "time_casa": 13,
+      "time_visitante": 4
+    },
+    "finalizacoes_no_alvo": {
+      "time_casa": 6,
+      "time_visitante": 1
+    },
+    "chances_claras": {
+      "time_casa": 4,
+      "time_visitante": 1
+    },
+    "escanteios": {
+      "time_casa": 3,
+      "time_visitante": 0
+    },
+    "passes": {
+      "time_casa": 91,
+      "time_visitante": 90
+    },
+    "cartoes_amarelos": {
+      "time_casa": 1,
+      "time_visitante": 1
+    }
+  }
+}

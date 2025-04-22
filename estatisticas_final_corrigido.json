@@ -1,0 +1,214 @@
+{
+  "PRINCIPAIS": [
+    {
+      "estatistica": "Gols esperados (xG)",
+      "time_casa": "1.91",
+      "time_visitante": "0.53"
+    },
+    {
+      "estatistica": "Posse de bola",
+      "time_casa": "52%",
+      "time_visitante": "48%"
+    },
+    {
+      "estatistica": "Total de finalizações",
+      "time_casa": "13",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Finalizações no alvo",
+      "time_casa": "6",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Chances claras",
+      "time_casa": "4",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Escanteios",
+      "time_casa": "3",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Passes",
+      "time_casa": "(248/272)",
+      "time_visitante": "90%"
+    },
+    {
+      "estatistica": "Cartões Amarelos",
+      "time_casa": "1",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Gols esperados (xG)",
+      "time_casa": "1.91",
+      "time_visitante": "0.53"
+    },
+    {
+      "estatistica": "xG das finalizações no alvo (xGOT)",
+      "time_casa": "1.46",
+      "time_visitante": "0.08"
+    },
+    {
+      "estatistica": "Total de finalizações",
+      "time_casa": "13",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Finalizações no alvo",
+      "time_casa": "6",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Finalizações para fora",
+      "time_casa": "5",
+      "time_visitante": "3"
+    },
+    {
+      "estatistica": "Finalizações bloqueadas",
+      "time_casa": "2",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Finalizações de dentro da área",
+      "time_casa": "7",
+      "time_visitante": "3"
+    },
+    {
+      "estatistica": "Finalizações de fora da área",
+      "time_casa": "6",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Bolas na trave",
+      "time_casa": "0",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Chances claras",
+      "time_casa": "4",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Escanteios",
+      "time_casa": "3",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Toques na área adversária",
+      "time_casa": "19",
+      "time_visitante": "11"
+    },
+    {
+      "estatistica": "Passes em profundidade",
+      "time_casa": "(1/2)",
+      "time_visitante": "100%"
+    },
+    {
+      "estatistica": "Impedimentos",
+      "time_casa": "0",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Faltas Cobradas",
+      "time_casa": "4",
+      "time_visitante": "5"
+    },
+    {
+      "estatistica": "Passes",
+      "time_casa": "(248/272)",
+      "time_visitante": "90%"
+    },
+    {
+      "estatistica": "Bolas longas",
+      "time_casa": "(12/16)",
+      "time_visitante": "40%"
+    },
+    {
+      "estatistica": "Passes no terço final",
+      "time_casa": "(87/105)",
+      "time_visitante": "85%"
+    },
+    {
+      "estatistica": "Cruzamentos",
+      "time_casa": "(3/13)",
+      "time_visitante": "29%"
+    },
+    {
+      "estatistica": "Assistências esperadas (xA)",
+      "time_casa": "0.47",
+      "time_visitante": "0.30"
+    },
+    {
+      "estatistica": "Faltas",
+      "time_casa": "5",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Desarmes",
+      "time_casa": "(2/9)",
+      "time_visitante": "83%"
+    },
+    {
+      "estatistica": "Duelos ganhos",
+      "time_casa": "20",
+      "time_visitante": "17"
+    },
+    {
+      "estatistica": "Bolas afastadas",
+      "time_casa": "6",
+      "time_visitante": "13"
+    },
+    {
+      "estatistica": "Interceptações",
+      "time_casa": "3",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Erros que levaram a chute",
+      "time_casa": "0",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Erros que levaram a gol",
+      "time_casa": "0",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Defesas do goleiro",
+      "time_casa": "0",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "xGOT enfrentado",
+      "time_casa": "0.08",
+      "time_visitante": "1.46"
+    },
+    {
+      "estatistica": "Gols evitados",
+      "time_casa": "-0.92",
+      "time_visitante": "-0.54"
+    },
+    {
+      "estatistica": "PUBLICIDADE",
+      "time_casa": "ODDS",
+      "time_visitante": "1X2"
+    },
+    {
+      "estatistica": "HANDICAP ASIÁTICO",
+      "time_casa": "ACIMA/ABAIXO",
+      "time_visitante": "AMBOS MARCAM"
+    },
+    {
+      "estatistica": "X",
+      "time_casa": "1",
+      "time_visitante": "2"
+    },
+    {
+      "estatistica": "Mostrar mais",
+      "time_casa": "23.80",
+      "time_visitante": "Transmissão Ao-Vivo"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "PRINCIPAIS": [
+    {
+      "estatistica": "FUTEBOLESPANHALALIGA - RODADA 31"
+    },
+    {
+      "estatistica": "Nova janela"
+    },
+    {
+      "estatistica": "Você pode clicar neste link para abrir a partida em uma janela separada."
+    },
+    {
+      "estatistica": "ENTENDI",
+      "time_casa": "14.04.2025 16:00"
+    },
+    {
+      "estatistica": "Atl. Madrid",
+      "time_casa": "4",
+      "time_visitante": "2"
+    },
+    {
+      "estatistica": "ENCERRADO"
+    },
+    {
+      "estatistica": "Valladolid"
+    },
+    {
+      "estatistica": "JOGO"
+    },
+    {
+      "estatistica": "ODDS"
+    },
+    {
+      "estatistica": "H2H"
+    },
+    {
+      "estatistica": "CLASSIFICAÇÕES"
+    },
+    {
+      "estatistica": "NOTÍCIAS"
+    },
+    {
+      "estatistica": "VIDEO"
+    },
+    {
+      "estatistica": "SUMÁRIO"
+    },
+    {
+      "estatistica": "ESTATÍSTICAS"
+    },
+    {
+      "estatistica": "FORMAÇÕES"
+    },
+    {
+      "estatistica": "RELATO"
+    },
+    {
+      "estatistica": "JOGO"
+    },
+    {
+      "estatistica": "1º TEMPO"
+    },
+    {
+      "estatistica": "2º TEMPO",
+      "time_casa": "1.91"
+    },
+    {
+      "estatistica": "Gols esperados (xG)",
+      "time_casa": "0.53",
+      "time_visitante": "52%"
+    },
+    {
+      "estatistica": "Posse de bola",
+      "time_casa": "48%",
+      "time_visitante": "13"
+    },
+    {
+      "estatistica": "Total de finalizações",
+      "time_casa": "4",
+      "time_visitante": "6"
+    },
+    {
+      "estatistica": "Finalizações no alvo",
+      "time_casa": "1",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Chances claras",
+      "time_casa": "1",
+      "time_visitante": "3"
+    },
+    {
+      "estatistica": "Escanteios",
+      "time_casa": "0",
+      "time_visitante": "(248/272)"
+    },
+    {
+      "estatistica": "Passes",
+      "time_casa": "90%",
+      "time_visitante": "1"
+    },
+    {
+      "estatistica": "Cartões Amarelos",
+      "time_casa": "1"
+    },
+    {
+      "estatistica": "FINALIZAÇÕES",
+      "time_casa": "1.91"
+    },
+    {
+      "estatistica": "Gols esperados (xG)",
+      "time_casa": "0.53",
+      "time_visitante": "1.46"
+    },
+    {
+      "estatistica": "xG das finalizações no alvo (xGOT)",
+      "time_casa": "0.08",
+      "time_visitante": "13"
+    },
+    {
+      "estatistica": "Total de finalizações",
+      "time_casa": "4",
+      "time_visitante": "6"
+    },
+    {
+      "estatistica": "Finalizações no alvo",
+      "time_casa": "1",
+      "time_visitante": "5"
+    },
+    {
+      "estatistica": "Finalizações para fora",
+      "time_casa": "3",
+      "time_visitante": "2"
+    },
+    {
+      "estatistica": "Finalizações bloqueadas",
+      "time_casa": "0",
+      "time_visitante": "7"
+    },
+    {
+      "estatistica": "Finalizações de dentro da área",
+      "time_casa": "3",
+      "time_visitante": "6"
+    },
+    {
+      "estatistica": "Finalizações de fora da área",
+      "time_casa": "1",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Bolas na trave",
+      "time_casa": "0"
+    },
+    {
+      "estatistica": "ATAQUE",
+      "time_casa": "4"
+    },
+    {
+      "estatistica": "Chances claras",
+      "time_casa": "1",
+      "time_visitante": "3"
+    },
+    {
+      "estatistica": "Escanteios",
+      "time_casa": "0",
+      "time_visitante": "19"
+    },
+    {
+      "estatistica": "Toques na área adversária",
+      "time_casa": "11",
+      "time_visitante": "(1/2)"
+    },
+    {
+      "estatistica": "Passes em profundidade",
+      "time_casa": "100%",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Impedimentos",
+      "time_casa": "0",
+      "time_visitante": "4"
+    },
+    {
+      "estatistica": "Faltas Cobradas",
+      "time_casa": "5"
+    },
+    {
+      "estatistica": "PASSES",
+      "time_casa": "91%",
+      "time_visitante": "(248/272)"
+    },
+    {
+      "estatistica": "Passes",
+      "time_casa": "90%",
+      "time_visitante": "(12/16)"
+    },
+    {
+      "estatistica": "Bolas longas",
+      "time_casa": "40%",
+      "time_visitante": "(87/105)"
+    },
+    {
+      "estatistica": "Passes no terço final",
+      "time_casa": "85%",
+      "time_visitante": "(3/13)"
+    },
+    {
+      "estatistica": "Cruzamentos",
+      "time_casa": "29%",
+      "time_visitante": "0.47"
+    },
+    {
+      "estatistica": "Assistências esperadas (xA)",
+      "time_casa": "0.30"
+    },
+    {
+      "estatistica": "DEFESA",
+      "time_casa": "5"
+    },
+    {
+      "estatistica": "Faltas",
+      "time_casa": "4",
+      "time_visitante": "(2/9)"
+    },
+    {
+      "estatistica": "Desarmes",
+      "time_casa": "83%",
+      "time_visitante": "20"
+    },
+    {
+      "estatistica": "Duelos ganhos",
+      "time_casa": "17",
+      "time_visitante": "6"
+    },
+    {
+      "estatistica": "Bolas afastadas",
+      "time_casa": "13",
+      "time_visitante": "3"
+    },
+    {
+      "estatistica": "Interceptações",
+      "time_casa": "4",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Erros que levaram a chute",
+      "time_casa": "0",
+      "time_visitante": "0"
+    },
+    {
+      "estatistica": "Erros que levaram a gol",
+      "time_casa": "0"
+    },
+    {
+      "estatistica": "GOLEIRO",
+      "time_casa": "0"
+    },
+    {
+      "estatistica": "Defesas do goleiro",
+      "time_casa": "4",
+      "time_visitante": "0.08"
+    },
+    {
+      "estatistica": "xGOT enfrentado",
+      "time_casa": "1.46",
+      "time_visitante": "-0.92"
+    },
+    {
+      "estatistica": "Gols evitados",
+      "time_casa": "-0.54"
+    },
+    {
+      "estatistica": "ODDS"
+    },
+    {
+      "estatistica": "PUBLICIDADE"
+    },
+    {
+      "estatistica": "1X2"
+    },
+    {
+      "estatistica": "ACIMA/ABAIXO"
+    },
+    {
+      "estatistica": "HANDICAP ASIÁTICO"
+    },
+    {
+      "estatistica": "AMBOS MARCAM",
+      "time_casa": "1"
+    },
+    {
+      "estatistica": "X",
+      "time_casa": "2",
+      "time_visitante": "23.80"
+    },
+    {
+      "estatistica": "Mostrar mais"
+    },
+    {
+      "estatistica": "Transmissão Ao-Vivo"
+    },
+    {
+      "estatistica": "Você pode assistir a Esportes Ao-Vivo em celular, Tablet e PC incluindo Futebol, Tênis e Basquete. Tudo que precisa é ter saldo na sua conta ou de ter feito uma aposta nas últimas 24 horas para se qualificar. São aplicadas regras de localização geográfica e de transmissão ao-vivo."
+    },
+    {
+      "estatistica": "Registre-se!"
+    }
+  ]
+}
