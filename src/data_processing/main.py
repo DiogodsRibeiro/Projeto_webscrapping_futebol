@@ -25,6 +25,8 @@ def main():
     carga_calendario()
 
     print(f'Atualizando a data da ultima atualizaçáo de cada campeonato na pasta {path_calender}')
+    get_last_update_calender()
+
 
     fim = time.time()
     duracao = fim - inicio

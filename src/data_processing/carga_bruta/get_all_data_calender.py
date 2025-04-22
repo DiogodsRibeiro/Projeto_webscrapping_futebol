@@ -123,5 +123,3 @@ def carga_calendario():
         driver.quit()
 
     print("\nExtração Finalizada")
-
-carga_calendario()

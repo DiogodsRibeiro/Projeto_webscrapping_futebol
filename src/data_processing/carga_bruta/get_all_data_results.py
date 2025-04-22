@@ -114,4 +114,4 @@ def carga_bruta():
         with open(nome_arquivo, "w", encoding="utf-8") as f:
             json.dump(dados_partida, f, ensure_ascii=False, indent=4)
 
-        print(f"{len(dados_partida)} jogos salvos em: {nome_arquivo}")
+        print(f"{len(dados_partida)} jogos salvos em: {nome_arquivo}")  
