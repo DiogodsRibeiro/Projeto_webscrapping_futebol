@@ -9,7 +9,7 @@ from src.data_processing.carga_bruta.get_all_data_results import carga_bruta
 from src.data_processing.carga_bruta.get_all_data_calender import carga_calendario
 from src.data_processing.last_update.calender import get_last_update_calender
 from src.data_processing.carga_bruta.get_all_data_statistics import coletar_estatisticas_partidas
-from src.data_processing.carga_bruta.get_all_urls import coletar_urls_estatisticas
+from src.data_processing.carga_bruta.get_all_urls_results import coletar_urls_estatisticas
 
 path_calender = "data/last_update"
 
@@ -44,5 +44,5 @@ def main():
     print(f"Processo finalizado em {minutos}m {segundos}s.")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
