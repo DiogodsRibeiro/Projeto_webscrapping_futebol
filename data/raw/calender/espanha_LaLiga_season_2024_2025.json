@@ -4,28 +4,6 @@
         "Campeonato": "LaLiga",
         "Temporada": "2024/2025",
         "Rodada": "RODADA 33",
-        "Data": "22/04/2025",
-        "Hora": "14:00",
-        "Time da Casa": "Valencia",
-        "Time Visitante": "Espanyol",
-        "id": "Valencia_vs_Espanyol_22/04/2025"
-    },
-    {
-        "origem": "Espanha",
-        "Campeonato": "LaLiga",
-        "Temporada": "2024/2025",
-        "Rodada": "RODADA 33",
-        "Data": "22/04/2025",
-        "Hora": "16:30",
-        "Time da Casa": "Barcelona",
-        "Time Visitante": "Mallorca",
-        "id": "Barcelona_vs_Mallorca_22/04/2025"
-    },
-    {
-        "origem": "Espanha",
-        "Campeonato": "LaLiga",
-        "Temporada": "2024/2025",
-        "Rodada": "RODADA 33",
         "Data": "23/04/2025",
         "Hora": "14:00",
         "Time da Casa": "Ath. Bilbao",

@@ -22,8 +22,7 @@ driver.get(URL)
 WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "container__livetable")))
 
 tabela_Principais = driver.find_element(By.CLASS_NAME, "container__livetable") \
-                .find_element(By.CLASS_NAME, "section") \
-                .find_element(By.CLASS_NAME, "wcl-homeValue_-iJBW") \
+                .find_element(By.CLASS_NAME, "section") 
                 
 
 

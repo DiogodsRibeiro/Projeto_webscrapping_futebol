@@ -17,6 +17,8 @@ import random
 OUTPUT = "data/raw/statistics/"
 
 URL = "https://www.flashscore.com.br/jogo/futebol/UqMsyH9c/#/resumo-de-jogo/estatisticas-de-jogo/2"
+URL2 = "https://www.flashscore.com.br/jogo/futebol/UqMsyH9c/#/resumo-de-jogo/estatisticas-de-jogo/2"
+URL3 = "https://www.flashscore.com.br/jogo/futebol/UqMsyH9c/#/resumo-de-jogo/estatisticas-de-jogo/2"
 
 driver = webdriver.Chrome()
 driver.get(URL)

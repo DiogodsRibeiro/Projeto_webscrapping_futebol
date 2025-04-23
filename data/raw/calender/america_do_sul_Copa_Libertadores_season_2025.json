@@ -5,61 +5,6 @@
         "Temporada": "2025",
         "Rodada": "RODADA 3",
         "Data": "22/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Alianza Lima (Per)",
-        "Time Visitante": "Talleres Córdoba (Arg)",
-        "id": "Alianza_Lima_Per_vs_Talleres_Cordoba_Arg_22/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "22/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Carabobo (Ven)",
-        "Time Visitante": "Universidad de Chile (Chi)",
-        "id": "Carabobo_Ven_vs_Universidad_de_Chile_Chi_22/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "22/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "LDU Quito (Ecu)",
-        "Time Visitante": "Flamengo (Bra)",
-        "id": "LDU_Quito_Ecu_vs_Flamengo_Bra_22/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "22/04/2025",
-        "Hora": "21:30",
-        "Time da Casa": "Colo Colo (Chi)",
-        "Time Visitante": "Racing Club (Arg)",
-        "id": "Colo_Colo_Chi_vs_Racing_Club_Arg_22/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "22/04/2025",
-        "Hora": "21:30",
-        "Time da Casa": "Internacional (Bra)",
-        "Time Visitante": "Nacional (Uru)",
-        "id": "Internacional_Bra_vs_Nacional_Uru_22/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "22/04/2025",
         "Hora": "23:00",
         "Time da Casa": "Barcelona (Ecu)",
         "Time Visitante": "Universitario (Per)",
@@ -97,6 +42,17 @@
         "Time da Casa": "Estudiantes (Arg)",
         "Time Visitante": "Botafogo (Bra)",
         "id": "Estudiantes_Arg_vs_Botafogo_Bra_23/04/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Libertadores",
+        "Temporada": "2025",
+        "Rodada": "RODADA 3",
+        "Data": "23/04/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Ind. del Valle (Ecu)",
+        "Time Visitante": "River Plate (Arg)",
+        "id": "Ind_del_Valle_Ecu_vs_River_Plate_Arg_23/04/2025"
     },
     {
         "origem": "América do sul",
@@ -163,17 +119,6 @@
         "Time da Casa": "Cerro Porteno (Par)",
         "Time Visitante": "Sporting Cristal (Per)",
         "id": "Cerro_Porteno_Par_vs_Sporting_Cristal_Per_24/04/2025"
-    },
-    {
-        "origem": "América do sul",
-        "Campeonato": "Copa Libertadores",
-        "Temporada": "2025",
-        "Rodada": "RODADA 3",
-        "Data": "24/04/2025",
-        "Hora": "21:30",
-        "Time da Casa": "Ind. del Valle (Ecu)",
-        "Time Visitante": "River Plate (Arg)",
-        "id": "Ind_del_Valle_Ecu_vs_River_Plate_Arg_24/04/2025"
     },
     {
         "origem": "América do sul",

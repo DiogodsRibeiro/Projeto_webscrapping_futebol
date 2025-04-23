@@ -1,58 +1,62 @@
 [
   {
     "chave":"Alemanha_2Bundesliga_2024\/2025",
-    "data_maxima":"18\/05\/2025"
+    "data_maxima":"20\/04\/2025"
   },
   {
     "chave":"Alemanha_Bundesliga_2024\/2025",
-    "data_maxima":"17\/05\/2025"
+    "data_maxima":"20\/04\/2025"
   },
   {
     "chave":"Américadosul_CopaLibertadores_2025",
-    "data_maxima":"29\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Arábiasaudita_LigaProfissionalSaudita_2024\/2025",
-    "data_maxima":"26\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Brasil_BrasileirãoBetano_2025",
-    "data_maxima":"27\/07\/2025"
+    "data_maxima":"21\/04\/2025"
   },
   {
     "chave":"Brasil_BrasileirãoSérieBSuperbet_2025",
-    "data_maxima":"05\/07\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"China_Superliga_2025",
-    "data_maxima":"23\/08\/2025"
+    "data_maxima":"20\/04\/2025"
   },
   {
     "chave":"Dinamarca_Superliga_2024\/2025",
-    "data_maxima":"25\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Espanha_LaLiga_2024\/2025",
-    "data_maxima":"25\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Europa_LigadosCampeões_2024\/2025",
-    "data_maxima":"07\/05\/2025"
+    "data_maxima":"16\/04\/2025"
   },
   {
     "chave":"França_Ligue1_2024\/2025",
-    "data_maxima":"17\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Inglaterra_Championship_2024\/2025",
-    "data_maxima":"03\/05\/2025"
+    "data_maxima":"21\/04\/2025"
   },
   {
     "chave":"Inglaterra_PremierLeague_2024\/2025",
-    "data_maxima":"25\/05\/2025"
+    "data_maxima":"22\/04\/2025"
   },
   {
     "chave":"Noruega_Eliteserien_2025",
-    "data_maxima":"10\/08\/2025"
+    "data_maxima":"21\/04\/2025"
+  },
+  {
+    "chave":"Suíça_Superliga_2024\/2025",
+    "data_maxima":"21\/04\/2025"
   }
 ]

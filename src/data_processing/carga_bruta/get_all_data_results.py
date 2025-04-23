@@ -12,7 +12,8 @@ from selenium.common.exceptions import NoSuchElementException
 
 OUTPUT = "data/raw/results/"
 
-# Função para limpar o nome do arquivo
+
+
 def limpar_nome_arquivo(nome):
     nome_sem_acentos = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
     nome_formatado = re.sub(r'[^a-zA-Z0-9\s_-]', '', nome_sem_acentos)
@@ -20,7 +21,7 @@ def limpar_nome_arquivo(nome):
     nome_formatado = nome_formatado.replace(' ', '_')
     return nome_formatado
 
-# Função para extrair os dados de uma URL
+
 def extrair_dados(url_resultado, ano_atual):
     dados = []
     driver = webdriver.Chrome()
@@ -29,14 +30,14 @@ def extrair_dados(url_resultado, ano_atual):
     try:
         WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "event--results")))
         time.sleep(10)
-
-        while True:
-            try:
-                mostrar_mais = driver.find_element(By.CLASS_NAME, "event__more")
-                driver.execute_script("arguments[0].click();", mostrar_mais)
-                time.sleep(8)
-            except NoSuchElementException:
-                break
+        
+        # while True:
+        #     try:
+        #         mostrar_mais = driver.find_element(By.CLASS_NAME, "event__more")
+        #         driver.execute_script("arguments[0].click();", mostrar_mais)
+        #         time.sleep(8)
+        #     except NoSuchElementException:
+        #         break
 
         season = driver.find_element(By.CLASS_NAME, "heading__info").text.strip()
 
@@ -67,7 +68,6 @@ def extrair_dados(url_resultado, ano_atual):
 
                     dia_mes = date_time_raw.split()[0].rstrip('.')
                     mes = int(dia_mes.split('.')[1])
-                    # Para carga bruta, ano considera a lógica de subtrair 1 dependendo do mês
                     ano = ano_atual - 1 if mes > datetime.now().month else ano_atual
                     data_completa = f"{dia_mes}.{ano}"
                     data_final = datetime.strptime(data_completa, "%d.%m.%Y").strftime("%d/%m/%Y")

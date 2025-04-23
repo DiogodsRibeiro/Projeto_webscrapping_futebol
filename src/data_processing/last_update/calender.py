@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from glob import glob
 
-INPUT = 'data/raw/calender'
+INPUT = 'data/raw/results'
 OUTPUT_DIR = 'data/last_update'
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, 'last_data_calender.json')
 
