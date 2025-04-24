@@ -144618,5 +144618,1453 @@
             "home_team": "2",
             "away_team": "7"
         }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Alaves_vs_Real_Sociedad_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "0.61",
+            "away_team": "0.85"
+        },
+        "Posse de bola": {
+            "home_team": "37%",
+            "away_team": "63%"
+        },
+        "Total de finalizações": {
+            "home_team": "10",
+            "away_team": "6"
+        },
+        "Finalizações no alvo": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Chances claras": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Escanteios": {
+            "home_team": "6",
+            "away_team": "6"
+        },
+        "Passes": {
+            "home_team": "63%\n(177/279)",
+            "away_team": "81%\n(385/475)"
+        },
+        "Cartões amarelos": {
+            "home_team": "4",
+            "away_team": "5"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "0.28",
+            "away_team": "0.00"
+        },
+        "Finalizações para fora": {
+            "home_team": "6",
+            "away_team": "4"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "3",
+            "away_team": "2"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "6",
+            "away_team": "3"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "4",
+            "away_team": "3"
+        },
+        "Bolas na trave": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "13",
+            "away_team": "18"
+        },
+        "Impedimentos": {
+            "home_team": "1",
+            "away_team": "3"
+        },
+        "Faltas Cobradas": {
+            "home_team": "17",
+            "away_team": "17"
+        },
+        "Bolas longas": {
+            "home_team": "41%\n(28/68)",
+            "away_team": "48%\n(30/62)"
+        },
+        "Passes no terço final": {
+            "home_team": "47%\n(50/106)",
+            "away_team": "60%\n(62/103)"
+        },
+        "Cruzamentos": {
+            "home_team": "21%\n(3/14)",
+            "away_team": "22%\n(4/18)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.84",
+            "away_team": "0.49"
+        },
+        "Faltas": {
+            "home_team": "17",
+            "away_team": "17"
+        },
+        "Desarmes": {
+            "home_team": "58%\n(15/26)",
+            "away_team": "80%\n(8/10)"
+        },
+        "Duelos ganhos": {
+            "home_team": "63",
+            "away_team": "60"
+        },
+        "Bolas afastadas": {
+            "home_team": "26",
+            "away_team": "31"
+        },
+        "Interceptações": {
+            "home_team": "7",
+            "away_team": "11"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "xGOT enfrentado": {
+            "home_team": "0.00",
+            "away_team": "0.28"
+        },
+        "Gols evitados": {
+            "home_team": "0.00",
+            "away_team": "-0.72"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Getafe_vs_Real_Madrid_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "2.32",
+            "away_team": "1.40"
+        },
+        "Posse de bola": {
+            "home_team": "37%",
+            "away_team": "63%"
+        },
+        "Total de finalizações": {
+            "home_team": "20",
+            "away_team": "14"
+        },
+        "Finalizações no alvo": {
+            "home_team": "6",
+            "away_team": "7"
+        },
+        "Chances claras": {
+            "home_team": "5",
+            "away_team": "2"
+        },
+        "Escanteios": {
+            "home_team": "4",
+            "away_team": "4"
+        },
+        "Passes": {
+            "home_team": "76%\n(232/306)",
+            "away_team": "85%\n(465/545)"
+        },
+        "Cartões amarelos": {
+            "home_team": "3",
+            "away_team": "1"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "1.75",
+            "away_team": "1.27"
+        },
+        "Finalizações para fora": {
+            "home_team": "8",
+            "away_team": "4"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "6",
+            "away_team": "3"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "15",
+            "away_team": "10"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "5",
+            "away_team": "4"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "30",
+            "away_team": "19"
+        },
+        "Impedimentos": {
+            "home_team": "1",
+            "away_team": "3"
+        },
+        "Faltas Cobradas": {
+            "home_team": "7",
+            "away_team": "15"
+        },
+        "Bolas longas": {
+            "home_team": "45%\n(30/67)",
+            "away_team": "46%\n(24/52)"
+        },
+        "Passes no terço final": {
+            "home_team": "61%\n(71/117)",
+            "away_team": "71%\n(75/106)"
+        },
+        "Cruzamentos": {
+            "home_team": "35%\n(6/17)",
+            "away_team": "0%\n(0/7)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "1.24",
+            "away_team": "0.71"
+        },
+        "Faltas": {
+            "home_team": "15",
+            "away_team": "7"
+        },
+        "Desarmes": {
+            "home_team": "62%\n(8/13)",
+            "away_team": "91%\n(10/11)"
+        },
+        "Duelos ganhos": {
+            "home_team": "39",
+            "away_team": "59"
+        },
+        "Bolas afastadas": {
+            "home_team": "10",
+            "away_team": "34"
+        },
+        "Interceptações": {
+            "home_team": "5",
+            "away_team": "8"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "6",
+            "away_team": "6"
+        },
+        "xGOT enfrentado": {
+            "home_team": "1.27",
+            "away_team": "1.75"
+        },
+        "Gols evitados": {
+            "home_team": "0.27",
+            "away_team": "1.75"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Ath_Bilbao_vs_Las_Palmas_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "2.02",
+            "away_team": "1.10"
+        },
+        "Posse de bola": {
+            "home_team": "49%",
+            "away_team": "51%"
+        },
+        "Total de finalizações": {
+            "home_team": "13",
+            "away_team": "10"
+        },
+        "Finalizações no alvo": {
+            "home_team": "4",
+            "away_team": "2"
+        },
+        "Chances claras": {
+            "home_team": "3",
+            "away_team": "1"
+        },
+        "Escanteios": {
+            "home_team": "3",
+            "away_team": "3"
+        },
+        "Passes": {
+            "home_team": "81%\n(349/433)",
+            "away_team": "81%\n(370/457)"
+        },
+        "Cartões amarelos": {
+            "home_team": "1",
+            "away_team": "3"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "1.29",
+            "away_team": "0.43"
+        },
+        "Finalizações para fora": {
+            "home_team": "6",
+            "away_team": "4"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "3",
+            "away_team": "4"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "9",
+            "away_team": "6"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "4",
+            "away_team": "4"
+        },
+        "Bolas na trave": {
+            "home_team": "1",
+            "away_team": "1"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "22",
+            "away_team": "11"
+        },
+        "Passes em profundidade": {
+            "home_team": "100%\n(1/1)",
+            "away_team": "100%\n(1/1)"
+        },
+        "Impedimentos": {
+            "home_team": "4",
+            "away_team": "2"
+        },
+        "Faltas Cobradas": {
+            "home_team": "9",
+            "away_team": "13"
+        },
+        "Bolas longas": {
+            "home_team": "47%\n(22/47)",
+            "away_team": "47%\n(21/45)"
+        },
+        "Passes no terço final": {
+            "home_team": "68%\n(90/133)",
+            "away_team": "64%\n(56/88)"
+        },
+        "Cruzamentos": {
+            "home_team": "36%\n(5/14)",
+            "away_team": "14%\n(2/14)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "1.20",
+            "away_team": "0.39"
+        },
+        "Faltas": {
+            "home_team": "13",
+            "away_team": "9"
+        },
+        "Desarmes": {
+            "home_team": "36%\n(4/11)",
+            "away_team": "67%\n(14/21)"
+        },
+        "Duelos ganhos": {
+            "home_team": "36",
+            "away_team": "50"
+        },
+        "Bolas afastadas": {
+            "home_team": "29",
+            "away_team": "20"
+        },
+        "Interceptações": {
+            "home_team": "9",
+            "away_team": "16"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "2",
+            "away_team": "3"
+        },
+        "xGOT enfrentado": {
+            "home_team": "0.43",
+            "away_team": "1.29"
+        },
+        "Gols evitados": {
+            "home_team": "0.43",
+            "away_team": "0.29"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Celta_de_Vigo_vs_Villarreal_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "3.05",
+            "away_team": "0.39"
+        },
+        "Posse de bola": {
+            "home_team": "61%",
+            "away_team": "39%"
+        },
+        "Total de finalizações": {
+            "home_team": "21",
+            "away_team": "4"
+        },
+        "Finalizações no alvo": {
+            "home_team": "9",
+            "away_team": "1"
+        },
+        "Chances claras": {
+            "home_team": "5",
+            "away_team": "1"
+        },
+        "Escanteios": {
+            "home_team": "6",
+            "away_team": "3"
+        },
+        "Passes": {
+            "home_team": "90%\n(549/612)",
+            "away_team": "82%\n(319/387)"
+        },
+        "Cartões amarelos": {
+            "home_team": "2",
+            "away_team": "1"
+        },
+        "Cartões vermelhos": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "2.58",
+            "away_team": "0.31"
+        },
+        "Finalizações para fora": {
+            "home_team": "7",
+            "away_team": "3"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "5",
+            "away_team": "0"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "13",
+            "away_team": "4"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "8",
+            "away_team": "0"
+        },
+        "Bolas na trave": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "43",
+            "away_team": "11"
+        },
+        "Impedimentos": {
+            "home_team": "2",
+            "away_team": "3"
+        },
+        "Faltas Cobradas": {
+            "home_team": "10",
+            "away_team": "16"
+        },
+        "Bolas longas": {
+            "home_team": "78%\n(36/46)",
+            "away_team": "43%\n(24/56)"
+        },
+        "Passes no terço final": {
+            "home_team": "85%\n(209/247)",
+            "away_team": "69%\n(50/72)"
+        },
+        "Cruzamentos": {
+            "home_team": "14%\n(3/22)",
+            "away_team": "19%\n(3/16)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "1.63",
+            "away_team": "0.33"
+        },
+        "Faltas": {
+            "home_team": "16",
+            "away_team": "10"
+        },
+        "Desarmes": {
+            "home_team": "62%\n(8/13)",
+            "away_team": "69%\n(11/16)"
+        },
+        "Duelos ganhos": {
+            "home_team": "33",
+            "away_team": "50"
+        },
+        "Bolas afastadas": {
+            "home_team": "10",
+            "away_team": "28"
+        },
+        "Interceptações": {
+            "home_team": "3",
+            "away_team": "8"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Defesas do goleiro": {
+            "home_team": "1",
+            "away_team": "6"
+        },
+        "xGOT enfrentado": {
+            "home_team": "0.31",
+            "away_team": "2.58"
+        },
+        "Gols evitados": {
+            "home_team": "0.31",
+            "away_team": "-0.42"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Arsenal_vs_Crystal_Palace_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "1.22",
+            "away_team": "1.75"
+        },
+        "Posse de bola": {
+            "home_team": "68%",
+            "away_team": "32%"
+        },
+        "Total de finalizações": {
+            "home_team": "12",
+            "away_team": "15"
+        },
+        "Finalizações no alvo": {
+            "home_team": "6",
+            "away_team": "4"
+        },
+        "Chances claras": {
+            "home_team": "4",
+            "away_team": "4"
+        },
+        "Escanteios": {
+            "home_team": "3",
+            "away_team": "6"
+        },
+        "Passes": {
+            "home_team": "93%\n(653/705)",
+            "away_team": "82%\n(266/325)"
+        },
+        "Cartões amarelos": {
+            "home_team": "1",
+            "away_team": "1"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "1.77",
+            "away_team": "1.75"
+        },
+        "Finalizações para fora": {
+            "home_team": "4",
+            "away_team": "6"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "2",
+            "away_team": "5"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "9",
+            "away_team": "11"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "3",
+            "away_team": "4"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Gols de cabeça": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "22",
+            "away_team": "25"
+        },
+        "Passes em profundidade": {
+            "home_team": "100%\n(1/1)",
+            "away_team": "0%\n(0/1)"
+        },
+        "Impedimentos": {
+            "home_team": "1",
+            "away_team": "1"
+        },
+        "Faltas Cobradas": {
+            "home_team": "6",
+            "away_team": "4"
+        },
+        "Bolas longas": {
+            "home_team": "44%\n(7/16)",
+            "away_team": "52%\n(26/50)"
+        },
+        "Passes no terço final": {
+            "home_team": "77%\n(109/141)",
+            "away_team": "71%\n(55/78)"
+        },
+        "Cruzamentos": {
+            "home_team": "31%\n(4/13)",
+            "away_team": "37%\n(7/19)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.76",
+            "away_team": "1.44"
+        },
+        "Faltas": {
+            "home_team": "4",
+            "away_team": "6"
+        },
+        "Desarmes": {
+            "home_team": "71%\n(5/7)",
+            "away_team": "56%\n(9/16)"
+        },
+        "Duelos ganhos": {
+            "home_team": "18",
+            "away_team": "35"
+        },
+        "Bolas afastadas": {
+            "home_team": "21",
+            "away_team": "18"
+        },
+        "Interceptações": {
+            "home_team": "8",
+            "away_team": "7"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "2",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "2",
+            "away_team": "4"
+        },
+        "xGOT enfrentado": {
+            "home_team": "1.75",
+            "away_team": "1.77"
+        },
+        "Gols evitados": {
+            "home_team": "-0.25",
+            "away_team": "-0.23"
+        }
+    },
+    {
+        "date": "22/04/2025",
+        "id": "Barcelona_Ecu_vs_Universitario_Per_22/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "1.27",
+            "away_team": "0.80"
+        },
+        "Posse de bola": {
+            "home_team": "67%",
+            "away_team": "33%"
+        },
+        "Total de finalizações": {
+            "home_team": "15",
+            "away_team": "12"
+        },
+        "Finalizações no alvo": {
+            "home_team": "1",
+            "away_team": "4"
+        },
+        "Chances claras": {
+            "home_team": "2",
+            "away_team": "2"
+        },
+        "Escanteios": {
+            "home_team": "7",
+            "away_team": "3"
+        },
+        "Passes": {
+            "home_team": "87%\n(475/546)",
+            "away_team": "72%\n(205/283)"
+        },
+        "Cartões amarelos": {
+            "home_team": "3",
+            "away_team": "5"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "0.15",
+            "away_team": "0.58"
+        },
+        "Finalizações para fora": {
+            "home_team": "7",
+            "away_team": "4"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "7",
+            "away_team": "4"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "8",
+            "away_team": "8"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "7",
+            "away_team": "4"
+        },
+        "Bolas na trave": {
+            "home_team": "2",
+            "away_team": "0"
+        },
+        "Gols de cabeça": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "26",
+            "away_team": "20"
+        },
+        "Passes em profundidade": {
+            "home_team": "50%\n(1/2)",
+            "away_team": "100%\n(1/1)"
+        },
+        "Impedimentos": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Faltas Cobradas": {
+            "home_team": "14",
+            "away_team": "10"
+        },
+        "Bolas longas": {
+            "home_team": "48%\n(12/25)",
+            "away_team": "51%\n(35/68)"
+        },
+        "Passes no terço final": {
+            "home_team": "76%\n(136/180)",
+            "away_team": "54%\n(39/72)"
+        },
+        "Cruzamentos": {
+            "home_team": "14%\n(5/37)",
+            "away_team": "43%\n(3/7)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.73",
+            "away_team": "0.37"
+        },
+        "Faltas": {
+            "home_team": "10",
+            "away_team": "14"
+        },
+        "Desarmes": {
+            "home_team": "47%\n(9/19)",
+            "away_team": "67%\n(18/27)"
+        },
+        "Duelos ganhos": {
+            "home_team": "52",
+            "away_team": "63"
+        },
+        "Bolas afastadas": {
+            "home_team": "10",
+            "away_team": "44"
+        },
+        "Interceptações": {
+            "home_team": "9",
+            "away_team": "10"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "3",
+            "away_team": "1"
+        },
+        "xGOT enfrentado": {
+            "home_team": "0.58",
+            "away_team": "0.15"
+        },
+        "Gols evitados": {
+            "home_team": "-0.42",
+            "away_team": "0.15"
+        }
+    },
+    {
+        "date": "22/04/2025",
+        "id": "Colo_Colo_Chi_vs_Racing_Club_Arg_22/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "0.43",
+            "away_team": "0.64"
+        },
+        "Posse de bola": {
+            "home_team": "45%",
+            "away_team": "55%"
+        },
+        "Total de finalizações": {
+            "home_team": "8",
+            "away_team": "10"
+        },
+        "Finalizações no alvo": {
+            "home_team": "1",
+            "away_team": "4"
+        },
+        "Chances claras": {
+            "home_team": "0",
+            "away_team": "2"
+        },
+        "Escanteios": {
+            "home_team": "3",
+            "away_team": "2"
+        },
+        "Passes": {
+            "home_team": "67%\n(198/296)",
+            "away_team": "76%\n(270/354)"
+        },
+        "Cartões amarelos": {
+            "home_team": "5",
+            "away_team": "2"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "0.16",
+            "away_team": "0.67"
+        },
+        "Finalizações para fora": {
+            "home_team": "4",
+            "away_team": "5"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "3",
+            "away_team": "1"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "4",
+            "away_team": "6"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "4",
+            "away_team": "4"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "12",
+            "away_team": "20"
+        },
+        "Impedimentos": {
+            "home_team": "3",
+            "away_team": "2"
+        },
+        "Faltas Cobradas": {
+            "home_team": "14",
+            "away_team": "9"
+        },
+        "Bolas longas": {
+            "home_team": "35%\n(18/52)",
+            "away_team": "56%\n(40/71)"
+        },
+        "Passes no terço final": {
+            "home_team": "51%\n(48/95)",
+            "away_team": "51%\n(62/121)"
+        },
+        "Cruzamentos": {
+            "home_team": "50%\n(5/10)",
+            "away_team": "17%\n(4/24)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.73",
+            "away_team": "0.52"
+        },
+        "Faltas": {
+            "home_team": "9",
+            "away_team": "14"
+        },
+        "Desarmes": {
+            "home_team": "29%\n(2/7)",
+            "away_team": "77%\n(10/13)"
+        },
+        "Duelos ganhos": {
+            "home_team": "56",
+            "away_team": "42"
+        },
+        "Bolas afastadas": {
+            "home_team": "41",
+            "away_team": "29"
+        },
+        "Interceptações": {
+            "home_team": "14",
+            "away_team": "17"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "3",
+            "away_team": "0"
+        },
+        "xGOT enfrentado": {
+            "home_team": "0.67",
+            "away_team": "0.16"
+        },
+        "Gols evitados": {
+            "home_team": "-0.33",
+            "away_team": "-0.84"
+        }
+    },
+    {
+        "date": "22/04/2025",
+        "id": "Internacional_Bra_vs_Nacional_Uru_22/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "2.76",
+            "away_team": "1.94"
+        },
+        "Posse de bola": {
+            "home_team": "72%",
+            "away_team": "28%"
+        },
+        "Total de finalizações": {
+            "home_team": "14",
+            "away_team": "9"
+        },
+        "Finalizações no alvo": {
+            "home_team": "6",
+            "away_team": "5"
+        },
+        "Chances claras": {
+            "home_team": "5",
+            "away_team": "3"
+        },
+        "Escanteios": {
+            "home_team": "5",
+            "away_team": "7"
+        },
+        "Passes": {
+            "home_team": "87%\n(409/470)",
+            "away_team": "59%\n(103/176)"
+        },
+        "Cartões amarelos": {
+            "home_team": "4",
+            "away_team": "0"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "2.07",
+            "away_team": "2.34"
+        },
+        "Finalizações para fora": {
+            "home_team": "7",
+            "away_team": "2"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "1",
+            "away_team": "2"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "12",
+            "away_team": "7"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "2",
+            "away_team": "2"
+        },
+        "Bolas na trave": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Gols de cabeça": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "36",
+            "away_team": "11"
+        },
+        "Impedimentos": {
+            "home_team": "5",
+            "away_team": "2"
+        },
+        "Faltas Cobradas": {
+            "home_team": "9",
+            "away_team": "13"
+        },
+        "Bolas longas": {
+            "home_team": "74%\n(35/47)",
+            "away_team": "31%\n(17/54)"
+        },
+        "Passes no terço final": {
+            "home_team": "78%\n(121/156)",
+            "away_team": "59%\n(34/58)"
+        },
+        "Cruzamentos": {
+            "home_team": "25%\n(7/28)",
+            "away_team": "15%\n(3/20)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "1.34",
+            "away_team": "0.55"
+        },
+        "Faltas": {
+            "home_team": "13",
+            "away_team": "9"
+        },
+        "Desarmes": {
+            "home_team": "65%\n(11/17)",
+            "away_team": "82%\n(14/17)"
+        },
+        "Duelos ganhos": {
+            "home_team": "46",
+            "away_team": "56"
+        },
+        "Bolas afastadas": {
+            "home_team": "21",
+            "away_team": "33"
+        },
+        "Interceptações": {
+            "home_team": "6",
+            "away_team": "9"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "2",
+            "away_team": "3"
+        },
+        "xGOT enfrentado": {
+            "home_team": "2.34",
+            "away_team": "2.07"
+        },
+        "Gols evitados": {
+            "home_team": "-0.66",
+            "away_team": "-0.93"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Al-Khaleej_vs_Al-Qadisiya_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "0.74",
+            "away_team": "2.47"
+        },
+        "Posse de bola": {
+            "home_team": "35%",
+            "away_team": "65%"
+        },
+        "Total de finalizações": {
+            "home_team": "9",
+            "away_team": "23"
+        },
+        "Finalizações no alvo": {
+            "home_team": "2",
+            "away_team": "8"
+        },
+        "Chances claras": {
+            "home_team": "0",
+            "away_team": "4"
+        },
+        "Escanteios": {
+            "home_team": "2",
+            "away_team": "13"
+        },
+        "Passes": {
+            "home_team": "79%\n(243/308)",
+            "away_team": "90%\n(492/547)"
+        },
+        "Cartões amarelos": {
+            "home_team": "4",
+            "away_team": "2"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "0.28",
+            "away_team": "2.71"
+        },
+        "Finalizações para fora": {
+            "home_team": "4",
+            "away_team": "11"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "3",
+            "away_team": "4"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "6",
+            "away_team": "15"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "3",
+            "away_team": "8"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Gols de cabeça": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "17",
+            "away_team": "32"
+        },
+        "Impedimentos": {
+            "home_team": "1",
+            "away_team": "0"
+        },
+        "Faltas Cobradas": {
+            "home_team": "19",
+            "away_team": "9"
+        },
+        "Bolas longas": {
+            "home_team": "45%\n(18/40)",
+            "away_team": "70%\n(31/44)"
+        },
+        "Passes no terço final": {
+            "home_team": "67%\n(40/60)",
+            "away_team": "84%\n(134/160)"
+        },
+        "Cruzamentos": {
+            "home_team": "22%\n(2/9)",
+            "away_team": "29%\n(12/41)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.61",
+            "away_team": "1.90"
+        },
+        "Faltas": {
+            "home_team": "9",
+            "away_team": "19"
+        },
+        "Desarmes": {
+            "home_team": "38%\n(8/21)",
+            "away_team": "67%\n(12/18)"
+        },
+        "Duelos ganhos": {
+            "home_team": "53",
+            "away_team": "54"
+        },
+        "Bolas afastadas": {
+            "home_team": "31",
+            "away_team": "9"
+        },
+        "Interceptações": {
+            "home_team": "9",
+            "away_team": "4"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Defesas do goleiro": {
+            "home_team": "7",
+            "away_team": "1"
+        },
+        "xGOT enfrentado": {
+            "home_team": "2.71",
+            "away_team": "0.28"
+        },
+        "Gols evitados": {
+            "home_team": "1.71",
+            "away_team": "-0.72"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Al-Kholood_vs_Al_Okhdood_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "0.42",
+            "away_team": "1.49"
+        },
+        "Posse de bola": {
+            "home_team": "54%",
+            "away_team": "46%"
+        },
+        "Total de finalizações": {
+            "home_team": "6",
+            "away_team": "14"
+        },
+        "Finalizações no alvo": {
+            "home_team": "3",
+            "away_team": "5"
+        },
+        "Chances claras": {
+            "home_team": "0",
+            "away_team": "2"
+        },
+        "Escanteios": {
+            "home_team": "2",
+            "away_team": "4"
+        },
+        "Passes": {
+            "home_team": "83%\n(302/363)",
+            "away_team": "83%\n(252/302)"
+        },
+        "Cartões amarelos": {
+            "home_team": "1",
+            "away_team": "3"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "0.37",
+            "away_team": "1.66"
+        },
+        "Finalizações para fora": {
+            "home_team": "1",
+            "away_team": "7"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "2",
+            "away_team": "2"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "4",
+            "away_team": "9"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "2",
+            "away_team": "5"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "12",
+            "away_team": "15"
+        },
+        "Impedimentos": {
+            "home_team": "0",
+            "away_team": "4"
+        },
+        "Faltas Cobradas": {
+            "home_team": "17",
+            "away_team": "10"
+        },
+        "Bolas longas": {
+            "home_team": "38%\n(15/40)",
+            "away_team": "55%\n(31/56)"
+        },
+        "Passes no terço final": {
+            "home_team": "54%\n(45/83)",
+            "away_team": "66%\n(51/77)"
+        },
+        "Cruzamentos": {
+            "home_team": "30%\n(3/10)",
+            "away_team": "33%\n(6/18)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "0.63",
+            "away_team": "1.84"
+        },
+        "Faltas": {
+            "home_team": "10",
+            "away_team": "17"
+        },
+        "Desarmes": {
+            "home_team": "58%\n(7/12)",
+            "away_team": "44%\n(11/25)"
+        },
+        "Duelos ganhos": {
+            "home_team": "42",
+            "away_team": "47"
+        },
+        "Bolas afastadas": {
+            "home_team": "20",
+            "away_team": "21"
+        },
+        "Interceptações": {
+            "home_team": "13",
+            "away_team": "12"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "4",
+            "away_team": "3"
+        },
+        "xGOT enfrentado": {
+            "home_team": "1.66",
+            "away_team": "0.37"
+        },
+        "Gols evitados": {
+            "home_team": "0.66",
+            "away_team": "0.37"
+        }
+    },
+    {
+        "date": "23/04/2025",
+        "id": "Al-Riyadh_vs_Al-Fateh_23/04/2025",
+        "Gols esperados (xG)": {
+            "home_team": "1.55",
+            "away_team": "1.22"
+        },
+        "Posse de bola": {
+            "home_team": "40%",
+            "away_team": "60%"
+        },
+        "Total de finalizações": {
+            "home_team": "12",
+            "away_team": "16"
+        },
+        "Finalizações no alvo": {
+            "home_team": "5",
+            "away_team": "7"
+        },
+        "Chances claras": {
+            "home_team": "3",
+            "away_team": "2"
+        },
+        "Escanteios": {
+            "home_team": "3",
+            "away_team": "8"
+        },
+        "Passes": {
+            "home_team": "76%\n(218/285)",
+            "away_team": "85%\n(375/439)"
+        },
+        "Cartões amarelos": {
+            "home_team": "2",
+            "away_team": "0"
+        },
+        "xG das finalizações no alvo (xGOT)": {
+            "home_team": "1.70",
+            "away_team": "1.25"
+        },
+        "Finalizações para fora": {
+            "home_team": "2",
+            "away_team": "2"
+        },
+        "Finalizações bloqueadas": {
+            "home_team": "5",
+            "away_team": "7"
+        },
+        "Finalizações de dentro da área": {
+            "home_team": "7",
+            "away_team": "10"
+        },
+        "Finalizações de fora da área": {
+            "home_team": "5",
+            "away_team": "6"
+        },
+        "Bolas na trave": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Gols de cabeça": {
+            "home_team": "0",
+            "away_team": "1"
+        },
+        "Toques dentro da área adversária": {
+            "home_team": "21",
+            "away_team": "32"
+        },
+        "Passes em profundidade": {
+            "home_team": "100%\n(1/1)",
+            "away_team": "100%\n(1/1)"
+        },
+        "Impedimentos": {
+            "home_team": "2",
+            "away_team": "3"
+        },
+        "Faltas Cobradas": {
+            "home_team": "10",
+            "away_team": "9"
+        },
+        "Bolas longas": {
+            "home_team": "35%\n(16/46)",
+            "away_team": "56%\n(29/52)"
+        },
+        "Passes no terço final": {
+            "home_team": "68%\n(77/113)",
+            "away_team": "65%\n(73/112)"
+        },
+        "Cruzamentos": {
+            "home_team": "14%\n(2/14)",
+            "away_team": "33%\n(9/27)"
+        },
+        "Assistências esperadas (xA)": {
+            "home_team": "1.17",
+            "away_team": "1.40"
+        },
+        "Faltas": {
+            "home_team": "9",
+            "away_team": "10"
+        },
+        "Desarmes": {
+            "home_team": "67%\n(10/15)",
+            "away_team": "56%\n(9/16)"
+        },
+        "Duelos ganhos": {
+            "home_team": "41",
+            "away_team": "46"
+        },
+        "Bolas afastadas": {
+            "home_team": "21",
+            "away_team": "18"
+        },
+        "Interceptações": {
+            "home_team": "6",
+            "away_team": "7"
+        },
+        "Erros que resultaram em finalização": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Erros que resultaram em gol": {
+            "home_team": "0",
+            "away_team": "0"
+        },
+        "Defesas do goleiro": {
+            "home_team": "5",
+            "away_team": "3"
+        },
+        "xGOT enfrentado": {
+            "home_team": "1.25",
+            "away_team": "1.70"
+        },
+        "Gols evitados": {
+            "home_team": "-0.75",
+            "away_team": "-0.30"
+        }
     }
 ]
