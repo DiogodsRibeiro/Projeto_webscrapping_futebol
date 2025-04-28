@@ -3,94 +3,6 @@
         "origem": "Noruega",
         "Campeonato": "Eliteserien",
         "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "09:30",
-        "Time da Casa": "Rosenborg",
-        "Time Visitante": "Molde",
-        "id": "Rosenborg_vs_Molde_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Bodo/Glimt",
-        "Time Visitante": "KFUM Oslo",
-        "id": "BodoGlimt_vs_KFUM_Oslo_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Brann",
-        "Time Visitante": "Bryne",
-        "id": "Brann_vs_Bryne_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Haugesund",
-        "Time Visitante": "Fredrikstad",
-        "id": "Haugesund_vs_Fredrikstad_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Kristiansund",
-        "Time Visitante": "Vålerenga",
-        "id": "Kristiansund_vs_Valerenga_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Sandefjord",
-        "Time Visitante": "HamKam",
-        "id": "Sandefjord_vs_HamKam_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "12:00",
-        "Time da Casa": "Sarpsborg 08",
-        "Time Visitante": "Strömsgodset",
-        "id": "Sarpsborg_08_vs_Stromsgodset_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
-        "Rodada": "RODADA 4",
-        "Data": "27/04/2025",
-        "Hora": "14:15",
-        "Time da Casa": "Viking",
-        "Time Visitante": "Tromsö",
-        "id": "Viking_vs_Tromso_27/04/2025"
-    },
-    {
-        "origem": "Noruega",
-        "Campeonato": "Eliteserien",
-        "Temporada": "2025",
         "Rodada": "RODADA 18",
         "Data": "30/04/2025",
         "Hora": "13:00",
@@ -1230,5 +1142,71 @@
         "Time da Casa": "Sandefjord",
         "Time Visitante": "Viking",
         "id": "Sandefjord_vs_Viking_10/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "HamKam",
+        "Time Visitante": "Bryne",
+        "id": "HamKam_vs_Bryne_17/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "KFUM Oslo",
+        "Time Visitante": "Molde",
+        "id": "KFUM_Oslo_vs_Molde_17/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Kristiansund",
+        "Time Visitante": "Sandefjord",
+        "id": "Kristiansund_vs_Sandefjord_17/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Strömsgodset",
+        "Time Visitante": "Bodo/Glimt",
+        "id": "Stromsgodset_vs_BodoGlimt_17/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Tromsö",
+        "Time Visitante": "Brann",
+        "id": "Tromso_vs_Brann_17/08/2025"
+    },
+    {
+        "origem": "Noruega",
+        "Campeonato": "Eliteserien",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "17/08/2025",
+        "Hora": "12:00",
+        "Time da Casa": "Vålerenga",
+        "Time Visitante": "Sarpsborg 08",
+        "id": "Valerenga_vs_Sarpsborg_08_17/08/2025"
     }
 ]

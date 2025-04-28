@@ -98,7 +98,7 @@ with open("data/json/all_url.json", "r", encoding="utf-8") as f:
     config = json.load(f)
     urls = [url.replace("{endpoint}", "resultados") for url in config["urls"]]
 
-def carga_incremental():
+def carga_incremental_results():
     ano_atual = datetime.now().year
     todos_os_dados = []
 
@@ -116,4 +116,6 @@ def carga_incremental():
 
     print(f"\nTotal de {len(todos_os_dados)} jogos salvos em: {nome_arquivo}")
 
-carga_incremental()
+
+if __name__ == "__main__":
+    carga_incremental_results()

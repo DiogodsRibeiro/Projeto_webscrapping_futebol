@@ -4,105 +4,6 @@
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 5",
-        "Data": "24/04/2025",
-        "Hora": "21:35",
-        "Time da Casa": "Novorizontino",
-        "Time Visitante": "Athletico-PR",
-        "id": "Novorizontino_vs_Athletico-PR_24/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "25/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Criciúma",
-        "Time Visitante": "Remo",
-        "id": "Criciuma_vs_Remo_25/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "25/04/2025",
-        "Hora": "21:00",
-        "Time da Casa": "Vila Nova",
-        "Time Visitante": "Chapecoense",
-        "id": "Vila_Nova_vs_Chapecoense_25/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "26/04/2025",
-        "Hora": "16:00",
-        "Time da Casa": "Coritiba",
-        "Time Visitante": "Operário",
-        "id": "Coritiba_vs_Operario_26/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "26/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Paysandu",
-        "Time Visitante": "CRB",
-        "id": "Paysandu_vs_CRB_26/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "26/04/2025",
-        "Hora": "20:00",
-        "Time da Casa": "Avaí",
-        "Time Visitante": "América-MG",
-        "id": "Avai_vs_America-MG_26/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "27/04/2025",
-        "Hora": "16:00",
-        "Time da Casa": "Athletic Club",
-        "Time Visitante": "Volta Redonda",
-        "id": "Athletic_Club_vs_Volta_Redonda_27/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "27/04/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Cuiabá",
-        "Time Visitante": "Ferroviária",
-        "id": "Cuiaba_vs_Ferroviaria_27/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "27/04/2025",
-        "Hora": "21:00",
-        "Time da Casa": "Amazonas",
-        "Time Visitante": "Atlético-GO",
-        "id": "Amazonas_vs_Atletico-GO_27/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 5",
         "Data": "28/04/2025",
         "Hora": "19:30",
         "Time da Casa": "Botafogo-SP",
@@ -279,11 +180,11 @@
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 7",
-        "Data": "12/05/2025",
-        "Hora": "19:00",
-        "Time da Casa": "Botafogo-SP",
-        "Time Visitante": "Athletic Club",
-        "id": "Botafogo-SP_vs_Athletic_Club_12/05/2025"
+        "Data": "11/05/2025",
+        "Hora": "18:30",
+        "Time da Casa": "Novorizontino",
+        "Time Visitante": "Ferroviária",
+        "id": "Novorizontino_vs_Ferroviaria_11/05/2025"
     },
     {
         "origem": "Brasil",
@@ -292,9 +193,9 @@
         "Rodada": "RODADA 7",
         "Data": "12/05/2025",
         "Hora": "19:00",
-        "Time da Casa": "Novorizontino",
-        "Time Visitante": "Ferroviária",
-        "id": "Novorizontino_vs_Ferroviaria_12/05/2025"
+        "Time da Casa": "Botafogo-SP",
+        "Time Visitante": "Athletic Club",
+        "id": "Botafogo-SP_vs_Athletic_Club_12/05/2025"
     },
     {
         "origem": "Brasil",
@@ -664,6 +565,17 @@
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
         "Rodada": "RODADA 11",
+        "Data": "05/06/2025",
+        "Hora": "19:30",
+        "Time da Casa": "Botafogo-SP",
+        "Time Visitante": "Coritiba",
+        "id": "Botafogo-SP_vs_Coritiba_05/06/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 11",
         "Data": "06/06/2025",
         "Hora": "19:00",
         "Time da Casa": "Novorizontino",
@@ -691,17 +603,6 @@
         "Time da Casa": "América-MG",
         "Time Visitante": "Ferroviária",
         "id": "America-MG_vs_Ferroviaria_07/06/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
-        "Rodada": "RODADA 11",
-        "Data": "07/06/2025",
-        "Hora": "18:30",
-        "Time da Casa": "Botafogo-SP",
-        "Time Visitante": "Coritiba",
-        "id": "Botafogo-SP_vs_Coritiba_07/06/2025"
     },
     {
         "origem": "Brasil",
@@ -1208,5 +1109,115 @@
         "Time da Casa": "Remo",
         "Time Visitante": "Cuiabá",
         "id": "Remo_vs_Cuiaba_05/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Athletic Club",
+        "Time Visitante": "Avaí",
+        "id": "Athletic_Club_vs_Avai_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Athletico-PR",
+        "Time Visitante": "Goiás",
+        "id": "Athletico-PR_vs_Goias_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Botafogo-SP",
+        "Time Visitante": "Volta Redonda",
+        "id": "Botafogo-SP_vs_Volta_Redonda_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Chapecoense",
+        "Time Visitante": "Remo",
+        "id": "Chapecoense_vs_Remo_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "CRB",
+        "Time Visitante": "Coritiba",
+        "id": "CRB_vs_Coritiba_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Criciúma",
+        "Time Visitante": "Ferroviária",
+        "id": "Criciuma_vs_Ferroviaria_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Cuiabá",
+        "Time Visitante": "Amazonas",
+        "id": "Cuiaba_vs_Amazonas_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Novorizontino",
+        "Time Visitante": "América-MG",
+        "id": "Novorizontino_vs_America-MG_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Paysandu",
+        "Time Visitante": "Atlético-GO",
+        "id": "Paysandu_vs_Atletico-GO_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 16",
+        "Data": "12/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Vila Nova",
+        "Time Visitante": "Operário",
+        "id": "Vila_Nova_vs_Operario_12/07/2025"
     }
 ]

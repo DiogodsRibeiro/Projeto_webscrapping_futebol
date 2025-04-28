@@ -79,5 +79,3 @@ def coletar_urls_estatisticas():
 
     print(f"\n✅ {len(all_stats_links)} links (últimos 2 dias incluindo hoje) salvos em: {PATH}")
     driver.quit()
-
-coletar_urls_estatisticas()

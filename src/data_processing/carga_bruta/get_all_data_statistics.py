@@ -111,5 +111,3 @@ def coletar_estatisticas_partidas():
 
     print(f"✅ {len(todos_os_jogos)} jogos salvos em: {PATH}")
     driver.quit()
-
-coletar_estatisticas_partidas()
