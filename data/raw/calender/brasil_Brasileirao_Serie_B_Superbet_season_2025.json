@@ -3,17 +3,6 @@
         "origem": "Brasil",
         "Campeonato": "Brasileirão Série B Superbet",
         "Temporada": "2025",
-        "Rodada": "RODADA 5",
-        "Data": "28/04/2025",
-        "Hora": "19:30",
-        "Time da Casa": "Botafogo-SP",
-        "Time Visitante": "Goiás",
-        "id": "Botafogo-SP_vs_Goias_28/04/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Série B Superbet",
-        "Temporada": "2025",
         "Rodada": "RODADA 6",
         "Data": "02/05/2025",
         "Hora": "21:35",
@@ -1219,5 +1208,115 @@
         "Time da Casa": "Vila Nova",
         "Time Visitante": "Operário",
         "id": "Vila_Nova_vs_Operario_12/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Amazonas",
+        "Time Visitante": "Botafogo-SP",
+        "id": "Amazonas_vs_Botafogo-SP_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "América-MG",
+        "Time Visitante": "Chapecoense",
+        "id": "America-MG_vs_Chapecoense_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Atlético-GO",
+        "Time Visitante": "Criciúma",
+        "id": "Atletico-GO_vs_Criciuma_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Avaí",
+        "Time Visitante": "Vila Nova",
+        "id": "Avai_vs_Vila_Nova_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Coritiba",
+        "Time Visitante": "Paysandu",
+        "id": "Coritiba_vs_Paysandu_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Ferroviária",
+        "Time Visitante": "Athletic Club",
+        "id": "Ferroviaria_vs_Athletic_Club_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Goiás",
+        "Time Visitante": "Cuiabá",
+        "id": "Goias_vs_Cuiaba_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Operário",
+        "Time Visitante": "CRB",
+        "id": "Operario_vs_CRB_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Remo",
+        "Time Visitante": "Novorizontino",
+        "id": "Remo_vs_Novorizontino_19/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Série B Superbet",
+        "Temporada": "2025",
+        "Rodada": "RODADA 17",
+        "Data": "19/07/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Volta Redonda",
+        "Time Visitante": "Athletico-PR",
+        "id": "Volta_Redonda_vs_Athletico-PR_19/07/2025"
     }
 ]

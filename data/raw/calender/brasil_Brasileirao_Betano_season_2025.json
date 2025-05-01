@@ -48,6 +48,17 @@
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 7",
+        "Data": "03/05/2025",
+        "Hora": "21:00",
+        "Time da Casa": "Bahia",
+        "Time Visitante": "Botafogo",
+        "id": "Bahia_vs_Botafogo_03/05/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 7",
         "Data": "04/05/2025",
         "Hora": "16:00",
         "Time da Casa": "Grêmio",
@@ -64,17 +75,6 @@
         "Time da Casa": "Vasco",
         "Time Visitante": "Palmeiras",
         "id": "Vasco_vs_Palmeiras_04/05/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Betano",
-        "Temporada": "2025",
-        "Rodada": "RODADA 7",
-        "Data": "04/05/2025",
-        "Hora": "18:30",
-        "Time da Casa": "Bahia",
-        "Time Visitante": "Botafogo",
-        "id": "Bahia_vs_Botafogo_04/05/2025"
     },
     {
         "origem": "Brasil",
@@ -433,17 +433,6 @@
         "Campeonato": "Brasileirão Betano",
         "Temporada": "2025",
         "Rodada": "RODADA 11",
-        "Data": "29/05/2025",
-        "Hora": "21:35",
-        "Time da Casa": "Santos",
-        "Time Visitante": "Botafogo",
-        "id": "Santos_vs_Botafogo_29/05/2025"
-    },
-    {
-        "origem": "Brasil",
-        "Campeonato": "Brasileirão Betano",
-        "Temporada": "2025",
-        "Rodada": "RODADA 11",
         "Data": "31/05/2025",
         "Hora": "16:00",
         "Time da Casa": "Bahia",
@@ -493,6 +482,17 @@
         "Time da Casa": "Juventude",
         "Time Visitante": "Grêmio",
         "id": "Juventude_vs_Gremio_01/06/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 11",
+        "Data": "01/06/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Santos",
+        "Time Visitante": "Botafogo",
+        "id": "Santos_vs_Botafogo_01/06/2025"
     },
     {
         "origem": "Brasil",
@@ -1208,5 +1208,115 @@
         "Time da Casa": "Sport",
         "Time Visitante": "Santos",
         "id": "Sport_vs_Santos_27/07/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Atlético-MG",
+        "Time Visitante": "Red Bull Bragantino",
+        "id": "Atletico-MG_vs_Red_Bull_Bragantino_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Botafogo",
+        "Time Visitante": "Cruzeiro",
+        "id": "Botafogo_vs_Cruzeiro_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Ceará",
+        "Time Visitante": "Flamengo",
+        "id": "Ceara_vs_Flamengo_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Corinthians",
+        "Time Visitante": "Fortaleza",
+        "id": "Corinthians_vs_Fortaleza_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Fluminense",
+        "Time Visitante": "Grêmio",
+        "id": "Fluminense_vs_Gremio_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Internacional",
+        "Time Visitante": "São Paulo",
+        "id": "Internacional_vs_Sao_Paulo_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Mirassol",
+        "Time Visitante": "Vasco",
+        "id": "Mirassol_vs_Vasco_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Santos",
+        "Time Visitante": "Juventude",
+        "id": "Santos_vs_Juventude_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Sport",
+        "Time Visitante": "Bahia",
+        "id": "Sport_vs_Bahia_03/08/2025"
+    },
+    {
+        "origem": "Brasil",
+        "Campeonato": "Brasileirão Betano",
+        "Temporada": "2025",
+        "Rodada": "RODADA 18",
+        "Data": "03/08/2025",
+        "Hora": "17:00",
+        "Time da Casa": "Vitória",
+        "Time Visitante": "Palmeiras",
+        "id": "Vitoria_vs_Palmeiras_03/08/2025"
     }
 ]

@@ -1,0 +1,46 @@
+[
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2024/2025",
+        "Rodada": "SEMIFINAIS",
+        "Data": "01/05/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Ath. Bilbao",
+        "Time Visitante": "Manchester Utd",
+        "id": "Ath_Bilbao_vs_Manchester_Utd_01/05/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2024/2025",
+        "Rodada": "SEMIFINAIS",
+        "Data": "01/05/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Tottenham",
+        "Time Visitante": "Bodo/Glimt",
+        "id": "Tottenham_vs_BodoGlimt_01/05/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2024/2025",
+        "Rodada": "SEMIFINAIS",
+        "Data": "08/05/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Bodo/Glimt",
+        "Time Visitante": "Tottenham",
+        "id": "BodoGlimt_vs_Tottenham_08/05/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2024/2025",
+        "Rodada": "SEMIFINAIS",
+        "Data": "08/05/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Manchester Utd",
+        "Time Visitante": "Ath. Bilbao",
+        "id": "Manchester_Utd_vs_Ath_Bilbao_08/05/2025"
+    }
+]

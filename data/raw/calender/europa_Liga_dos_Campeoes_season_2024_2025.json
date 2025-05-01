@@ -4,28 +4,6 @@
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
         "Rodada": "SEMIFINAIS",
-        "Data": "29/04/2025",
-        "Hora": "16:00",
-        "Time da Casa": "Arsenal",
-        "Time Visitante": "PSG",
-        "id": "Arsenal_vs_PSG_29/04/2025"
-    },
-    {
-        "origem": "Europa",
-        "Campeonato": "Liga dos Campeões",
-        "Temporada": "2024/2025",
-        "Rodada": "SEMIFINAIS",
-        "Data": "30/04/2025",
-        "Hora": "16:00",
-        "Time da Casa": "Barcelona",
-        "Time Visitante": "Inter",
-        "id": "Barcelona_vs_Inter_30/04/2025"
-    },
-    {
-        "origem": "Europa",
-        "Campeonato": "Liga dos Campeões",
-        "Temporada": "2024/2025",
-        "Rodada": "SEMIFINAIS",
         "Data": "06/05/2025",
         "Hora": "16:00",
         "Time da Casa": "Inter",
