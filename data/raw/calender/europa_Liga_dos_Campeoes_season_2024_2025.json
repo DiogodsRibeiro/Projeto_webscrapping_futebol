@@ -3,22 +3,11 @@
         "origem": "Europa",
         "Campeonato": "Liga dos Campeões",
         "Temporada": "2024/2025",
-        "Rodada": "SEMIFINAIS",
-        "Data": "06/05/2025",
-        "Hora": "16:00",
-        "Time da Casa": "Inter",
-        "Time Visitante": "Barcelona",
-        "id": "Inter_vs_Barcelona_06/05/2025"
-    },
-    {
-        "origem": "Europa",
-        "Campeonato": "Liga dos Campeões",
-        "Temporada": "2024/2025",
-        "Rodada": "SEMIFINAIS",
-        "Data": "07/05/2025",
+        "Rodada": "FINAL",
+        "Data": "31/05/2025",
         "Hora": "16:00",
         "Time da Casa": "PSG",
-        "Time Visitante": "Arsenal",
-        "id": "PSG_vs_Arsenal_07/05/2025"
+        "Time Visitante": "Inter",
+        "id": "PSG_vs_Inter_31/05/2025"
     }
 ]

@@ -22,7 +22,7 @@ def coletar_urls_estatisticas():
     all_stats_links = []
 
     hoje = datetime.now().date()
-    inicio_intervalo = hoje - timedelta(days=1)
+    inicio_intervalo = hoje - timedelta(days=2)
 
     for URL in urls_input:
         if not URL.startswith("http"):
@@ -77,5 +77,5 @@ def coletar_urls_estatisticas():
     with open(PATH, "w", encoding="utf-8") as f:
         json.dump(all_stats_links, f, ensure_ascii=False, indent=4)
 
-    print(f"\n✅ {len(all_stats_links)} links (últimos 2 dias incluindo hoje) salvos em: {PATH}")
+    print(f"\n✅ {len(all_stats_links)} links (últimos 3 dias incluindo hoje) salvos em: {PATH}")
     driver.quit()

@@ -115,7 +115,3 @@ def carga_incremental_results():
         json.dump(todos_os_dados, f, ensure_ascii=False, indent=4)
 
     print(f"\nTotal de {len(todos_os_dados)} jogos salvos em: {nome_arquivo}")
-
-
-if __name__ == "__main__":
-    carga_incremental_results()

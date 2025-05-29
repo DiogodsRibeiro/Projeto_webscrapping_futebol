@@ -1,0 +1,24 @@
+[
+    {
+        "origem": "Países baixos",
+        "Campeonato": "Eredivisie",
+        "Temporada": "2024/2025",
+        "Rodada": "FINAL",
+        "Data": "29/05/2025",
+        "Hora": "15:00",
+        "Time da Casa": "Telstar",
+        "Time Visitante": "Willem II",
+        "id": "Telstar_vs_Willem_II_29/05/2025"
+    },
+    {
+        "origem": "Países baixos",
+        "Campeonato": "Eredivisie",
+        "Temporada": "2024/2025",
+        "Rodada": "FINAL",
+        "Data": "01/06/2025",
+        "Hora": "13:00",
+        "Time da Casa": "Willem II",
+        "Time Visitante": "Telstar",
+        "id": "Willem_II_vs_Telstar_01/06/2025"
+    }
+]

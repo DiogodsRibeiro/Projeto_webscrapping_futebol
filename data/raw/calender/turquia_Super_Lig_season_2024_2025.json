@@ -1,0 +1,101 @@
+[
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "30/05/2025",
+        "Hora": "14:00",
+        "Time da Casa": "Antalyaspor",
+        "Time Visitante": "Trabzonspor",
+        "id": "Antalyaspor_vs_Trabzonspor_30/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "30/05/2025",
+        "Hora": "14:00",
+        "Time da Casa": "Galatasaray",
+        "Time Visitante": "Basaksehir",
+        "id": "Galatasaray_vs_Basaksehir_30/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "30/05/2025",
+        "Hora": "14:00",
+        "Time da Casa": "Kasimpasa",
+        "Time Visitante": "Goztepe",
+        "id": "Kasimpasa_vs_Goztepe_30/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "31/05/2025",
+        "Hora": "10:00",
+        "Time da Casa": "Fenerbahce",
+        "Time Visitante": "Konyaspor",
+        "id": "Fenerbahce_vs_Konyaspor_31/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "31/05/2025",
+        "Hora": "10:00",
+        "Time da Casa": "Rizespor",
+        "Time Visitante": "Hatayspor",
+        "id": "Rizespor_vs_Hatayspor_31/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "31/05/2025",
+        "Hora": "13:00",
+        "Time da Casa": "Adana Demirspor",
+        "Time Visitante": "Gaziantep",
+        "id": "Adana_Demirspor_vs_Gaziantep_31/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "31/05/2025",
+        "Hora": "13:00",
+        "Time da Casa": "Alanyaspor",
+        "Time Visitante": "Sivasspor",
+        "id": "Alanyaspor_vs_Sivasspor_31/05/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "01/06/2025",
+        "Hora": "13:00",
+        "Time da Casa": "Bodrumspor",
+        "Time Visitante": "Besiktas",
+        "id": "Bodrumspor_vs_Besiktas_01/06/2025"
+    },
+    {
+        "origem": "Turquia",
+        "Campeonato": "Super Lig",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "01/06/2025",
+        "Hora": "13:00",
+        "Time da Casa": "Samsunspor",
+        "Time Visitante": "Kayserispor",
+        "id": "Samsunspor_vs_Kayserispor_01/06/2025"
+    }
+]

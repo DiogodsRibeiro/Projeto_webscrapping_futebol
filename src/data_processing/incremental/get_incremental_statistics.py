@@ -19,7 +19,7 @@ def limpar_nome_arquivo(nome):
     nome_formatado = nome_formatado.replace(' ', '_')
     return nome_formatado
 
-def esperar_elemento(driver, by, value, espera=10):
+def esperar_elemento(driver, by, value, espera=2):
     return WebDriverWait(driver, espera).until(EC.presence_of_element_located((by, value)))
 
 def esperar_todos_elementos(driver, classes, espera=15):
@@ -28,7 +28,8 @@ def esperar_todos_elementos(driver, classes, espera=15):
 
 def coletar_estatisticas_partidas_incremental():
     with open(INPUT_URL, "r", encoding="utf-8") as f:
-        urls = json.load(f)
+            urls = json.load(f)
+        #   urls = ["https://www.flashscore.com.br/jogo/futebol/250et22l/#/resumo-de-jogo/estatisticas-de-jogo/0"]
 
     todos_os_jogos = []
     driver = webdriver.Chrome()

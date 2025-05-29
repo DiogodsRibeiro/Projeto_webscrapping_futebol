@@ -20,6 +20,14 @@
         "https://www.flashscore.com.br/futebol/portugal/liga-portugal/{endpoint}/",
         "https://www.flashscore.com.br/futebol/alemanha/dfb-pokal/{endpoint}/",
         "https://www.flashscore.com.br/futebol/inglaterra/copa-da-efl/{endpoint}/",
-        "https://www.flashscore.com.br/futebol/europa/liga-europa/{endpoint}/"
+        "https://www.flashscore.com.br/futebol/europa/liga-europa/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/suecia/allsvenskan/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/italia/serie-a/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/turquia/super-lig/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/america-do-sul/copa-sul-americana/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/argentina/torneo-betano/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/equador/liga-pro/{endpoint}/",
+        "https://www.flashscore.com.br/futebol/holanda/eredivisie/{endpoint}",
+        "https://www.flashscore.com.br/futebol/chile/liga-de-primera/{endpoint}"
     ]
 }

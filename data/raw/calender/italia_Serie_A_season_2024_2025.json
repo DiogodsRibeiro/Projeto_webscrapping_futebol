@@ -1,0 +1,68 @@
+[
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Atalanta",
+        "Time Visitante": "Parma",
+        "id": "Atalanta_vs_Parma_25/05/2025"
+    },
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Empoli",
+        "Time Visitante": "Verona",
+        "id": "Empoli_vs_Verona_25/05/2025"
+    },
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Lazio",
+        "Time Visitante": "Lecce",
+        "id": "Lazio_vs_Lecce_25/05/2025"
+    },
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Torino",
+        "Time Visitante": "AS Roma",
+        "id": "Torino_vs_AS_Roma_25/05/2025"
+    },
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Udinese",
+        "Time Visitante": "Fiorentina",
+        "id": "Udinese_vs_Fiorentina_25/05/2025"
+    },
+    {
+        "origem": "Itália",
+        "Campeonato": "Serie A",
+        "Temporada": "2024/2025",
+        "Rodada": "RODADA 38",
+        "Data": "25/05/2025",
+        "Hora": "15:45",
+        "Time da Casa": "Venezia",
+        "Time Visitante": "Juventus",
+        "id": "Venezia_vs_Juventus_25/05/2025"
+    }
+]

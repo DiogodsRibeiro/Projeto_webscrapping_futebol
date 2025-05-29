@@ -1,0 +1,134 @@
+[
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "19:00",
+        "Time da Casa": "Guarani (Par)",
+        "Time Visitante": "Boston River (Uru)",
+        "id": "Guarani_Par_vs_Boston_River_Uru_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "19:00",
+        "Time da Casa": "Independiente (Arg)",
+        "Time Visitante": "Nacional Potosí (Bol)",
+        "id": "Independiente_Arg_vs_Nacional_Potosi_Bol_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Cruzeiro (Bra)",
+        "Time Visitante": "Union Santa Fe (Arg)",
+        "id": "Cruzeiro_Bra_vs_Union_Santa_Fe_Arg_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Defensa y Justicia (Arg)",
+        "Time Visitante": "Cerro Largo (Uru)",
+        "id": "Defensa_y_Justicia_Arg_vs_Cerro_Largo_Uru_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Palestino (Chi)",
+        "Time Visitante": "Mushuc Runa (Ecu)",
+        "id": "Palestino_Chi_vs_Mushuc_Runa_Ecu_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "28/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Universidad Católica (Ecu)",
+        "Time Visitante": "Vitória (Bra)",
+        "id": "Universidad_Catolica_Ecu_vs_Vitoria_Bra_28/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "19:00",
+        "Time da Casa": "Godoy Cruz (Arg)",
+        "Time Visitante": "Grau (Per)",
+        "id": "Godoy_Cruz_Arg_vs_Grau_Per_29/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "19:00",
+        "Time da Casa": "Grêmio (Bra)",
+        "Time Visitante": "Sp. Luqueño (Par)",
+        "id": "Gremio_Bra_vs_Sp_Luqueno_Par_29/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Atlético-MG (Bra)",
+        "Time Visitante": "Cienciano (Per)",
+        "id": "Atletico-MG_Bra_vs_Cienciano_Per_29/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Caracas (Ven)",
+        "Time Visitante": "Deportes Iquique (Chi)",
+        "id": "Caracas_Ven_vs_Deportes_Iquique_Chi_29/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Fluminense (Bra)",
+        "Time Visitante": "Once Caldas (Col)",
+        "id": "Fluminense_Bra_vs_Once_Caldas_Col_29/05/2025"
+    },
+    {
+        "origem": "América do sul",
+        "Campeonato": "Copa Sul-Americana",
+        "Temporada": "2025",
+        "Rodada": "RODADA 6",
+        "Data": "29/05/2025",
+        "Hora": "21:30",
+        "Time da Casa": "Unión Española (Chi)",
+        "Time Visitante": "GV San Jose (Bol)",
+        "id": "Union_Espanola_Chi_vs_GV_San_Jose_Bol_29/05/2025"
+    }
+]
