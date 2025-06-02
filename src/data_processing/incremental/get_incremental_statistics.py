@@ -19,7 +19,7 @@ def limpar_nome_arquivo(nome):
     nome_formatado = nome_formatado.replace(' ', '_')
     return nome_formatado
 
-def esperar_elemento(driver, by, value, espera=2):
+def esperar_elemento(driver, by, value, espera=4):
     return WebDriverWait(driver, espera).until(EC.presence_of_element_located((by, value)))
 
 def esperar_todos_elementos(driver, classes, espera=15):

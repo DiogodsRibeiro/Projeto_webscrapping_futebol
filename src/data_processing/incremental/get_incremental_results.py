@@ -42,7 +42,7 @@ def extrair_dados(url_resultado, ano_atual):
 
         current_round = None
         hoje = datetime.now().date()
-        inicio_intervalo = hoje - timedelta(days=2)
+        inicio_intervalo = hoje - timedelta(days=4)
 
         for el in elements:
             class_list = el.get_attribute("class")
