@@ -7,8 +7,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-red.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-**Sistema automatizado para coleta de estatísticas de futebol em tempo real**
-
 [Instalação](#-instalação) • [Como Usar](#-como-usar) • [Estrutura](#-estrutura) • [Exemplos](#-exemplos)
 
 </div>
@@ -17,7 +15,7 @@
 
 ## Sobre o Projeto
 
-Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, incluindo:
+Este 'e um projeto de web scraping que coleta dados de futebol, incluindo:
 
 - 📅 **Calendário**: Próximas partidas de múltiplos campeonatos
 - 📊 **Resultados**: Placares e informações de jogos encerrados
