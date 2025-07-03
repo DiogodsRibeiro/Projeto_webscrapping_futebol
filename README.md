@@ -1,4 +1,4 @@
-# ⚽ Football Stats Scraper
+# Webscraping de partidas de futebol
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, incluindo:
 
@@ -23,7 +23,7 @@ Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, 
 - 📊 **Resultados**: Placares e informações de jogos encerrados
 - 📈 **Estatísticas**: Dados detalhados como posse de bola, chutes, cartões, etc.
 
-### 🎯 Principais Características
+### Principais Características
 
 - ✅ **Coleta Incremental**: Atualiza apenas dados novos, economizando tempo
 - ✅ **Multi-campeonatos**: Suporta 28+ ligas nacionais e internacionais
@@ -32,11 +32,11 @@ Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, 
 - ✅ **Tratamento de Erros**: Sistema robusto com retry automático
 - ✅ **Logs Detalhados**: Acompanhamento completo do processo
 
-## 🏆 Campeonatos que eu considerei para o projeto
+## Campeonatos que eu considerei para o projeto.
 
 <summary>No momento esses sao os campeonatos que eu trouxe</summary>
 
-### 🌎 América do Sul
+### América do Sul
 - 🇧🇷 Brasileirão Série A
 - 🇧🇷 Brasileirão Série B
 - 🇧🇷 Copa do Brasil
@@ -44,7 +44,7 @@ Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, 
 - 🏆 Copa Libertadores
 - 🏆 Copa Sul-Americana
 
-### 🌍 Europa
+### Europa
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Championship
 - 🇪🇸 La Liga
@@ -56,7 +56,7 @@ Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, 
 - 🏆 UEFA Champions League
 - 🏆 UEFA Europa League
 
-### 🌏 Outros
+### Outros
 - 🇸🇦 Liga Saudita
 - 🇨🇳 Super Liga Chinesa
 - 🇹🇷 Süper Lig
@@ -273,7 +273,5 @@ def esperar_elemento(driver, class_name, timeout=30):  # Aumentado para 30s
 <div align="center">
 
 Feito com ❤️ e ☕ por Diogo Ribeiro
-
-⭐ Se este projeto te ajudou, considere dar uma estrela!
 
 </div>
