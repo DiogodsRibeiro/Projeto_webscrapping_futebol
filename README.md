@@ -6,7 +6,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.0+-green.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-red.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **Sistema automatizado para coleta de estatísticas de futebol em tempo real**
 
@@ -33,9 +32,8 @@ Este 'e um projeto de web scraping que coleta automaticamente dados de futebol, 
 - ✅ **Tratamento de Erros**: Sistema robusto com retry automático
 - ✅ **Logs Detalhados**: Acompanhamento completo do processo
 
-## 🏆 Campeonatos Suportados
+## 🏆 Campeonatos que eu considerei para o projeto
 
-<details>
 <summary>No momento esses sao os campeonatos que eu trouxe</summary>
 
 ### 🌎 América do Sul
@@ -262,9 +260,6 @@ def esperar_elemento(driver, class_name, timeout=30):  # Aumentado para 30s
 4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
