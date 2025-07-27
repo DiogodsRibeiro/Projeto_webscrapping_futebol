@@ -2,9 +2,9 @@ import pandas as pd
 import json
 
 # Caminhos dos arquivos
-path_calendar = r'C:\Users\diogo\projects\projeto_pessoal\websrcapping_futebol\data\silver\calender_consolidado.json'
-path_results = r'C:\Users\diogo\projects\projeto_pessoal\websrcapping_futebol\data\silver\results_consolidado.json'
-path_stats = r'C:\Users\diogo\projects\projeto_pessoal\websrcapping_futebol\data\silver\statistics_results_consolidado.json'
+path_calendar = r'C:\Users\diogo\Documents\projects\projeto_pessoal\Webscrapping_futebol\data\silver\calender_consolidado.json'
+path_results = r'C:\Users\diogo\Documents\projects\projeto_pessoal\Webscrapping_futebol\data\silver\results_consolidado.json'
+path_stats = r'C:\Users\diogo\Documents\projects\projeto_pessoal\Webscrapping_futebol\data\silver\statistics_results_consolidado.json'
 
 def ConsolidarTabelas():
 
@@ -111,7 +111,7 @@ def ConsolidarTabelas():
     df_merged.drop(columns=cols_to_remove, inplace=True, errors='ignore')
 
     # Caminho de saída para o arquivo CSV
-    output_path = r'C:\Users\diogo\projects\projeto_pessoal\websrcapping_futebol\data\gold\match_consolidado.csv'
+    output_path = r'C:\Users\diogo\Documents\projects\projeto_pessoal\Webscrapping_futebol\data\gold\match_consolidado.csv'
 
     # Salvar o DataFrame como CSV
     df_merged.to_csv(output_path, index=False, encoding='utf-8')

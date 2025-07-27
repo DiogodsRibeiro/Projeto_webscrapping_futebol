@@ -1,0 +1,112 @@
+[
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "13:30",
+        "Time da Casa": "AEK Larnaca (Cyp)",
+        "Time Visitante": "Celje (Slo)",
+        "id": "AEK_Larnaca_Cyp_vs_Celje_Slo_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "14:00",
+        "Time da Casa": "Hacken (Swe)",
+        "Time Visitante": "Anderlecht (Bel)",
+        "id": "Hacken_Swe_vs_Anderlecht_Bel_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "14:30",
+        "Time da Casa": "CFR Cluj (Rou)",
+        "Time Visitante": "Lugano (Sui)",
+        "id": "CFR_Cluj_Rou_vs_Lugano_Sui_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "15:00",
+        "Time da Casa": "Shakhtar (Ukr)",
+        "Time Visitante": "Besiktas (Tur)",
+        "id": "Shakhtar_Ukr_vs_Besiktas_Tur_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "15:00",
+        "Time da Casa": "Utrecht (Ned)",
+        "Time Visitante": "S. Tiraspol (Mda)",
+        "id": "Utrecht_Ned_vs_S_Tiraspol_Mda_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Braga (Por)",
+        "Time Visitante": "Levski (Bul)",
+        "id": "Braga_Por_vs_Levski_Bul_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Hibernian (Sco)",
+        "Time Visitante": "Midtjylland (Den)",
+        "id": "Hibernian_Sco_vs_Midtjylland_Den_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "QUARTAS DE FINAL",
+        "Data": "31/07/2025",
+        "Hora": "16:00",
+        "Time da Casa": "Legia (Pol)",
+        "Time Visitante": "Ostrava (Cze)",
+        "id": "Legia_Pol_vs_Ostrava_Cze_31/07/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "SEMIFINAIS",
+        "Data": "07/08/2025",
+        "Hora": "14:00",
+        "Time da Casa": "PAOK (Gre)",
+        "Time Visitante": "Wolfsberger (Aut)",
+        "id": "PAOK_Gre_vs_Wolfsberger_Aut_07/08/2025"
+    },
+    {
+        "origem": "Europa",
+        "Campeonato": "Liga Europa",
+        "Temporada": "2025/2026",
+        "Rodada": "SEMIFINAIS",
+        "Data": "14/08/2025",
+        "Hora": "14:00",
+        "Time da Casa": "Wolfsberger (Aut)",
+        "Time Visitante": "PAOK (Gre)",
+        "id": "Wolfsberger_Aut_vs_PAOK_Gre_14/08/2025"
+    }
+]

@@ -22,7 +22,7 @@ def coletar_urls_estatisticas():
     all_stats_links = []
 
     hoje = datetime.now().date()
-    inicio_intervalo = hoje - timedelta(days=2)
+    inicio_intervalo = hoje - timedelta(days=3)
 
     for URL in urls_input:
         if not URL.startswith("http"):
@@ -79,3 +79,4 @@ def coletar_urls_estatisticas():
 
     print(f"\n✅ {len(all_stats_links)} links (últimos 3 dias incluindo hoje) salvos em: {PATH}")
     driver.quit()
+
