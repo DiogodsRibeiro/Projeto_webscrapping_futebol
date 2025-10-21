@@ -65,8 +65,18 @@ def extrair_dados(driver, url_resultado, ano_atual):
                     away_team = el.find_element(By.CLASS_NAME, "event__awayParticipant").text.strip()
 
                     dia_mes = date_time_raw.split()[0].rstrip('.')
-                    mes = int(dia_mes.split('.')[1])
-                    ano = ano_atual 
+                    
+                    # Lógica de ano direta aqui
+                    if '/' not in season:
+                        # Temporada simples (ex: "2025")
+                        anos_na_temporada = re.findall(r'\d{4}', season)
+                        ano = int(anos_na_temporada[0]) if anos_na_temporada else ano_atual
+                    else:
+                        # Temporada cruzada (ex: "2025/2026")
+                        data_hoje = datetime.now().date()
+                        data_teste = datetime.strptime(f"{dia_mes}.{data_hoje.year}", "%d.%m.%Y").date()
+                        ano = data_hoje.year + 1 if data_teste < data_hoje else data_hoje.year
+                    
                     data_completa = f"{dia_mes}.{ano}"
                     data_final = datetime.strptime(data_completa, "%d.%m.%Y").strftime("%d/%m/%Y")
 
@@ -93,7 +103,7 @@ def extrair_dados(driver, url_resultado, ano_atual):
 with open("data/json/all_url.json", "r", encoding="utf-8") as f:
     config = json.load(f)
     urls = [url.replace("{endpoint}", "calendario") for url in config["urls"]]
-
+    #urls = ["https://www.flashscore.com.br/futebol/espanha/laliga/calendario/"]
 def carga_calendario():
     ano_atual = datetime.now().year
 

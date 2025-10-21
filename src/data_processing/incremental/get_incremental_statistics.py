@@ -1,6 +1,7 @@
 import json
 import time
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import re
 from datetime import datetime
 import unicodedata
@@ -19,65 +20,120 @@ def limpar_nome_arquivo(nome):
     nome_formatado = nome_formatado.replace(' ', '_')
     return nome_formatado
 
-def esperar_elemento(driver, by, value, espera=4):
-    return WebDriverWait(driver, espera).until(EC.presence_of_element_located((by, value)))
-
 def esperar_todos_elementos(driver, classes, espera=15):
     for class_name in classes:
         WebDriverWait(driver, espera).until(EC.presence_of_element_located((By.CLASS_NAME, class_name)))
 
 def coletar_estatisticas_partidas_incremental():
     with open(INPUT_URL, "r", encoding="utf-8") as f:
-            urls = json.load(f)
-        #   urls = ["https://www.flashscore.com.br/jogo/futebol/250et22l/#/resumo-de-jogo/estatisticas-de-jogo/0"]
+        urls = json.load(f)
+
+    # Configurações para reduzir mensagens do Chrome
+    options = Options()
+    options.add_argument('--disable-logging')
+    options.add_argument('--log-level=3')
+    options.add_argument('--silent')
+    options.add_argument('--disable-gpu-logging')
+    options.add_argument('--disable-extensions-logging')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--no-sandbox')
 
     todos_os_jogos = []
-    driver = webdriver.Chrome()
+    urls_com_falha = []  # Lista para armazenar URLs que falharam
+    driver = webdriver.Chrome(options=options)
 
-    for url in urls:
-        while True:
+    for i, url in enumerate(urls):
+        max_tentativas = 3
+        tentativas = 0
+        sucesso = False
+        
+        print(f"🔄 Processando URL {i+1}/{len(urls)}: {url}")
+        
+        while tentativas < max_tentativas and not sucesso:
             try:
                 driver.get(url)
+                
+                # Espera todas as classes necessárias carregarem
                 esperar_todos_elementos(driver, [
-                    "wcl-row_OFViZ",
-                    "wcl-awayValue_rQvxs",
-                    "wcl-category_7qsgP",
-                    "wcl-homeValue_-iJBW"
+                    "wcl-row_2oCpS",
+                    "wcl-awayValue_Y-QR1",
+                    "wcl-category_6sT1J", 
+                    "wcl-homeValue_3Q-7P",
+                    "wcl-charts_UfKzp"
                 ], espera=15)
 
                 date = driver.find_element(By.CLASS_NAME, "duelParticipant__startTime").text.strip().split(" ")[0]
                 data_formatada = datetime.strptime(date, "%d.%m.%Y").strftime("%d/%m/%Y")
 
-                home_team = driver.find_elements(By.CLASS_NAME, "duelParticipant__home")[0].text.strip()
-                away_team = driver.find_elements(By.CLASS_NAME, "duelParticipant__away")[0].text.strip()
+                home_team = driver.find_element(By.CLASS_NAME, "duelParticipant__home").find_element(By.CSS_SELECTOR, ".participant__participantName a").text.strip()
+                away_team = driver.find_element(By.CLASS_NAME, "duelParticipant__away").find_element(By.CSS_SELECTOR, ".participant__participantName a").text.strip()
 
                 id_value = f"{limpar_nome_arquivo(home_team)}_vs_{limpar_nome_arquivo(away_team)}_{data_formatada}".replace(" ", "")
 
-                statistics = driver.find_element(By.CLASS_NAME, "container__livetable") \
-                                   .find_elements(By.CLASS_NAME, "section")
-
-                if not statistics:
-                    raise Exception("Nenhuma estatística encontrada.")
-
                 estatisticas = {}
-                for section in statistics:
-                    linhas = section.find_elements(By.CLASS_NAME, "wcl-row_OFViZ")
-                    for linha in linhas:
-                        try:
-                            home_value_el = esperar_elemento(linha, By.CLASS_NAME, "wcl-homeValue_-iJBW")
-                            category_el = esperar_elemento(linha, By.CLASS_NAME, "wcl-category_7qsgP")
-                            away_value_el = esperar_elemento(linha, By.CLASS_NAME, "wcl-awayValue_rQvxs")
+                
+                # Busca por linhas de estatísticas
+                row_selectors = ['.wcl-row_2oCpS', '.wcl-row_OFViZ']
+                linhas = []
+                
+                for row_selector in row_selectors:
+                    linhas = driver.find_elements(By.CSS_SELECTOR, row_selector)
+                    if linhas:
+                        break
+                
+                for linha in linhas:
+                    try:
+                        # Tenta diferentes combinações de classes para home/away/category
+                        home_selectors = [
+                            '.wcl-homeValue_3Q-7P', '.wcl-homeValue_-iJBW', 
+                            '[class*="homeValue"]'
+                        ]
+                        away_selectors = [
+                            '.wcl-awayValue_Y-QR1', '.wcl-awayValue_rQvxs',
+                            '[class*="awayValue"]'
+                        ]
+                        category_selectors = [
+                            '.wcl-category_6sT1J', '.wcl-category_7qsgP',
+                            '[class*="category"]'
+                        ]
+                        
+                        home_value, away_value, category = None, None, None
+                        
+                        # Busca home value
+                        for selector in home_selectors:
+                            try:
+                                home_value = linha.find_element(By.CSS_SELECTOR, selector).text.strip()
+                                break
+                            except:
+                                continue
+                        
+                        # Busca away value  
+                        for selector in away_selectors:
+                            try:
+                                away_value = linha.find_element(By.CSS_SELECTOR, selector).text.strip()
+                                break
+                            except:
+                                continue
+                        
+                        # Busca category
+                        for selector in category_selectors:
+                            try:
+                                category = linha.find_element(By.CSS_SELECTOR, selector).text.strip()
+                                break
+                            except:
+                                continue
 
-                            home_value = home_value_el.text.strip()
-                            category = category_el.text.strip()
-                            away_value = away_value_el.text.strip()
-
+                        if home_value and away_value and category:
                             estatisticas[category] = {
                                 "home_team": home_value,
                                 "away_team": away_value
                             }
-                        except Exception as e:
-                            print(f"Erro ao coletar linha de estatística em {id_value}: {e}")
+                            
+                    except Exception as e:
+                        continue
+
+                if not estatisticas:
+                    raise Exception("Nenhuma estatística encontrada.")
 
                 game_stats = {
                     "date": data_formatada,
@@ -87,28 +143,56 @@ def coletar_estatisticas_partidas_incremental():
 
                 todos_os_jogos.append(game_stats)
                 print(f"✅ Coletado: {id_value}")
+                sucesso = True  # Marca como sucesso para sair do loop
 
+                # Salva progresso a cada 100 jogos
                 if len(todos_os_jogos) % 100 == 0:
                     with open(PATH, "w", encoding="utf-8") as f:
                         json.dump(todos_os_jogos, f, ensure_ascii=False, indent=4)
                     print(f"💾 Progresso salvo com {len(todos_os_jogos)} jogos.")
 
-                break  
-
             except Exception as e:
-                print(f"❌ Erro ao processar {url}: {e}")
+                tentativas += 1
+                print(f"❌ Erro ao processar {url} (tentativa {tentativas}/{max_tentativas}): {e}")
+                
+                if tentativas >= max_tentativas:
+                    urls_com_falha.append({
+                        "url": url,
+                        "erro": str(e),
+                        "posicao": i + 1
+                    })
+                    print(f"🚫 URL falhou após {max_tentativas} tentativas: {url}")
+                    break  # Desiste desta URL e vai para a próxima
+                    
+                # Reinicia navegador para próxima tentativa
                 try:
                     driver.quit()
                 except:
                     pass
-                print("🔄 Reiniciando navegador em 10 segundos...")
+                print(f"🔄 Reiniciando navegador em 10 segundos... (tentativa {tentativas + 1}/{max_tentativas})")
                 time.sleep(10)
-                driver = webdriver.Chrome()  
+                driver = webdriver.Chrome(options=options)
 
-        time.sleep(3)
+        # Pausa entre URLs (apenas se houve sucesso)
+        if sucesso:
+            time.sleep(3)
 
+    # Salva resultado final
     with open(PATH, "w", encoding="utf-8") as f:
         json.dump(todos_os_jogos, f, ensure_ascii=False, indent=4)
 
-    print(f"{len(todos_os_jogos)} jogos salvos em: {PATH}")
+    # Salva URLs que falharam
+    if urls_com_falha:
+        falhas_path = f'{OUTPUT}urls_com_falha.json'
+        with open(falhas_path, "w", encoding="utf-8") as f:
+            json.dump(urls_com_falha, f, ensure_ascii=False, indent=4)
+        print(f"⚠️  {len(urls_com_falha)} URLs falharam e foram salvas em: {falhas_path}")
+
+    print(f"✅ {len(todos_os_jogos)} jogos coletados com sucesso!")
+    print(f"❌ {len(urls_com_falha)} URLs falharam")
+    print(f"📁 Dados salvos em: {PATH}")
+    
     driver.quit()
+
+# if __name__ == "__main__":
+#     coletar_estatisticas_partidas_incremental()

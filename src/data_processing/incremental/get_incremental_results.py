@@ -8,9 +8,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from datetime import datetime, timedelta
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 OUTPUT = "data/staging/results/"
+
+DIAS_RETROATIVOS = 4
 
 def limpar_nome_arquivo(nome):
     nome_sem_acentos = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
@@ -20,7 +22,7 @@ def limpar_nome_arquivo(nome):
     return nome_formatado
 
 
-def extrair_dados(url_resultado, ano_atual):
+def extrair_dados(url_resultado, ano_atual, carregar_todos=False):
     dados = []
     campeonato = ""
     season = "" 
@@ -32,7 +34,25 @@ def extrair_dados(url_resultado, ano_atual):
         WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "event--results")))
         time.sleep(10)
         
-        # Verificar se existe a mensagem "Jogo não encontrado" usando o data-testid
+        # Carregar todos os resultados se o parâmetro estiver ativado
+        if carregar_todos:
+            print("🔄 Carregando todos os resultados...")
+            while True:
+                try:
+                    mostrar_mais = WebDriverWait(driver, 10).until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, 'a[data-testid="wcl-buttonLink"]'))
+                    )
+                    driver.execute_script("arguments[0].click();", mostrar_mais)
+                    WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((
+                            By.CSS_SELECTOR,
+                            '[data-testid="wcl-scores-match"], [data-testid="wcl-scores-result-row"], .event__match'
+                        ))
+                    )
+                    time.sleep(1.5)
+                except (TimeoutException, NoSuchElementException):
+                    print("✅ Todos os resultados carregados ou botão sumiu.")
+                    break
         try:
             jogo_nao_encontrado = driver.find_elements(By.CSS_SELECTOR, '[data-testid="wcl-scores-simpleText-02"]')
             
@@ -64,7 +84,7 @@ def extrair_dados(url_resultado, ano_atual):
 
             current_round = None
             hoje = datetime.now().date()
-            inicio_intervalo = hoje - timedelta(days=3)
+            inicio_intervalo = hoje - timedelta(days=DIAS_RETROATIVOS)
 
             for el in elements:
                 class_list = el.get_attribute("class")
@@ -81,9 +101,19 @@ def extrair_dados(url_resultado, ano_atual):
                         away_score = el.find_element(By.CLASS_NAME, "event__score--away").text.strip()
 
                         dia_mes = date_time_raw.split()[0].rstrip('.')
-                        dia = int(dia_mes.split('.')[0])
-                        mes = int(dia_mes.split('.')[1])
-                        ano = ano_atual
+                        
+                        # Lógica de ano para resultados (inversa do calendário)
+                        if '/' not in season:
+                            # Temporada simples (ex: "2025")
+                            anos_na_temporada = re.findall(r'\d{4}', season)
+                            ano = int(anos_na_temporada[0]) if anos_na_temporada else ano_atual
+                        else:
+                            # Temporada cruzada (ex: "2025/2026")
+                            # Para resultados: se data > hoje, assume ano passado
+                            data_hoje = datetime.now().date()
+                            data_teste = datetime.strptime(f"{dia_mes}.{data_hoje.year}", "%d.%m.%Y").date()
+                            ano = data_hoje.year - 1 if data_teste > data_hoje else data_hoje.year
+                        
                         data_completa = f"{dia_mes}.{ano}"
                         data_datetime = datetime.strptime(data_completa, "%d.%m.%Y").date()
 
@@ -123,15 +153,16 @@ with open("data/json/all_url.json", "r", encoding="utf-8") as f:
     config = json.load(f)
     urls = [url.replace("{endpoint}", "resultados") for url in config["urls"]]
 
-def carga_incremental_results():
+def carga_incremental_results(carregar_todos=False):
     ano_atual = datetime.now().year
     todos_os_dados = []
 
+    print(f" Buscando jogos dos últimos {DIAS_RETROATIVOS} dias")
+
     for url_resultado in urls:
         print(f"\nProcessando: {url_resultado}")
-        dados_partida, campeonato, season, nacionalidade = extrair_dados(url_resultado, ano_atual)
+        dados_partida, campeonato, season, nacionalidade = extrair_dados(url_resultado, ano_atual, carregar_todos)
         
-        # Se retornou dados vazios por causa de "Jogo não encontrado", continua para o próximo
         if not dados_partida and campeonato == "":
             print("➡️  Pulando para o próximo link...")
             continue
@@ -146,3 +177,7 @@ def carga_incremental_results():
         json.dump(todos_os_dados, f, ensure_ascii=False, indent=4)
 
     print(f"\nTotal de {len(todos_os_dados)} jogos salvos em: {nome_arquivo}")
+
+# Exemplos de uso:
+#carga_incremental_results()                    # Extrai apenas últimos 7 dias
+#carga_incremental_results(carregar_todos=True)  # Clica em "Mostrar mais" e extrai tudo

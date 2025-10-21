@@ -22,7 +22,7 @@ def coletar_urls_estatisticas():
     all_stats_links = []
 
     hoje = datetime.now().date()
-    inicio_intervalo = hoje - timedelta(days=3)
+    inicio_intervalo = hoje - timedelta(days=4)
 
     for URL in urls_input:
         if not URL.startswith("http"):
@@ -66,7 +66,17 @@ def coletar_urls_estatisticas():
                         continue
 
                     link = match.find_element(By.CSS_SELECTOR, "a.eventRowLink").get_attribute("href")
-                    all_stats_links.append(link + "/estatisticas-de-jogo")
+                    #all_stats_links.append(link + "/estatisticas-de-jogo")
+                    #all_stats_links.append(link.rstrip("/") + "/resumo/estatisticas/0/")
+
+                    if "/resumo/" in link and "?mid=" in link:
+                        # substitui só a primeira ocorrência de "/resumo/"
+                        new_link = link.replace("/resumo/", "/resumo/estatisticas/0/", 1)
+                    else:
+                        # fallback, caso venha em outro formato
+                        new_link = link.rstrip("/") + "/resumo/estatisticas/0/"
+
+                    all_stats_links.append(new_link)
 
                 except Exception as e:
                     pass
